@@ -13,7 +13,7 @@ module.exports = function() {
   );
   console.log("Established conecction to MongoDB");
 
-  require("../app/models/pokemon.server.model");
+  require("../app/models/pokemon.server.models.js");
 
   return db;
 };

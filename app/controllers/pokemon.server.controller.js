@@ -1,47 +1,27 @@
+// var Pokemon = require("mongoose").model("Pokemon");
+const { json } = require("body-parser");
+const fs = require("fs");
+const path = require("path");
 
-var Pokemon = require("mongoose").model("Pokemon");
+module.exports.getPokemon = function(req, res, next) {
+  if (!req.params.pokeid || !req.params.obf) {
+    var err = new Error(
+      "No pokemon id or obfuscation level specified in path!"
+    );
+    next(err);
+  }
 
+  console.log("poke id:", req.params.pokeid, "obf lvl:", req.params.obf);
 
-// var multer = require("multer");
-// var storage = multer.diskStorage({
-//     destination: (req, file, cb) => {
-//         cb(null, 'uploads')
-//     },
-//     filename: (req, file, cb) => {
-//         cb(null, file.fieldname + '-' + Date.now())
-//     }
-// });
- 
-// var upload = multer({ storage: storage });
+  let rawdata = fs.readFileSync(path.resolve(__dirname + "/../../static/pokemon.json"));
+  let pokemon = JSON.parse(rawdata)
+  let thisPoke = pokemon[req.params.pokeid];
+  
+  res.status(200).send(JSON.stringify({
+    name_en: thisPoke['name_en'],
+    name_de: thisPoke['name_de'],
+    filename: thisPoke['filename' + req.params.obf]
+  }));
 
-module.exports.getPokemonInstructions = function(req, res, next) {
-  // Test uploading and retrieval of images
-  // Set up multer for storing uploaded files
-  //   res.status(200).send(JSON.stringify({ pika: "pikachu" }));
-};
-
-module.exports.getPokemonById = function(req, res, next, pokeid) {
-  Pokemon.findOne({ id: pokeid }, function(err, pokemon) {
-    if (err) return next(new Error("Failed to retrieve pokemon"));
-
-    // check query parameter for obfuscation lvl
-
-    res.json(pokemon);
-  });
-};
-
-module.export.setPokemonWithId = function(req, res, next, pokeid) {
-  // Test save of img
-  Pokemon.create({
-    id: pokeid,
-    name: req.pokemon.name,
-    img: {
-      data: fs.readFileSync(
-        path.join(path.resolve(__dirname + "/../../uploads/" + req.file.filename))
-      ),
-    },
-  }, (err, item) => {
-      if (err) console.log(err);
-      next();
-  });
+  
 };
