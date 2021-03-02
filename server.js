@@ -1,7 +1,7 @@
 var express=require('./config/express');
-// var mongoose=require('./config/mongoose');
+var mongoose=require('./config/mongoose');
 
-// var db=mongoose();
+var db=mongoose();
 
 var port = 3000;
 
