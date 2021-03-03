@@ -33,6 +33,9 @@ with open('pokedex_(Update.04.20).csv', newline='') as csvfile:
 
 y = json.dumps(outerObject)
 
+with open("result.json", "w") as outfile: 
+    outfile.write(y) 
+
 # the result is a JSON string:
 steps = [0,3, 4,5,6,8,12,22]
 
