@@ -18,6 +18,7 @@ with open('pokedex_(Update.04.20).csv', newline='') as csvfile:
 			#d["id"] = counter
 			d["name_en"] = row[2]
 			d["name_de"] = row[3]
+			d["filename"] = str(counter) + ".png"
 			d["filename1"] = id_generator() + ".png"
 			d["filename2"] = id_generator() + ".png"
 			d["filename3"] = id_generator() + ".png"
