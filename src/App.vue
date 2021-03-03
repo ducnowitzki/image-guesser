@@ -1,19 +1,45 @@
 <template>
   <div id="app">
-    <h1>Image Guesser</h1>
-    <p v-if="!imgSrc">Pls add an image</p>
+    <b-container align="center">
+      <h1>Pokémon Guesser</h1>
+      <p v-if="!imgSrc">WHERE IS IMAGE</p>
+      <b-img :src="imgSrc"></b-img>
+      <p>{{ name }}</p>
+    </b-container>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'App',
+  name: "App",
   data() {
     return {
-      imgSrc: null
+      name: '',
+      filename: ''
     }
+  },
+  computed: {
+    imgSrc() {
+      return 'http://localhost:3000/' + this.filename;
+    }
+  },
+  methods: {
+    async fetchPokemon(id, obf) {
+      const response = await fetch(`http://localhost:3000/pokemon/${id}/${obf}`);
+      const responseData = await response.json();
+      if (!response.ok) {
+        const error = new Error(responseData.message || 'Failed to fetch!');
+        throw error;
+      }
+      this.name = responseData['name_en'];
+      this.filename = responseData['filename'];
+
+    }
+  },
+  created() {
+    this.fetchPokemon(1, 1);
   }
-}
+};
 </script>
 
 <style>
