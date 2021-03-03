@@ -2,6 +2,11 @@ var express = require("express");
 var path = require("path");
 
 module.exports = function() {
+  var corsProxy = function(req, res, next) {
+    res.header('Access-Control-Allow-Origin', '*');
+    next();
+  };
+
   var logger = function(req, res, next) {
     console.log(`
         - Method: ${req.method}
@@ -13,6 +18,7 @@ module.exports = function() {
   };
 
   var app = express();
+  app.use(corsProxy);
   app.use(logger);
   app.use(express.static("static"));
 
