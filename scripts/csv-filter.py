@@ -25,7 +25,7 @@ with open('pokedex_(Update.04.20).csv', newline='') as csvfile:
 			outerObject[str(counter)] = d
 			counter += 1
 		if(row[1] == "151"):
-			break;
+			break
 
 y = json.dumps(outerObject)
 

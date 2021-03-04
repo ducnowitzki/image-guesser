@@ -1,11 +1,16 @@
 <template>
   <div id="app">
     <b-container align="center">
-      <h1>Pokémon Guesser</h1>
-      <p v-if="!imgSrc">WHERE IS IMAGE</p>
-      <b-img :src="imgSrc"></b-img>
-      <b-form-input v-model="guess" placeholder="Guess the pokémon"></b-form-input>
-      <b-button @click="fetchRandomPokemon">New Pokémon</b-button>
+      <h1>Who's that Pokémon?</h1>
+      <p>Score: {{ score }}</p>
+      <b-img v-if="imgSrc" :src="imgSrc"></b-img>
+      <p v-else>WHERE IS IMAGE</p>
+      <b-form-input
+        v-model="guess"
+        placeholder="Guess the Pokémon"
+      ></b-form-input>
+      <b-button @click="fetchPokemon">New Pokémon</b-button>
+      <p v-if="rightGuess">You did it!</p>
     </b-container>
   </div>
 </template>
@@ -19,44 +24,78 @@ export default {
       guess: "",
       filename: "",
       obf: 1,
+      startTime: null,
+      score: 0,
     };
   },
   computed: {
+    // more computed toLowerCase
     imgSrc() {
       return "http://localhost:3000/" + this.filename;
     },
-
+    rightGuess() {
+      return this.name.toLowerCase() === this.guess.toLowerCase();
+    },
+  },
+  watch: {
+    rightGuess: function() {
+      if (this.rightGuess) {
+        const finishTime = Date.now();
+        this.score += Math.max(14000 - (finishTime - this.startTime), 0);
+      }
+    },
   },
   methods: {
-    async fetchPokemon(id, obf) {
-      const response = await fetch(
-        `http://localhost:3000/pokemon/${id}/${obf}`
-      );
-      const responseData = await response.json();
-      if (!response.ok) {
-        const error = new Error(responseData.message || "Failed to fetch!");
-        throw error;
-      }
-      console.log("neu");
-      this.name = responseData["name_en"];
-      this.filename = responseData["filename"];
-    },
-    fetchRandomPokemon() {
-      this.obf = 6;
+    *fetchPokemon() {
+      this.startTime = Date.now();
+      this.obf = 1;
       const id = Math.floor(Math.random() * 151) + 1;
-      this.fetchPokemon(id, this.obf);
+
+      for (let i = this.obf; i < 8; i++) {
+        this.obf = i;
+        const response = yield fetch(
+          `http://localhost:3000/pokemon/${id}/${this.obf}`
+        );
+        const responseData = yield response.json();
+
+        if (!response.ok) {
+          const error = new Error(responseData.message || "Failed to fetch!");
+          throw error;
+        }
+
+        this.name = responseData["name_de"].toLowerCase();
+        this.filename = responseData["filename"].toLowerCase();
+
+        yield new Promise((resolve) => setTimeout(resolve, 2000));
+      }
     },
-    sleep(milliseconds) {
-      const date = Date.now();
-      let currentDate = null;
-      do {
-        currentDate = Date.now();
-      } while (currentDate - date < milliseconds);
+    makeSingle(generator) {
+      let globalNonce;
+      return async function(...args) {
+        const localNonce = (globalNonce = new Object());
+
+        const iter = generator(...args);
+        let resumeValue;
+        for (;;) {
+          const n = iter.next(resumeValue);
+          if (n.done) {
+            return n.value; // final return value of passed generator
+          }
+
+          // whatever the generator yielded, _now_ run await on it
+          resumeValue = await n.value;
+          if (localNonce !== globalNonce) {
+            return; // a new call was made
+          }
+          // next loop, we give resumeValue back to the generator
+        }
+      };
     },
   },
 
   created() {
-    this.fetchRandomPokemon();
+    this.fetchPokemon = this.makeSingle(this.fetchPokemon);
+    this.fetchPokemon();
   },
 };
 </script>

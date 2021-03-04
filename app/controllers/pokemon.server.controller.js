@@ -10,18 +10,28 @@ module.exports.getPokemon = function(req, res, next) {
     );
     next(err);
   }
-
+  
   console.log("poke id:", req.params.pokeid, "obf lvl:", req.params.obf);
 
   let rawdata = fs.readFileSync(path.resolve(__dirname + "/../../scripts/pokemon.json"));
   let pokemon = JSON.parse(rawdata)
   let thisPoke = pokemon[req.params.pokeid];
   
-  res.status(200).send(JSON.stringify({
-    name_en: thisPoke['name_en'],
-    name_de: thisPoke['name_de'],
-    filename: thisPoke['filename' + req.params.obf]
-  }));
+  if (req.params.obf === '8') {
+    res.status(200).send(JSON.stringify({
+      name_en: thisPoke['name_en'],
+      name_de: thisPoke['name_de'],
+      filename: 'obf/' + thisPoke['filename']
+    }));
+  } else {
+    res.status(200).send(JSON.stringify({
+      name_en: thisPoke['name_en'],
+      name_de: thisPoke['name_de'],
+      filename: 'obf/' + thisPoke['filename' + req.params.obf]
+    }));
+  }
+
+  
 
   
 };
