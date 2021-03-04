@@ -13,7 +13,7 @@ module.exports.getPokemon = function(req, res, next) {
   
   console.log("poke id:", req.params.pokeid, "obf lvl:", req.params.obf);
 
-  let rawdata = fs.readFileSync(path.resolve(__dirname + "/../../scripts/pokemon.json"));
+  let rawdata = fs.readFileSync(path.resolve(__dirname + "/../../dataprocessing/pokemon.json"));
   let pokemon = JSON.parse(rawdata)
   let thisPoke = pokemon[req.params.pokeid];
   
