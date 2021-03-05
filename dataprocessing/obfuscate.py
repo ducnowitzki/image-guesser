@@ -4,7 +4,6 @@ outerObject = {}
 with open('pokemon.json') as f:
   outerObject = json.load(f)
 
-print(outerObject['1'])
 # the result is a JSON string:
 steps = [0,2, 4,6,8,10,12,24,32]
 
