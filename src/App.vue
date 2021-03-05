@@ -64,7 +64,7 @@ export default {
         }
 
         this.name = responseData["name_de"].toLowerCase();
-        this.filename = responseData["filename"].toLowerCase();
+        this.filename = responseData["filename"];
 
         yield new Promise((resolve) => setTimeout(resolve, 2000));
       }
