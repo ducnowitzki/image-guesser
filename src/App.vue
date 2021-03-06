@@ -2,15 +2,18 @@
   <div id="app">
     <b-container align="center">
       <h1>Who's that Pokémon?</h1>
-      <p>Score: {{ score }}</p>
-      <b-img v-if="imgSrc" :src="imgSrc"></b-img>
+      <p>Streak: {{ streak }}</p>
+      <b-img class="my-3" v-if="imgSrc" :src="imgSrc"></b-img>
       <p v-else>WHERE IS IMAGE</p>
       <b-form-input
+        id="input"
+        class="my-2"
         v-model="guess"
         placeholder="Guess the Pokémon"
       ></b-form-input>
-      <b-button @click="fetchPokemon">New Pokémon</b-button>
-      <p v-if="rightGuess">You did it!</p>
+      <b-button class="my-2" @click="fetchPokemon">New Pokémon</b-button>
+      <p v-if="guessedRight">You did it!</p>
+      <p v-if="failed">Not in time...</p>
     </b-container>
   </div>
 </template>
@@ -20,12 +23,14 @@ export default {
   name: "App",
   data() {
     return {
-      name: "",
       guess: "",
-      filename: "",
+      pokeid: null,
       obf: 1,
+      pokenames: null,
+      filename: "",
       startTime: null,
-      score: 0,
+      streak: 0,
+      userGuessedRight: false,
     };
   },
   computed: {
@@ -33,28 +38,35 @@ export default {
     imgSrc() {
       return "http://localhost:3000/" + this.filename;
     },
-    rightGuess() {
-      return this.name.toLowerCase() === this.guess.toLowerCase();
+    guessedRight() {
+      return this.pokenames
+        ? this.pokenames.has(this.guess.toLowerCase())
+        : false;
+    },
+    failed() {
+      return this.obf >= 9 ? true : false;
     },
   },
   watch: {
-    rightGuess: function() {
-      if (this.rightGuess) {
-        const finishTime = Date.now();
-        this.score += Math.max(14000 - (finishTime - this.startTime), 0);
+    guessedRight: function() {
+      if (this.guessedRight) {
+        //const finishTime = Date.now();
+        //this.score += Math.max(14000 - (finishTime - this.startTime), 0);
+        if (!this.failed) this.streak++;
+        this.obf = 9;
       }
     },
   },
   methods: {
     *fetchPokemon() {
       this.startTime = Date.now();
+      this.pokeid = Math.floor(Math.random() * 151) + 1;
       this.obf = 1;
-      const id = Math.floor(Math.random() * 151) + 1;
+      this.guess = "";
 
-      for (let i = this.obf; i < 8; i++) {
-        this.obf = i;
+      while (this.obf < 10) {
         const response = yield fetch(
-          `http://localhost:3000/pokemon/${id}/${this.obf}`
+          `http://localhost:3000/pokemon/${this.pokeid}/${this.obf}`
         );
         const responseData = yield response.json();
 
@@ -63,10 +75,17 @@ export default {
           throw error;
         }
 
-        this.name = responseData["name_de"].toLowerCase();
+        this.pokenames = new Set();
+        for (let key in responseData["pokenames"])
+          this.pokenames.add(responseData["pokenames"][key].toLowerCase());
+        console.log(this.pokenames);
         this.filename = responseData["filename"];
 
-        yield new Promise((resolve) => setTimeout(resolve, 2000));
+        this.obf++;
+
+        if (this.obf < 9) {
+          yield new Promise((resolve) => setTimeout(resolve, 2000));
+        }
       }
     },
     makeSingle(generator) {
@@ -92,7 +111,6 @@ export default {
       };
     },
   },
-
   created() {
     this.fetchPokemon = this.makeSingle(this.fetchPokemon);
     this.fetchPokemon();
@@ -108,5 +126,10 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+}
+
+
+#input {
+  width: 256px;
 }
 </style>

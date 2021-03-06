@@ -1,1814 +1,2267 @@
 {
   "1": {
-    "name_en": "Bulbasaur",
-    "name_de": "Bisasam",
-    "filename": "1.png",
-    "filename1": "SH6XCKNVQ9.png",
-    "filename2": "3YOR5L897N.png",
-    "filename3": "IS57HFWI0A.png",
-    "filename4": "SAFB40MXDY.png",
-    "filename5": "TZJLOB1LTE.png",
-    "filename6": "N4KTZI3VC7.png",
-    "filename7": "85LONYCW2M.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Bulbasaur", "name_de": "Bisasam" },
+    "filenames": {
+      "filename": "XPUKOVQFAP.png",
+      "filename1": "07XZFGRWM2.png",
+      "filename2": "Z2Z858FZF1.png",
+      "filename3": "8WT9JU71HI.png",
+      "filename4": "SOE4YD95AV.png",
+      "filename5": "F81PNRPJNA.png",
+      "filename6": "F3X5FMBP1Z.png",
+      "filename7": "LU7OBZ7RBV.png",
+      "filename8": "MVSC8ZYL83.png"
+    }
   },
   "2": {
-    "name_en": "Ivysaur",
-    "name_de": "Bisaknosp",
-    "filename": "2.png",
-    "filename1": "B9WNIE67DB.png",
-    "filename2": "6WY7RRL13V.png",
-    "filename3": "E42K6MFN3B.png",
-    "filename4": "SMT65CSH9Y.png",
-    "filename5": "MXRT69AH8F.png",
-    "filename6": "YO5D6X71PG.png",
-    "filename7": "7Y1O54CA34.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Ivysaur", "name_de": "Bisaknosp" },
+    "filenames": {
+      "filename": "TBT70ZEUEX.png",
+      "filename1": "WL9U86P71V.png",
+      "filename2": "F24NS3RLB1.png",
+      "filename3": "MO03SK2QU3.png",
+      "filename4": "BPL79NLU5H.png",
+      "filename5": "YSE0WSZ0E6.png",
+      "filename6": "77AKIKKQE7.png",
+      "filename7": "0E0PW3KJMS.png",
+      "filename8": "21LV6EZX7K.png"
+    }
   },
   "3": {
-    "name_en": "Venusaur",
-    "name_de": "Bisaflor",
-    "filename": "3.png",
-    "filename1": "IPM4M8W87K.png",
-    "filename2": "YCCYQ43DH7.png",
-    "filename3": "M6JJCX8KNH.png",
-    "filename4": "H0W88HWV68.png",
-    "filename5": "I4S9V93HCC.png",
-    "filename6": "98CB5CX2XM.png",
-    "filename7": "GT3CIOCOLR.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Venusaur", "name_de": "Bisaflor" },
+    "filenames": {
+      "filename": "CL24SSCFLR.png",
+      "filename1": "0G6QCCKQND.png",
+      "filename2": "KBF0EX1VJY.png",
+      "filename3": "UZUE7Y5SK6.png",
+      "filename4": "EB241J9QUL.png",
+      "filename5": "TYCK7J31TJ.png",
+      "filename6": "ZPPGNE6A6I.png",
+      "filename7": "TKG4EK46XS.png",
+      "filename8": "2Y919WCY7K.png"
+    }
   },
   "4": {
-    "name_en": "Charmander",
-    "name_de": "Glumanda",
-    "filename": "4.png",
-    "filename1": "7LIW8S2UJL.png",
-    "filename2": "Q7VB3PKI9Q.png",
-    "filename3": "G2BSMQXS47.png",
-    "filename4": "Y0SYG3I24L.png",
-    "filename5": "6VQX93FJQL.png",
-    "filename6": "E539CSDMRZ.png",
-    "filename7": "RBH2E05SN7.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Charmander", "name_de": "Glumanda" },
+    "filenames": {
+      "filename": "K7UZVMRUO4.png",
+      "filename1": "LFCFHJG0W2.png",
+      "filename2": "LPEM2KEEJT.png",
+      "filename3": "90BXLKHSQB.png",
+      "filename4": "8OU936CGQX.png",
+      "filename5": "JJLZUH7XB2.png",
+      "filename6": "Z936G725QT.png",
+      "filename7": "F2D6IMPF7A.png",
+      "filename8": "S36837N9CF.png"
+    }
   },
   "5": {
-    "name_en": "Charmeleon",
-    "name_de": "Glutexo",
-    "filename": "5.png",
-    "filename1": "R5EEMGBN7A.png",
-    "filename2": "HRL3G4H3J3.png",
-    "filename3": "TB3YBXW7F1.png",
-    "filename4": "NZ8UIC3DO0.png",
-    "filename5": "L6OPNVSPQS.png",
-    "filename6": "JHXKBZVL59.png",
-    "filename7": "85V5I819Y7.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Charmeleon", "name_de": "Glutexo" },
+    "filenames": {
+      "filename": "GH2THSDFFD.png",
+      "filename1": "0ZHQ1MC2KH.png",
+      "filename2": "1R6UHF8JU6.png",
+      "filename3": "WJ27XWPMZ1.png",
+      "filename4": "0AL7XCW3BC.png",
+      "filename5": "TD578TQBZF.png",
+      "filename6": "BB5XZII2KW.png",
+      "filename7": "T7GVP724BX.png",
+      "filename8": "N9KG8ELKVM.png"
+    }
   },
   "6": {
-    "name_en": "Charizard",
-    "name_de": "Glurak",
-    "filename": "6.png",
-    "filename1": "WWFFEFSYSW.png",
-    "filename2": "N0ZA8LMUW6.png",
-    "filename3": "MCGK1ABAJ9.png",
-    "filename4": "MS01R1ADEW.png",
-    "filename5": "J9F9EYAMK7.png",
-    "filename6": "JZY39GT0CG.png",
-    "filename7": "0A46WBLN8G.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Charizard", "name_de": "Glurak" },
+    "filenames": {
+      "filename": "YMB29MDZYJ.png",
+      "filename1": "2473ZHPVOS.png",
+      "filename2": "ZKWR1Q7H4L.png",
+      "filename3": "XD8KBKQ4J8.png",
+      "filename4": "T6BIZMR9XW.png",
+      "filename5": "HORATP7N6S.png",
+      "filename6": "9SODGR3BF2.png",
+      "filename7": "9WCT30XGZJ.png",
+      "filename8": "4YHSYKF715.png"
+    }
   },
   "7": {
-    "name_en": "Squirtle",
-    "name_de": "Schiggy",
-    "filename": "7.png",
-    "filename1": "15CBKGTZPA.png",
-    "filename2": "TDSI0A272N.png",
-    "filename3": "KI04ZAIMA9.png",
-    "filename4": "PBH04G0SL6.png",
-    "filename5": "TK1JQ0NOUN.png",
-    "filename6": "RAXMEYQWDU.png",
-    "filename7": "1N81ZGO3X3.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Squirtle", "name_de": "Schiggy" },
+    "filenames": {
+      "filename": "J8UYYRXAJB.png",
+      "filename1": "AS742JUJ0Z.png",
+      "filename2": "PIB1MDDW8F.png",
+      "filename3": "4TUKWUHFOI.png",
+      "filename4": "XUN88JHWWW.png",
+      "filename5": "IZYGJWIUSE.png",
+      "filename6": "GXULKGGSJ3.png",
+      "filename7": "NL21QVTNY9.png",
+      "filename8": "AE8CEW2MW6.png"
+    }
   },
   "8": {
-    "name_en": "Wartortle",
-    "name_de": "Schillok",
-    "filename": "8.png",
-    "filename1": "4JN5XA81MW.png",
-    "filename2": "5HNORZGMDF.png",
-    "filename3": "BW5MW40DWN.png",
-    "filename4": "5Y8HHWNQYB.png",
-    "filename5": "AXEZ2RNX7F.png",
-    "filename6": "4461G63USM.png",
-    "filename7": "D9PXMI6P1K.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Wartortle", "name_de": "Schillok" },
+    "filenames": {
+      "filename": "K8TB9WS5EK.png",
+      "filename1": "0J9F9XO3VD.png",
+      "filename2": "SF8ZUNWNGY.png",
+      "filename3": "3LVJF0FITN.png",
+      "filename4": "PFA1753V73.png",
+      "filename5": "43DYH9T1SR.png",
+      "filename6": "ZCI56VZGUA.png",
+      "filename7": "UIFXMQ8GZW.png",
+      "filename8": "K1HW3QYJKD.png"
+    }
   },
   "9": {
-    "name_en": "Blastoise",
-    "name_de": "Turtok",
-    "filename": "9.png",
-    "filename1": "9WNW1QGSMC.png",
-    "filename2": "KKNF3S8G2H.png",
-    "filename3": "NW4R13B4BU.png",
-    "filename4": "MZCWT5HR2R.png",
-    "filename5": "DXVCJSU9NW.png",
-    "filename6": "6TZHZ16GLP.png",
-    "filename7": "GUXLMCIN1V.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Blastoise", "name_de": "Turtok" },
+    "filenames": {
+      "filename": "5LRABUFUZ6.png",
+      "filename1": "MHKU84JHT9.png",
+      "filename2": "ZCHO4NYUX2.png",
+      "filename3": "TBJGJRDZT6.png",
+      "filename4": "PRQXQA3AUN.png",
+      "filename5": "9URQA6T3X7.png",
+      "filename6": "BB7QOY8CAR.png",
+      "filename7": "L51862O3ZH.png",
+      "filename8": "JTENYPL0YH.png"
+    }
   },
   "10": {
-    "name_en": "Caterpie",
-    "name_de": "Raupy",
-    "filename": "10.png",
-    "filename1": "00OWO7D3XL.png",
-    "filename2": "N1KKY81MJ9.png",
-    "filename3": "R3FZKX7K27.png",
-    "filename4": "PWKQ5SJ30A.png",
-    "filename5": "CJHNHEQEUT.png",
-    "filename6": "3H0L30WIVU.png",
-    "filename7": "0WRDB4E67O.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Caterpie", "name_de": "Raupy" },
+    "filenames": {
+      "filename": "OZ4HW8RHNW.png",
+      "filename1": "IDDCN48KTE.png",
+      "filename2": "OVVS6XOZRH.png",
+      "filename3": "GR2KCXHAB1.png",
+      "filename4": "EUDT6S9M8C.png",
+      "filename5": "JY8X64N55X.png",
+      "filename6": "O3JT7KGWHN.png",
+      "filename7": "VA0BJXY5BM.png",
+      "filename8": "GKNCDP580M.png"
+    }
   },
   "11": {
-    "name_en": "Metapod",
-    "name_de": "Safcon",
-    "filename": "11.png",
-    "filename1": "7B3CMTVQY0.png",
-    "filename2": "N7PW0TQ91A.png",
-    "filename3": "VZIVGYTDBL.png",
-    "filename4": "5ICI8R75NQ.png",
-    "filename5": "A20Y2EVPTL.png",
-    "filename6": "8R0QWTM9C5.png",
-    "filename7": "US0DRP9FLJ.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Metapod", "name_de": "Safcon" },
+    "filenames": {
+      "filename": "B2D2032DNW.png",
+      "filename1": "EHQSM6IIL0.png",
+      "filename2": "0SV0E4CB8N.png",
+      "filename3": "6NXT1WMJU7.png",
+      "filename4": "PTVPW8JYLL.png",
+      "filename5": "VC4IAL51RR.png",
+      "filename6": "OF19UHGCG0.png",
+      "filename7": "JKQTLUE27X.png",
+      "filename8": "DZRR3APLCW.png"
+    }
   },
   "12": {
-    "name_en": "Butterfree",
-    "name_de": "Smettbo",
-    "filename": "12.png",
-    "filename1": "Q0CNB2H2CM.png",
-    "filename2": "T69TPJ0SQ8.png",
-    "filename3": "0TZFSSLGG6.png",
-    "filename4": "0XQGQLBK1G.png",
-    "filename5": "N9VB7TL3MI.png",
-    "filename6": "8EHY7JGKHA.png",
-    "filename7": "CLOIHO92HG.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Butterfree", "name_de": "Smettbo" },
+    "filenames": {
+      "filename": "O277HQ1K0I.png",
+      "filename1": "4TWZQN3O5V.png",
+      "filename2": "UXMHMTNL6W.png",
+      "filename3": "LBKRY0G8AI.png",
+      "filename4": "ODX36EOT4B.png",
+      "filename5": "D24RV074DH.png",
+      "filename6": "EQQ4UGQUKS.png",
+      "filename7": "3H9RTWG7DK.png",
+      "filename8": "UF4RXMHSVU.png"
+    }
   },
   "13": {
-    "name_en": "Weedle",
-    "name_de": "Hornliu",
-    "filename": "13.png",
-    "filename1": "6N11FDEHJP.png",
-    "filename2": "VRCY9KDVKB.png",
-    "filename3": "4NZM74CCP0.png",
-    "filename4": "ECHYMXS9C8.png",
-    "filename5": "WD8NYRHGF3.png",
-    "filename6": "WPJH775ELM.png",
-    "filename7": "DTVJ8GYPIV.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Weedle", "name_de": "Hornliu" },
+    "filenames": {
+      "filename": "KKQF7RLHKK.png",
+      "filename1": "A7IIBG6AJM.png",
+      "filename2": "BPC94JJL7Q.png",
+      "filename3": "SZ1DGPZ6YK.png",
+      "filename4": "TUHT4LZAY7.png",
+      "filename5": "6S0HPXB5TR.png",
+      "filename6": "QNFHV3FLJ8.png",
+      "filename7": "L9K8SFHH6T.png",
+      "filename8": "UAPAWL3EBI.png"
+    }
   },
   "14": {
-    "name_en": "Kakuna",
-    "name_de": "Kokuna",
-    "filename": "14.png",
-    "filename1": "6AEWMP3BQ7.png",
-    "filename2": "4CCGWCZL83.png",
-    "filename3": "RUVGQU03I9.png",
-    "filename4": "WKSMX5VV0D.png",
-    "filename5": "9T4WZQ3PZI.png",
-    "filename6": "XMKAECYUS0.png",
-    "filename7": "BITO9LNHV4.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Kakuna", "name_de": "Kokuna" },
+    "filenames": {
+      "filename": "JX6OU9XSTL.png",
+      "filename1": "8DMG5XKDNR.png",
+      "filename2": "VY00PLDV7D.png",
+      "filename3": "SC8K9AER9T.png",
+      "filename4": "N35B1WXEDB.png",
+      "filename5": "T7PBEWEIC4.png",
+      "filename6": "7YPV0GC9G9.png",
+      "filename7": "UDWTPOA0MP.png",
+      "filename8": "J743JMCXA4.png"
+    }
   },
   "15": {
-    "name_en": "Beedrill",
-    "name_de": "Bibor",
-    "filename": "15.png",
-    "filename1": "N1ZH5C0PN6.png",
-    "filename2": "7E80595AVH.png",
-    "filename3": "CLLVH3B4XV.png",
-    "filename4": "O4BYNEND5V.png",
-    "filename5": "S4NG28UC7Q.png",
-    "filename6": "1BQXIFT1AJ.png",
-    "filename7": "PXRTZ8SDUK.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Beedrill", "name_de": "Bibor" },
+    "filenames": {
+      "filename": "55GA8JMK1C.png",
+      "filename1": "PX82P0G5GT.png",
+      "filename2": "XZJ21GYX3X.png",
+      "filename3": "8IXOANPO4D.png",
+      "filename4": "P84WQ6K7BT.png",
+      "filename5": "ETCUA5F75O.png",
+      "filename6": "T2OOATNPA7.png",
+      "filename7": "NUBLAZ3RCB.png",
+      "filename8": "I27QGCT3KV.png"
+    }
   },
   "16": {
-    "name_en": "Pidgey",
-    "name_de": "Taubsi",
-    "filename": "16.png",
-    "filename1": "3QMJEETP41.png",
-    "filename2": "P5YLNT7TOK.png",
-    "filename3": "R9RT4SODIU.png",
-    "filename4": "PFEGVQBZ5L.png",
-    "filename5": "7NSX9XTELD.png",
-    "filename6": "BHQZ11WDLN.png",
-    "filename7": "36BQ8AZFL3.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Pidgey", "name_de": "Taubsi" },
+    "filenames": {
+      "filename": "QE9UJ6LI2Q.png",
+      "filename1": "ZCBB4EDMON.png",
+      "filename2": "BSAAD5G2B3.png",
+      "filename3": "BN1Y9EVWWY.png",
+      "filename4": "41LD8ZJLV7.png",
+      "filename5": "8ZILCYVPCC.png",
+      "filename6": "4E7GMWF2O5.png",
+      "filename7": "K2R7OZ2J7X.png",
+      "filename8": "CT2AQFI8PZ.png"
+    }
   },
   "17": {
-    "name_en": "Pidgeotto",
-    "name_de": "Tauboga",
-    "filename": "17.png",
-    "filename1": "4WUQHI9PG5.png",
-    "filename2": "V6S9TEPLOC.png",
-    "filename3": "6PAKKFIYE0.png",
-    "filename4": "VL66AXL5L7.png",
-    "filename5": "G50M5HNPNT.png",
-    "filename6": "YJ7S7P4FXG.png",
-    "filename7": "6VSDFCDSPW.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Pidgeotto", "name_de": "Tauboga" },
+    "filenames": {
+      "filename": "YU84JHA18L.png",
+      "filename1": "R2N1GJ1LQ6.png",
+      "filename2": "ZOD3GMOTB0.png",
+      "filename3": "2BQFH8N6ZP.png",
+      "filename4": "0BKWBOSRJQ.png",
+      "filename5": "4G2OIDWWYC.png",
+      "filename6": "LGKP09NI5T.png",
+      "filename7": "WQRBMBX9YB.png",
+      "filename8": "GT1UIBBOOQ.png"
+    }
   },
   "18": {
-    "name_en": "Pidgeot",
-    "name_de": "Tauboss",
-    "filename": "18.png",
-    "filename1": "I9A5OCF1D3.png",
-    "filename2": "SOV3NCH4GV.png",
-    "filename3": "FFL79RWWH4.png",
-    "filename4": "Y5G4UIXEBO.png",
-    "filename5": "1LKMDHDLK8.png",
-    "filename6": "UDPDW1N3ZN.png",
-    "filename7": "JD7SME6WJY.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Pidgeot", "name_de": "Tauboss" },
+    "filenames": {
+      "filename": "GDC35M1GXT.png",
+      "filename1": "LRBQL26M05.png",
+      "filename2": "01VIWDASGI.png",
+      "filename3": "8PFA7WMZKV.png",
+      "filename4": "4OO9DJ407P.png",
+      "filename5": "K6GG46TYKT.png",
+      "filename6": "K8SXQLFKV7.png",
+      "filename7": "SBM1JV87WP.png",
+      "filename8": "TO6XR2Z7TS.png"
+    }
   },
   "19": {
-    "name_en": "Rattata",
-    "name_de": "Rattfratz",
-    "filename": "19.png",
-    "filename1": "CNXK4CH412.png",
-    "filename2": "TL5CH9REL5.png",
-    "filename3": "0DPW9ZHHC8.png",
-    "filename4": "SSMNSI9LV8.png",
-    "filename5": "BTNDU1LLAT.png",
-    "filename6": "WUYO11UZ49.png",
-    "filename7": "9CNVQL2GN7.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Rattata", "name_de": "Rattfratz" },
+    "filenames": {
+      "filename": "UA2XX0VLKR.png",
+      "filename1": "R9E2WZL57O.png",
+      "filename2": "UOJLQ3L7ZD.png",
+      "filename3": "6PT9439T6Q.png",
+      "filename4": "JK73KF6BMV.png",
+      "filename5": "MRK7AX8IER.png",
+      "filename6": "FEDOG42GZH.png",
+      "filename7": "WA6P0BBAYL.png",
+      "filename8": "K6A31C4TJN.png"
+    }
   },
   "20": {
-    "name_en": "Raticate",
-    "name_de": "Rattikarl",
-    "filename": "20.png",
-    "filename1": "R3BDUB5IWA.png",
-    "filename2": "06NNJJ3LPN.png",
-    "filename3": "M3FE7RPKT9.png",
-    "filename4": "C8V8LCHU1D.png",
-    "filename5": "JTB7JVBN3A.png",
-    "filename6": "LWR7O00YEC.png",
-    "filename7": "VWXRGDYOKW.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Raticate", "name_de": "Rattikarl" },
+    "filenames": {
+      "filename": "EBZQJOWDSX.png",
+      "filename1": "44G1SS06DJ.png",
+      "filename2": "DPAC5UZJU4.png",
+      "filename3": "3AT7ECZYT8.png",
+      "filename4": "12Z5EIP0HY.png",
+      "filename5": "V2POX3DAS0.png",
+      "filename6": "FXTTVQX13C.png",
+      "filename7": "5JZH7AR8CO.png",
+      "filename8": "7SO245F2K2.png"
+    }
   },
   "21": {
-    "name_en": "Spearow",
-    "name_de": "Habitak",
-    "filename": "21.png",
-    "filename1": "M8YVX4S51P.png",
-    "filename2": "1JPOL9PMPA.png",
-    "filename3": "C9WXZDMRJ0.png",
-    "filename4": "CSKIL7JQ8N.png",
-    "filename5": "LDU9JJGYWI.png",
-    "filename6": "8NHLGE273E.png",
-    "filename7": "OQS45LCHBA.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Spearow", "name_de": "Habitak" },
+    "filenames": {
+      "filename": "DVLD1G7EFQ.png",
+      "filename1": "OF6QJZ6IOM.png",
+      "filename2": "87EQXCV416.png",
+      "filename3": "5UL2IOUZ4Y.png",
+      "filename4": "C7JYIX2Z9K.png",
+      "filename5": "DP9OGEQA7T.png",
+      "filename6": "BLNLAIS7P3.png",
+      "filename7": "DO04GTUO7U.png",
+      "filename8": "2UE8W3K6RB.png"
+    }
   },
   "22": {
-    "name_en": "Fearow",
-    "name_de": "Ibitak",
-    "filename": "22.png",
-    "filename1": "0OREYHXBQ1.png",
-    "filename2": "BI33GFTW1Z.png",
-    "filename3": "FRD5RZ3AAM.png",
-    "filename4": "V98O9NHPAO.png",
-    "filename5": "OLT5XEYQ3E.png",
-    "filename6": "5TFTQVZKP9.png",
-    "filename7": "E5Q4T62EOS.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Fearow", "name_de": "Ibitak" },
+    "filenames": {
+      "filename": "LKC3SDFJM9.png",
+      "filename1": "DZRLMO9KR8.png",
+      "filename2": "BPNOQGGXOE.png",
+      "filename3": "MKOD8L9QT2.png",
+      "filename4": "ETMUL9USYP.png",
+      "filename5": "FDFPYN8UUQ.png",
+      "filename6": "02TOSK0L0H.png",
+      "filename7": "43ZLX5ILAG.png",
+      "filename8": "1VJ0JXB5SB.png"
+    }
   },
   "23": {
-    "name_en": "Ekans",
-    "name_de": "Rettan",
-    "filename": "23.png",
-    "filename1": "XS5OV0FNHG.png",
-    "filename2": "KH3EL3RWXJ.png",
-    "filename3": "L02LH9EG18.png",
-    "filename4": "X15Z597TMK.png",
-    "filename5": "3R7BK3DN21.png",
-    "filename6": "LXWZCPHU5Y.png",
-    "filename7": "TGO0CDNL19.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Ekans", "name_de": "Rettan" },
+    "filenames": {
+      "filename": "VF759CFJ71.png",
+      "filename1": "EEHF6PFFIU.png",
+      "filename2": "WGMZ4PLOW4.png",
+      "filename3": "Y4EYEHWQI1.png",
+      "filename4": "OZPGHC4RBX.png",
+      "filename5": "Y7VKIP73S3.png",
+      "filename6": "Z3UNJI82DJ.png",
+      "filename7": "Q2OCBD6C9B.png",
+      "filename8": "RBJCINTQ4T.png"
+    }
   },
   "24": {
-    "name_en": "Arbok",
-    "name_de": "Arbok",
-    "filename": "24.png",
-    "filename1": "ZNH57VL6U7.png",
-    "filename2": "ZBHNL1REK1.png",
-    "filename3": "UE2Z121MSA.png",
-    "filename4": "K3XWXP5TNV.png",
-    "filename5": "0AEBOF8UU1.png",
-    "filename6": "NW0PRB8FJY.png",
-    "filename7": "QT1WMPZQ16.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Arbok", "name_de": "Arbok" },
+    "filenames": {
+      "filename": "HRNPHL0HW0.png",
+      "filename1": "1K2GCKTK22.png",
+      "filename2": "UJODTBDYTG.png",
+      "filename3": "FAWZ1184A8.png",
+      "filename4": "PF02XLL3WM.png",
+      "filename5": "IVC7FQDC72.png",
+      "filename6": "VJ91JX6H7X.png",
+      "filename7": "6PYOW0O2WI.png",
+      "filename8": "L5N36JWZ3X.png"
+    }
   },
   "25": {
-    "name_en": "Pikachu",
-    "name_de": "Pikachu",
-    "filename": "25.png",
-    "filename1": "2XTPIKM958.png",
-    "filename2": "39WJMB8OEC.png",
-    "filename3": "TFUXEKLROA.png",
-    "filename4": "HCFAHWT5X2.png",
-    "filename5": "6EX5CJKU8T.png",
-    "filename6": "S34YYJTHQ1.png",
-    "filename7": "T0GKPQTWCX.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Pikachu", "name_de": "Pikachu" },
+    "filenames": {
+      "filename": "OADRIPL9J6.png",
+      "filename1": "33VNQ50SSP.png",
+      "filename2": "9ILNXPEN7L.png",
+      "filename3": "2PM1N2ACPU.png",
+      "filename4": "P45H2U4M93.png",
+      "filename5": "0R7JF8DQB8.png",
+      "filename6": "RONDKK3IZ1.png",
+      "filename7": "4IQXV1ML7L.png",
+      "filename8": "NGUO5SHUQY.png"
+    }
   },
   "26": {
-    "name_en": "Raichu",
-    "name_de": "Raichu",
-    "filename": "26.png",
-    "filename1": "G1VN8MBJOG.png",
-    "filename2": "R54H7MGQA6.png",
-    "filename3": "34V8AF8PEP.png",
-    "filename4": "IMH9MBM010.png",
-    "filename5": "MCENTIYA64.png",
-    "filename6": "FSSWY8UI2T.png",
-    "filename7": "JGRKXU5T6G.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Raichu", "name_de": "Raichu" },
+    "filenames": {
+      "filename": "OSPSAGFOF4.png",
+      "filename1": "52OIKR3JGL.png",
+      "filename2": "BWZ81ILJ3Q.png",
+      "filename3": "90ERQWQB36.png",
+      "filename4": "4B5M4US5Y1.png",
+      "filename5": "093ABVF392.png",
+      "filename6": "0VYW8141HQ.png",
+      "filename7": "QVFRHQNMZ6.png",
+      "filename8": "9VYYQATPBF.png"
+    }
   },
   "27": {
-    "name_en": "Sandshrew",
-    "name_de": "Sandan",
-    "filename": "27.png",
-    "filename1": "WEKBJ62NOR.png",
-    "filename2": "Q2SMVWU4K0.png",
-    "filename3": "MEBRTV2RMX.png",
-    "filename4": "J8E9HFV73M.png",
-    "filename5": "QARP1X5HL0.png",
-    "filename6": "B5UHQIQHVK.png",
-    "filename7": "BFQZVKI6IZ.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Sandshrew", "name_de": "Sandan" },
+    "filenames": {
+      "filename": "KBLLOI8XO9.png",
+      "filename1": "97ABYZJTE2.png",
+      "filename2": "4X560A4F16.png",
+      "filename3": "ASKJO2YBVY.png",
+      "filename4": "HSFAE8GFGS.png",
+      "filename5": "41781BRN2D.png",
+      "filename6": "LMWVE7OIQO.png",
+      "filename7": "67A720W07C.png",
+      "filename8": "FOJHWDYOP5.png"
+    }
   },
   "28": {
-    "name_en": "Sandslash",
-    "name_de": "Sandamer",
-    "filename": "28.png",
-    "filename1": "34Q8PEOMFV.png",
-    "filename2": "TPJ0PESYOK.png",
-    "filename3": "TL30XNZP6F.png",
-    "filename4": "TXK66T68NI.png",
-    "filename5": "4833JKB4CA.png",
-    "filename6": "BK2KZU9UK4.png",
-    "filename7": "J5T3V6C4GU.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Sandslash", "name_de": "Sandamer" },
+    "filenames": {
+      "filename": "AK9GQ04VYB.png",
+      "filename1": "ROW83WPT5F.png",
+      "filename2": "8NEN5YGE80.png",
+      "filename3": "T2DUFL62T0.png",
+      "filename4": "YP0H0KUF7A.png",
+      "filename5": "LU0JYOO8V9.png",
+      "filename6": "C9TVK9MVKJ.png",
+      "filename7": "QAT9Q0SLIT.png",
+      "filename8": "VAS38WUXE2.png"
+    }
   },
   "29": {
-    "name_en": "Nidoran\u2640",
-    "name_de": "Nidoran\u2640",
-    "filename": "29.png",
-    "filename1": "VQBEPN64QG.png",
-    "filename2": "L3Q9F7OZR6.png",
-    "filename3": "X7J4RMTAMZ.png",
-    "filename4": "4ELA6M3A1L.png",
-    "filename5": "3XS3Z21E4S.png",
-    "filename6": "3Q81G1HIDY.png",
-    "filename7": "CP2AZR4N63.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Nidoran", "name_de": "Nidoran" },
+    "filenames": {
+      "filename": "KP5J3SZRFQ.png",
+      "filename1": "E9BD768RM2.png",
+      "filename2": "NK27RIMK33.png",
+      "filename3": "H3CRLK9Y5V.png",
+      "filename4": "Z4XOHVN88L.png",
+      "filename5": "VA5ZLNSXF4.png",
+      "filename6": "FM1AQ7YB5D.png",
+      "filename7": "QAVQY55HSX.png",
+      "filename8": "S8MGOKJTL1.png"
+    }
   },
   "30": {
-    "name_en": "Nidorina",
-    "name_de": "Nidorina",
-    "filename": "30.png",
-    "filename1": "P8DR0UXC6E.png",
-    "filename2": "VCJYX9MIM6.png",
-    "filename3": "OS91GGQ9KW.png",
-    "filename4": "K4805EU7DW.png",
-    "filename5": "JE52M1D5XS.png",
-    "filename6": "G144FKDZDX.png",
-    "filename7": "CCNR6100EY.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Nidorina", "name_de": "Nidorina" },
+    "filenames": {
+      "filename": "KPANYUTXYN.png",
+      "filename1": "4JUF5H7GZ0.png",
+      "filename2": "MUZ3KAX3NT.png",
+      "filename3": "OTY4WZNL50.png",
+      "filename4": "92RO3UDM9Y.png",
+      "filename5": "QCMVZEMN20.png",
+      "filename6": "89QG1MI2SR.png",
+      "filename7": "N6AJI4B8I2.png",
+      "filename8": "NIAJOL9GXR.png"
+    }
   },
   "31": {
-    "name_en": "Nidoqueen",
-    "name_de": "Nidoqueen",
-    "filename": "31.png",
-    "filename1": "Q3A66H0698.png",
-    "filename2": "7HKWR1EJOD.png",
-    "filename3": "V6HHI7S53P.png",
-    "filename4": "N4SBZ33K1F.png",
-    "filename5": "ZUKRWK490V.png",
-    "filename6": "Z54Z67OF80.png",
-    "filename7": "H2PDLHCDYF.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Nidoqueen", "name_de": "Nidoqueen" },
+    "filenames": {
+      "filename": "9B2BECR4HD.png",
+      "filename1": "JPN355N9JI.png",
+      "filename2": "F4J4C9TMEA.png",
+      "filename3": "IF40ILFDO9.png",
+      "filename4": "1F2R6123W8.png",
+      "filename5": "JDWVRHVWQ0.png",
+      "filename6": "MK5BOXXFEL.png",
+      "filename7": "DHRK6NLB9Q.png",
+      "filename8": "KVJVG7586J.png"
+    }
   },
   "32": {
-    "name_en": "Nidoran\u2642",
-    "name_de": "Nidoran\u2642",
-    "filename": "32.png",
-    "filename1": "GCEM5GSL4H.png",
-    "filename2": "OUH9O3DCQJ.png",
-    "filename3": "5CT19KLXHS.png",
-    "filename4": "IO4CELKHLA.png",
-    "filename5": "OZ2WP4NVFE.png",
-    "filename6": "DSPOJTFWQO.png",
-    "filename7": "WH0JTXKAO9.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Nidoran", "name_de": "Nidoran" },
+    "filenames": {
+      "filename": "03Y3Y2RCL6.png",
+      "filename1": "JGTW8JHBEA.png",
+      "filename2": "I8IDRNLXX7.png",
+      "filename3": "RTXU2FJ51K.png",
+      "filename4": "TYNLJ7Z78T.png",
+      "filename5": "ULHI57BEW2.png",
+      "filename6": "7HPT5K9ASX.png",
+      "filename7": "5XHE5WF17T.png",
+      "filename8": "YCG8XETGNG.png"
+    }
   },
   "33": {
-    "name_en": "Nidorino",
-    "name_de": "Nidorino",
-    "filename": "33.png",
-    "filename1": "2L1WLL61G3.png",
-    "filename2": "4GEN8YMNB4.png",
-    "filename3": "YZRDIOVE1F.png",
-    "filename4": "0P3MAII5M5.png",
-    "filename5": "HI3601I04Q.png",
-    "filename6": "50582UHTPO.png",
-    "filename7": "LFJXPK3NUD.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Nidorino", "name_de": "Nidorino" },
+    "filenames": {
+      "filename": "9Z2R5DDZ1Q.png",
+      "filename1": "HCEBUJ5OED.png",
+      "filename2": "DWW5JLSY1X.png",
+      "filename3": "2LAQTXOYIJ.png",
+      "filename4": "O8BT1L3I9B.png",
+      "filename5": "70ZU98VM44.png",
+      "filename6": "HXAOW1ACTL.png",
+      "filename7": "5LLU31HIXA.png",
+      "filename8": "7X4YI71555.png"
+    }
   },
   "34": {
-    "name_en": "Nidoking",
-    "name_de": "Nidoking",
-    "filename": "34.png",
-    "filename1": "J0KMJE8NV3.png",
-    "filename2": "7H60RQQY18.png",
-    "filename3": "JQQEBSX53Q.png",
-    "filename4": "PICF8EJEK6.png",
-    "filename5": "KRF8PBOPQY.png",
-    "filename6": "5KKI1LUDZL.png",
-    "filename7": "IJIAB825UE.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Nidoking", "name_de": "Nidoking" },
+    "filenames": {
+      "filename": "8CC2X8D0HW.png",
+      "filename1": "53N1VGYKBS.png",
+      "filename2": "W8FDCOCM3Z.png",
+      "filename3": "TI519HDFNM.png",
+      "filename4": "0H1JXYWW0L.png",
+      "filename5": "TX2MU0Y46I.png",
+      "filename6": "XMRTMH2ZID.png",
+      "filename7": "358OWA4OH7.png",
+      "filename8": "WMJBJ7KGAO.png"
+    }
   },
   "35": {
-    "name_en": "Clefairy",
-    "name_de": "Piepi",
-    "filename": "35.png",
-    "filename1": "NMPUPMVULX.png",
-    "filename2": "D6V42OZMNK.png",
-    "filename3": "2LFG15ANQI.png",
-    "filename4": "TL6KNVYL04.png",
-    "filename5": "0KP560XVN5.png",
-    "filename6": "MLESV8G6L2.png",
-    "filename7": "A0XCS2V0YL.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Clefairy", "name_de": "Piepi" },
+    "filenames": {
+      "filename": "VLTO9TMDBG.png",
+      "filename1": "YLNHDAZJLS.png",
+      "filename2": "L32B7WE1JG.png",
+      "filename3": "P19H4JWX8B.png",
+      "filename4": "VENSD9EHAN.png",
+      "filename5": "V1MYCYJBPW.png",
+      "filename6": "CMZIG48EKO.png",
+      "filename7": "TEX2RJENTO.png",
+      "filename8": "25QDWRQHBY.png"
+    }
   },
   "36": {
-    "name_en": "Clefable",
-    "name_de": "Pixi",
-    "filename": "36.png",
-    "filename1": "KTJBJ77OPX.png",
-    "filename2": "FMH5NUBMBI.png",
-    "filename3": "ICTBQZYLOV.png",
-    "filename4": "E0ZPLRNG46.png",
-    "filename5": "H2XYQ8HJDJ.png",
-    "filename6": "24EFSPGEIX.png",
-    "filename7": "5QSSIJW8SQ.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Clefable", "name_de": "Pixi" },
+    "filenames": {
+      "filename": "4HKFHLGD6R.png",
+      "filename1": "Z6RB96KE51.png",
+      "filename2": "P7ZRBOX8W1.png",
+      "filename3": "98L8F8H1DE.png",
+      "filename4": "ED86D2JK69.png",
+      "filename5": "CRT2TZ975P.png",
+      "filename6": "SOZHYGG2RH.png",
+      "filename7": "ZL20KNSZBO.png",
+      "filename8": "94ZKZID4CP.png"
+    }
   },
   "37": {
-    "name_en": "Vulpix",
-    "name_de": "Vulpix",
-    "filename": "37.png",
-    "filename1": "BSFLPXLHHR.png",
-    "filename2": "NYAVLW8RJY.png",
-    "filename3": "W80EI154XA.png",
-    "filename4": "KGR0LDP938.png",
-    "filename5": "IBFOO57XQI.png",
-    "filename6": "L83OXINB1Z.png",
-    "filename7": "J7SZYVUWAQ.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Vulpix", "name_de": "Vulpix" },
+    "filenames": {
+      "filename": "E5I7G7CHRX.png",
+      "filename1": "UOUTP8RE1T.png",
+      "filename2": "QGWRXKJ2EP.png",
+      "filename3": "4VBQPX45UB.png",
+      "filename4": "PUKPK855V0.png",
+      "filename5": "3A0U70LT16.png",
+      "filename6": "MLGXZJX03D.png",
+      "filename7": "TKNK3Z9QL7.png",
+      "filename8": "BSFWGO9JRJ.png"
+    }
   },
   "38": {
-    "name_en": "Ninetales",
-    "name_de": "Vulnona",
-    "filename": "38.png",
-    "filename1": "F0ZW34V7OQ.png",
-    "filename2": "P0LX6NY5EW.png",
-    "filename3": "HRTJK26AI3.png",
-    "filename4": "YRPFSGKXX1.png",
-    "filename5": "TNNQ3LQL1V.png",
-    "filename6": "AUYKZ3807Z.png",
-    "filename7": "YKIYZQXMZE.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Ninetales", "name_de": "Vulnona" },
+    "filenames": {
+      "filename": "9V402SOWKJ.png",
+      "filename1": "NCUYJI31NL.png",
+      "filename2": "4R0HUBO7NF.png",
+      "filename3": "QWRZJESINV.png",
+      "filename4": "1BYSTVUMDX.png",
+      "filename5": "J45JAM6VBI.png",
+      "filename6": "DBOIB838JL.png",
+      "filename7": "4C1BSS5UH4.png",
+      "filename8": "5FZTU4W2MN.png"
+    }
   },
   "39": {
-    "name_en": "Jigglypuff",
-    "name_de": "Pummeluff",
-    "filename": "39.png",
-    "filename1": "MBGJH7P7M9.png",
-    "filename2": "UIFRD4HZ1Z.png",
-    "filename3": "QELGB191Y0.png",
-    "filename4": "QVCQMLEJLV.png",
-    "filename5": "JVFKF6Z2N8.png",
-    "filename6": "XAZXCWEQ13.png",
-    "filename7": "ODRHOGJ7SN.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Jigglypuff", "name_de": "Pummeluff" },
+    "filenames": {
+      "filename": "C6RIKDPIN1.png",
+      "filename1": "F5XK7SUL0L.png",
+      "filename2": "IBPU982L1V.png",
+      "filename3": "JA4VP0C2YV.png",
+      "filename4": "UM0DII1CZZ.png",
+      "filename5": "NBHMW5VRJ8.png",
+      "filename6": "AV0IVWAE15.png",
+      "filename7": "2LQH3ODAEC.png",
+      "filename8": "7N5ETM2XXL.png"
+    }
   },
   "40": {
-    "name_en": "Wigglytuff",
-    "name_de": "Knuddeluff",
-    "filename": "40.png",
-    "filename1": "TQ04DJIQB6.png",
-    "filename2": "DRYLAVX352.png",
-    "filename3": "KIJD2QDHBL.png",
-    "filename4": "U71VUQVQEZ.png",
-    "filename5": "B5UUL4J6GK.png",
-    "filename6": "T945CPYZMP.png",
-    "filename7": "MG2ADH9IHG.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Wigglytuff", "name_de": "Knuddeluff" },
+    "filenames": {
+      "filename": "KZ57AGWN8S.png",
+      "filename1": "2UB683OHF0.png",
+      "filename2": "T26MEBKMNX.png",
+      "filename3": "RKB97A08H0.png",
+      "filename4": "OJUFF0G7KR.png",
+      "filename5": "817YI4FD2F.png",
+      "filename6": "ETASXHZ4QD.png",
+      "filename7": "FLBB4M4TBP.png",
+      "filename8": "I1T0BPYFJ3.png"
+    }
   },
   "41": {
-    "name_en": "Zubat",
-    "name_de": "Zubat",
-    "filename": "41.png",
-    "filename1": "V9IMU7JUK0.png",
-    "filename2": "R9SATSAV1O.png",
-    "filename3": "4WCHUOWT50.png",
-    "filename4": "64DP5HU5VT.png",
-    "filename5": "63LUO9AECB.png",
-    "filename6": "NNM17ZXCHV.png",
-    "filename7": "FSWVUGRWR8.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Zubat", "name_de": "Zubat" },
+    "filenames": {
+      "filename": "GAR001MB6A.png",
+      "filename1": "2J01B86NJQ.png",
+      "filename2": "IYDKFCUR6R.png",
+      "filename3": "O0FSTYLGNB.png",
+      "filename4": "JQBIJ2PI02.png",
+      "filename5": "9CW26NONP9.png",
+      "filename6": "DPFRIADJW5.png",
+      "filename7": "B6J28JIX6V.png",
+      "filename8": "9DUK881925.png"
+    }
   },
   "42": {
-    "name_en": "Golbat",
-    "name_de": "Golbat",
-    "filename": "42.png",
-    "filename1": "H4QXEY9L9X.png",
-    "filename2": "9RTGLBD9DZ.png",
-    "filename3": "MY9QPHNFPZ.png",
-    "filename4": "FVKULM56NH.png",
-    "filename5": "W2O41NLT35.png",
-    "filename6": "00BG09V833.png",
-    "filename7": "S4ZCQD3U6T.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Golbat", "name_de": "Golbat" },
+    "filenames": {
+      "filename": "KKKHTSTT3P.png",
+      "filename1": "2IUSU7DI16.png",
+      "filename2": "3NGM8BHGMW.png",
+      "filename3": "45CRBT2N8A.png",
+      "filename4": "GNKAP3KDON.png",
+      "filename5": "U5JUNYTN21.png",
+      "filename6": "SN59G6UD8Z.png",
+      "filename7": "FRSYD8SA26.png",
+      "filename8": "PDWTTER65L.png"
+    }
   },
   "43": {
-    "name_en": "Oddish",
-    "name_de": "Myrapla",
-    "filename": "43.png",
-    "filename1": "JZRSFRH6VF.png",
-    "filename2": "LBM3V1VZLA.png",
-    "filename3": "FITPHFG47U.png",
-    "filename4": "LBAT2SFFOW.png",
-    "filename5": "BT4D0TS5P9.png",
-    "filename6": "DW56QMRHSI.png",
-    "filename7": "QGR5SK3YFV.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Oddish", "name_de": "Myrapla" },
+    "filenames": {
+      "filename": "97NWLI8MFZ.png",
+      "filename1": "RX8ZALCUAX.png",
+      "filename2": "3YVKLK88QH.png",
+      "filename3": "UQP1UXV8CK.png",
+      "filename4": "RD6DBSKWEI.png",
+      "filename5": "13WK6OKW09.png",
+      "filename6": "MWSL0X9GTD.png",
+      "filename7": "E9PD57UTRF.png",
+      "filename8": "SF81HWDYKF.png"
+    }
   },
   "44": {
-    "name_en": "Gloom",
-    "name_de": "Duflor",
-    "filename": "44.png",
-    "filename1": "VOX2CDI15Y.png",
-    "filename2": "BQUZEMP3T8.png",
-    "filename3": "O4R19BQBNU.png",
-    "filename4": "S146C6CB1R.png",
-    "filename5": "FVK4C0V4AU.png",
-    "filename6": "T5I7TMHOEA.png",
-    "filename7": "EYDN1E33D6.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Gloom", "name_de": "Duflor" },
+    "filenames": {
+      "filename": "5ORVC8LQYD.png",
+      "filename1": "DAYMKU5AAN.png",
+      "filename2": "0EAQNTAMP6.png",
+      "filename3": "WZBAFH2YNO.png",
+      "filename4": "XVYHU9VXCU.png",
+      "filename5": "5W727MB3RT.png",
+      "filename6": "YFNOZGN8UJ.png",
+      "filename7": "B3IT7SNNZZ.png",
+      "filename8": "U7G0S4YW12.png"
+    }
   },
   "45": {
-    "name_en": "Vileplume",
-    "name_de": "Giflor",
-    "filename": "45.png",
-    "filename1": "1R8U0MY51Q.png",
-    "filename2": "4XY77WCMKW.png",
-    "filename3": "YYGL7BP5T7.png",
-    "filename4": "8SGRQEVVE0.png",
-    "filename5": "C9IWK8AOS1.png",
-    "filename6": "3ZHRNIS4FJ.png",
-    "filename7": "166JIHSKHR.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Vileplume", "name_de": "Giflor" },
+    "filenames": {
+      "filename": "3M2W7XGGVS.png",
+      "filename1": "NKRDAJORR5.png",
+      "filename2": "91AKNE6OXD.png",
+      "filename3": "LQJM7MIC42.png",
+      "filename4": "PPW23IX62O.png",
+      "filename5": "UJCXH9B6PJ.png",
+      "filename6": "GXEDCTT2QI.png",
+      "filename7": "68N6PQ8C4R.png",
+      "filename8": "57F36EVJTA.png"
+    }
   },
   "46": {
-    "name_en": "Paras",
-    "name_de": "Paras",
-    "filename": "46.png",
-    "filename1": "UZWYD279KC.png",
-    "filename2": "UKSOWH5L9X.png",
-    "filename3": "JTDN1LPNV9.png",
-    "filename4": "AEXZ7ZZAQM.png",
-    "filename5": "D95Z7IOUEK.png",
-    "filename6": "TQRF0R9Y3B.png",
-    "filename7": "U23OE89PDU.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Paras", "name_de": "Paras" },
+    "filenames": {
+      "filename": "UWT8JDKZ7H.png",
+      "filename1": "RUCY4UB217.png",
+      "filename2": "S6WIOLZC65.png",
+      "filename3": "N90VK7TEIG.png",
+      "filename4": "XZT0AQVXVE.png",
+      "filename5": "370WZH0ZUB.png",
+      "filename6": "AYTN369AJ6.png",
+      "filename7": "MHF5L36NC4.png",
+      "filename8": "TTXAUM3Q41.png"
+    }
   },
   "47": {
-    "name_en": "Parasect",
-    "name_de": "Parasek",
-    "filename": "47.png",
-    "filename1": "CXI9VZIJKT.png",
-    "filename2": "99GZR4TDUA.png",
-    "filename3": "G1E57MR6VR.png",
-    "filename4": "2HE4IOR8A8.png",
-    "filename5": "2074WS4FFI.png",
-    "filename6": "5JGJOQCQVD.png",
-    "filename7": "77EGH2ON2F.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Parasect", "name_de": "Parasek" },
+    "filenames": {
+      "filename": "DTRF2AJS0C.png",
+      "filename1": "TDSB6X1Y9H.png",
+      "filename2": "BP5AYD7D72.png",
+      "filename3": "NRTPFH0UQX.png",
+      "filename4": "BJROVQ5QBA.png",
+      "filename5": "D2UR68GZ17.png",
+      "filename6": "0IFRTSUZ6X.png",
+      "filename7": "S0ZZGJFURI.png",
+      "filename8": "L4U282WWTD.png"
+    }
   },
   "48": {
-    "name_en": "Venonat",
-    "name_de": "Bluzuk",
-    "filename": "48.png",
-    "filename1": "ROAPBN99PO.png",
-    "filename2": "JFA1IW8S18.png",
-    "filename3": "SYH6AJ9B2B.png",
-    "filename4": "JQR6IFESZV.png",
-    "filename5": "K8H19C6E7Y.png",
-    "filename6": "MZIDXNFT27.png",
-    "filename7": "ZG7J9WLEP9.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Venonat", "name_de": "Bluzuk" },
+    "filenames": {
+      "filename": "WK86L2PWMM.png",
+      "filename1": "LFYVLZVRS0.png",
+      "filename2": "DETMVZGJSZ.png",
+      "filename3": "BFI5H5FGLH.png",
+      "filename4": "5000EZ82CN.png",
+      "filename5": "4UR6LV7DOL.png",
+      "filename6": "2PA5R8VBPF.png",
+      "filename7": "IHWL3M8D8G.png",
+      "filename8": "78DCRP9CRH.png"
+    }
   },
   "49": {
-    "name_en": "Venomoth",
-    "name_de": "Omot",
-    "filename": "49.png",
-    "filename1": "3PZYK5UUKO.png",
-    "filename2": "UMK9TB2TC0.png",
-    "filename3": "F3WPB7HKW4.png",
-    "filename4": "TEKTLQ27Q6.png",
-    "filename5": "MG4D120795.png",
-    "filename6": "I1Z9VSS61A.png",
-    "filename7": "T4PSFG6M9Q.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Venomoth", "name_de": "Omot" },
+    "filenames": {
+      "filename": "ITMCGMYB8X.png",
+      "filename1": "K2DGUW3BSB.png",
+      "filename2": "HZK2QU1W09.png",
+      "filename3": "UO7X0FZ98E.png",
+      "filename4": "DYEXSFHPFP.png",
+      "filename5": "RBS9TBP0VO.png",
+      "filename6": "ACWZ2AEK35.png",
+      "filename7": "EX76Y8KDHR.png",
+      "filename8": "10Z9UQ8SLN.png"
+    }
   },
   "50": {
-    "name_en": "Diglett",
-    "name_de": "Digda",
-    "filename": "50.png",
-    "filename1": "V3OUQ4TL6P.png",
-    "filename2": "A7BM4CH4YV.png",
-    "filename3": "AE18OS0KHA.png",
-    "filename4": "AENZ20493H.png",
-    "filename5": "GUN2G5QBNJ.png",
-    "filename6": "2NAIFIAOPQ.png",
-    "filename7": "YAFYK9Y7TX.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Diglett", "name_de": "Digda" },
+    "filenames": {
+      "filename": "F3LGYOCANY.png",
+      "filename1": "MNP5F2ZARS.png",
+      "filename2": "HGH69Q11BY.png",
+      "filename3": "65ICMEBS3V.png",
+      "filename4": "IF68Z8B86J.png",
+      "filename5": "LEQR0U5FIP.png",
+      "filename6": "OBHF3OD1HE.png",
+      "filename7": "D0BBHSUWAE.png",
+      "filename8": "CN4Y7LGD7K.png"
+    }
   },
   "51": {
-    "name_en": "Dugtrio",
-    "name_de": "Digdri",
-    "filename": "51.png",
-    "filename1": "AVRIPXWU26.png",
-    "filename2": "28WEWJ8DDZ.png",
-    "filename3": "4EG0NAMWN7.png",
-    "filename4": "TWCQ5DR3CS.png",
-    "filename5": "ZD4S3NK9RR.png",
-    "filename6": "4CW3051FIE.png",
-    "filename7": "XU06G8UDMN.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Dugtrio", "name_de": "Digdri" },
+    "filenames": {
+      "filename": "S5JKM51J2T.png",
+      "filename1": "DG5H1NX2VY.png",
+      "filename2": "ADH0EQ55PZ.png",
+      "filename3": "C4ENWAZAKG.png",
+      "filename4": "DP1EHI4AHA.png",
+      "filename5": "D4BSSJ8SOQ.png",
+      "filename6": "9LRB15FBDV.png",
+      "filename7": "7VVOJOE8ZU.png",
+      "filename8": "UY3MGDJXT0.png"
+    }
   },
   "52": {
-    "name_en": "Meowth",
-    "name_de": "Mauzi",
-    "filename": "52.png",
-    "filename1": "58HZP3XHHD.png",
-    "filename2": "NYGO8G1BXF.png",
-    "filename3": "V6CNH7UUFA.png",
-    "filename4": "P48BMJ2SGJ.png",
-    "filename5": "OPVGLO7P9S.png",
-    "filename6": "VG15MKCE9N.png",
-    "filename7": "MZFTE5JF5F.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Meowth", "name_de": "Mauzi" },
+    "filenames": {
+      "filename": "SWG64CNAV6.png",
+      "filename1": "DF0HILNPUQ.png",
+      "filename2": "91C8ZOS2Z2.png",
+      "filename3": "08WR8ZSG50.png",
+      "filename4": "G7Z6A6D2TV.png",
+      "filename5": "1IJ3NOZ30Q.png",
+      "filename6": "A1XEC957JQ.png",
+      "filename7": "SMUI7L3KNF.png",
+      "filename8": "7L1MBV8ODB.png"
+    }
   },
   "53": {
-    "name_en": "Persian",
-    "name_de": "Snobilikat",
-    "filename": "53.png",
-    "filename1": "4KYRH2484I.png",
-    "filename2": "NSULZT0XNL.png",
-    "filename3": "CE3FV9SEDM.png",
-    "filename4": "BZVGYE4547.png",
-    "filename5": "FQ3D49YIHO.png",
-    "filename6": "U69D0Z22ZW.png",
-    "filename7": "NS794VH52U.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Persian", "name_de": "Snobilikat" },
+    "filenames": {
+      "filename": "K8HJ6QF2BW.png",
+      "filename1": "3Y60O56YS3.png",
+      "filename2": "QDGHFWCRS9.png",
+      "filename3": "IMA3SH2J4E.png",
+      "filename4": "V8BLTXHL3E.png",
+      "filename5": "ULCVXMHWVU.png",
+      "filename6": "YANO89QC1P.png",
+      "filename7": "K4OI3SPUBL.png",
+      "filename8": "T4OGC3BFRM.png"
+    }
   },
   "54": {
-    "name_en": "Psyduck",
-    "name_de": "Enton",
-    "filename": "54.png",
-    "filename1": "2TENPJHGXV.png",
-    "filename2": "OIJ3B3W1CR.png",
-    "filename3": "OA7BI9N7Y2.png",
-    "filename4": "U6E13FRDNV.png",
-    "filename5": "YTCVRG9YQH.png",
-    "filename6": "983WY94ZN8.png",
-    "filename7": "SH9NW27YRX.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Psyduck", "name_de": "Enton" },
+    "filenames": {
+      "filename": "HRHI8XOSDE.png",
+      "filename1": "N2OIOHZK6K.png",
+      "filename2": "I7DTLARHFF.png",
+      "filename3": "S76E8CCI97.png",
+      "filename4": "LHGGACBAG4.png",
+      "filename5": "F3FFV06KIL.png",
+      "filename6": "TCYGJ0VF74.png",
+      "filename7": "X9ZOS3WLIO.png",
+      "filename8": "QFIZHT9XUS.png"
+    }
   },
   "55": {
-    "name_en": "Golduck",
-    "name_de": "Entoron",
-    "filename": "55.png",
-    "filename1": "O130QB2OS7.png",
-    "filename2": "CV127WTELQ.png",
-    "filename3": "PQXGPWSEVG.png",
-    "filename4": "W9E5LD1ORB.png",
-    "filename5": "59UM6OCHE6.png",
-    "filename6": "ECIG1J5C55.png",
-    "filename7": "3FBEFA45IC.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Golduck", "name_de": "Entoron" },
+    "filenames": {
+      "filename": "IXSNA3T27U.png",
+      "filename1": "BY6Y4LCM8T.png",
+      "filename2": "R1SSW6BH3N.png",
+      "filename3": "YTJAQZCMC7.png",
+      "filename4": "43G46ANM7R.png",
+      "filename5": "10J1UIDORE.png",
+      "filename6": "PMFX9MET2W.png",
+      "filename7": "S82HTYEH45.png",
+      "filename8": "FXAUZZMH7S.png"
+    }
   },
   "56": {
-    "name_en": "Mankey",
-    "name_de": "Menki",
-    "filename": "56.png",
-    "filename1": "UFP0BF6F3J.png",
-    "filename2": "1DKADXPLWM.png",
-    "filename3": "QQAMQ6UTA5.png",
-    "filename4": "A6CABUCVVH.png",
-    "filename5": "MP7D8CEEYP.png",
-    "filename6": "VXOE0NP92X.png",
-    "filename7": "W8O3A3DWLZ.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Mankey", "name_de": "Menki" },
+    "filenames": {
+      "filename": "X8ZR472QSS.png",
+      "filename1": "6JURCPBF65.png",
+      "filename2": "N78MIDDJCG.png",
+      "filename3": "ZU72F6RHYM.png",
+      "filename4": "PKZPI3ENT8.png",
+      "filename5": "EH6OBO5GV5.png",
+      "filename6": "KVIL3BMC70.png",
+      "filename7": "HB1G7MWO1D.png",
+      "filename8": "753R33GR3W.png"
+    }
   },
   "57": {
-    "name_en": "Primeape",
-    "name_de": "Rasaff",
-    "filename": "57.png",
-    "filename1": "28QZXK62S8.png",
-    "filename2": "FA1KES2AC7.png",
-    "filename3": "6F2EHVMGPA.png",
-    "filename4": "P0ZU0KXEGP.png",
-    "filename5": "F7BZW6MG1B.png",
-    "filename6": "ZUAVYL0DE0.png",
-    "filename7": "ANFSEWNREX.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Primeape", "name_de": "Rasaff" },
+    "filenames": {
+      "filename": "04R17BCPOJ.png",
+      "filename1": "7HJQCUTW1D.png",
+      "filename2": "5BX48N9FML.png",
+      "filename3": "ZMMDKN2Y60.png",
+      "filename4": "LFYQ2JIEWS.png",
+      "filename5": "TOZE1BRMJN.png",
+      "filename6": "CB3IM8YO16.png",
+      "filename7": "JUJ4TBIMDR.png",
+      "filename8": "KH7ADWEV2S.png"
+    }
   },
   "58": {
-    "name_en": "Growlithe",
-    "name_de": "Fukano",
-    "filename": "58.png",
-    "filename1": "2CN3K9D5Q4.png",
-    "filename2": "E051QE7JJD.png",
-    "filename3": "78286UYSYM.png",
-    "filename4": "H05Y7TI77M.png",
-    "filename5": "I6KFZP5XPE.png",
-    "filename6": "G4CFF9JNB2.png",
-    "filename7": "30SJTW3AN7.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Growlithe", "name_de": "Fukano" },
+    "filenames": {
+      "filename": "PLRLRBQHBZ.png",
+      "filename1": "HAZM1UYOZB.png",
+      "filename2": "KZFQAOEJLQ.png",
+      "filename3": "FT2CZSBXQN.png",
+      "filename4": "YGHM481RCK.png",
+      "filename5": "ET6NWAZ1KS.png",
+      "filename6": "OKPXQXS60T.png",
+      "filename7": "3LKT7IY39C.png",
+      "filename8": "J01FQDSQCL.png"
+    }
   },
   "59": {
-    "name_en": "Arcanine",
-    "name_de": "Arkani",
-    "filename": "59.png",
-    "filename1": "U0EAUSD0RP.png",
-    "filename2": "P6D7U1G7ZB.png",
-    "filename3": "X3YCM2H0MZ.png",
-    "filename4": "BKCFT7C3SD.png",
-    "filename5": "O33YCK58G3.png",
-    "filename6": "E2ZQ97YWXQ.png",
-    "filename7": "D9KO53TUBE.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Arcanine", "name_de": "Arkani" },
+    "filenames": {
+      "filename": "YXLFO6YGI3.png",
+      "filename1": "0BP7PAIRHX.png",
+      "filename2": "D5EPGQJ0Y2.png",
+      "filename3": "FJU986UMZZ.png",
+      "filename4": "JZ5Y4T9V9G.png",
+      "filename5": "V5EFS1K8JK.png",
+      "filename6": "ODENWFPN3V.png",
+      "filename7": "S5YMLOC9YO.png",
+      "filename8": "1WLJ5TO69Q.png"
+    }
   },
   "60": {
-    "name_en": "Poliwag",
-    "name_de": "Quapsel",
-    "filename": "60.png",
-    "filename1": "BU5VNGBUHK.png",
-    "filename2": "L061STXSFZ.png",
-    "filename3": "ZKG3LC4HEC.png",
-    "filename4": "3I5D4SMAO9.png",
-    "filename5": "L63RXKDBM1.png",
-    "filename6": "ZWZ4576EMT.png",
-    "filename7": "IWPQPJGB3S.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Poliwag", "name_de": "Quapsel" },
+    "filenames": {
+      "filename": "J514XRNUBJ.png",
+      "filename1": "TE5BU0RTTS.png",
+      "filename2": "FT0IF47ZQP.png",
+      "filename3": "CWNJV8S62F.png",
+      "filename4": "ABSZVGDBDF.png",
+      "filename5": "2E3NZ5V0QT.png",
+      "filename6": "VOD61CPSDA.png",
+      "filename7": "USTQVJDHD8.png",
+      "filename8": "UH3LVMLDLB.png"
+    }
   },
   "61": {
-    "name_en": "Poliwhirl",
-    "name_de": "Quaputzi",
-    "filename": "61.png",
-    "filename1": "X2ZEUNG9L2.png",
-    "filename2": "MAY2DXQMLV.png",
-    "filename3": "2DDK44NXTO.png",
-    "filename4": "OP6JMWITJW.png",
-    "filename5": "OOKC31FOOE.png",
-    "filename6": "16JT70EBLY.png",
-    "filename7": "IYQ6Q07ZDI.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Poliwhirl", "name_de": "Quaputzi" },
+    "filenames": {
+      "filename": "GWUXA06WBY.png",
+      "filename1": "P7VCEL9FBR.png",
+      "filename2": "41349AIE0I.png",
+      "filename3": "Q9KCTDF8YN.png",
+      "filename4": "B54STB4TO4.png",
+      "filename5": "8XH20X24D9.png",
+      "filename6": "QA7E71A4LC.png",
+      "filename7": "XFPY4B26QP.png",
+      "filename8": "CQBXDQ48ZT.png"
+    }
   },
   "62": {
-    "name_en": "Poliwrath",
-    "name_de": "Quappo",
-    "filename": "62.png",
-    "filename1": "5UY07K79CQ.png",
-    "filename2": "RIVFATA7JR.png",
-    "filename3": "KPC1O5O1SA.png",
-    "filename4": "ZNUKNMVWH7.png",
-    "filename5": "XW8K4MBRBO.png",
-    "filename6": "9XNB1JF5HD.png",
-    "filename7": "396SEJMLMH.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Poliwrath", "name_de": "Quappo" },
+    "filenames": {
+      "filename": "0JB9CKGCWF.png",
+      "filename1": "0II7SCRH06.png",
+      "filename2": "K1KLITE444.png",
+      "filename3": "DRKYLNSGX2.png",
+      "filename4": "DY8B647CGP.png",
+      "filename5": "JFCUI62ZB0.png",
+      "filename6": "V91GCRT23U.png",
+      "filename7": "1XGKG8SDMN.png",
+      "filename8": "KGSN9F8SRJ.png"
+    }
   },
   "63": {
-    "name_en": "Abra",
-    "name_de": "Abra",
-    "filename": "63.png",
-    "filename1": "9PBQQEKWSU.png",
-    "filename2": "4J1BBYPNDV.png",
-    "filename3": "A7PB6BZMZK.png",
-    "filename4": "N2SI4NBNOJ.png",
-    "filename5": "P90PHC1PSI.png",
-    "filename6": "W74QO70BAN.png",
-    "filename7": "ZDQDWA9ZIL.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Abra", "name_de": "Abra" },
+    "filenames": {
+      "filename": "C7EHSKT156.png",
+      "filename1": "6W33HNN5HO.png",
+      "filename2": "5PSPIT5GFK.png",
+      "filename3": "8D48VHW53R.png",
+      "filename4": "UYGEFB639S.png",
+      "filename5": "DN9JYB77HV.png",
+      "filename6": "EBJTRK1P25.png",
+      "filename7": "D6RZ7XBF2L.png",
+      "filename8": "UN1A11AXH9.png"
+    }
   },
   "64": {
-    "name_en": "Kadabra",
-    "name_de": "Kadabra",
-    "filename": "64.png",
-    "filename1": "T7UKK1IP2Y.png",
-    "filename2": "FVU2WSUST4.png",
-    "filename3": "96XKFGNZOQ.png",
-    "filename4": "ZODRHFMNER.png",
-    "filename5": "9HN75VAZ72.png",
-    "filename6": "C7WGWI9MOT.png",
-    "filename7": "S3WZ38T7L3.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Kadabra", "name_de": "Kadabra" },
+    "filenames": {
+      "filename": "4ZIU1P6QS2.png",
+      "filename1": "28QGUTLTAD.png",
+      "filename2": "1S19ETM7MC.png",
+      "filename3": "XRQNTXWUPN.png",
+      "filename4": "J35E495TQ6.png",
+      "filename5": "T36KWLTSFY.png",
+      "filename6": "AOJGH9DZHH.png",
+      "filename7": "860Z0ILBG1.png",
+      "filename8": "2VJIMZCSNE.png"
+    }
   },
   "65": {
-    "name_en": "Alakazam",
-    "name_de": "Simsala",
-    "filename": "65.png",
-    "filename1": "84PEW7CIXB.png",
-    "filename2": "OQ9CM116I5.png",
-    "filename3": "RH12ATDDTK.png",
-    "filename4": "L5Q8DOBP7G.png",
-    "filename5": "S9V1N43U6B.png",
-    "filename6": "MENY6N6GQA.png",
-    "filename7": "WTLT2SO5WA.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Alakazam", "name_de": "Simsala" },
+    "filenames": {
+      "filename": "G9ATGFBD0F.png",
+      "filename1": "WYEYIL5LKZ.png",
+      "filename2": "F1MX5CSCBN.png",
+      "filename3": "Z9YMLPPFR4.png",
+      "filename4": "O9GLI6Q6J9.png",
+      "filename5": "5A2VSRYYAH.png",
+      "filename6": "ISKIBCJODT.png",
+      "filename7": "DU4TISJG30.png",
+      "filename8": "Z5GIJH5SOR.png"
+    }
   },
   "66": {
-    "name_en": "Machop",
-    "name_de": "Machollo",
-    "filename": "66.png",
-    "filename1": "45Z48UN0NY.png",
-    "filename2": "Y0MLBCQMH7.png",
-    "filename3": "MH5Q9ERRV3.png",
-    "filename4": "QJMPRCOAI2.png",
-    "filename5": "V9PMT9U6D1.png",
-    "filename6": "D735YWW6SJ.png",
-    "filename7": "MNPV5Q2XNX.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Machop", "name_de": "Machollo" },
+    "filenames": {
+      "filename": "UVIX1U1GRQ.png",
+      "filename1": "GQHZ9I5ZGJ.png",
+      "filename2": "ROF7PV1F0C.png",
+      "filename3": "EOBIBIFGL8.png",
+      "filename4": "YM5O3SAGGQ.png",
+      "filename5": "QA7UHVYEKH.png",
+      "filename6": "F6YVYS038I.png",
+      "filename7": "F7JN82HSZC.png",
+      "filename8": "K0TDN9CZCP.png"
+    }
   },
   "67": {
-    "name_en": "Machoke",
-    "name_de": "Maschock",
-    "filename": "67.png",
-    "filename1": "3X26MOXG4R.png",
-    "filename2": "QZECPBUGM5.png",
-    "filename3": "TCUVFCKJUM.png",
-    "filename4": "47LM8UC8SQ.png",
-    "filename5": "PD4USLSIWB.png",
-    "filename6": "4JKUYN03TM.png",
-    "filename7": "LVXPYT4YXA.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Machoke", "name_de": "Maschock" },
+    "filenames": {
+      "filename": "Z1PZY6SD48.png",
+      "filename1": "UZMLQ07MLI.png",
+      "filename2": "HD10PAWGKS.png",
+      "filename3": "IUQO2AJOLF.png",
+      "filename4": "OGP6DJVNEH.png",
+      "filename5": "H8Y89SK9BP.png",
+      "filename6": "X4PY8R8HKI.png",
+      "filename7": "SJ8HCSY26L.png",
+      "filename8": "HFNCZAM6X1.png"
+    }
   },
   "68": {
-    "name_en": "Machamp",
-    "name_de": "Machomei",
-    "filename": "68.png",
-    "filename1": "6WWR65HS6J.png",
-    "filename2": "ZM7RC7A80O.png",
-    "filename3": "4NLRY1ZJ42.png",
-    "filename4": "5NXHFR5LER.png",
-    "filename5": "ADQU5C1QN6.png",
-    "filename6": "NWH2C5OYYW.png",
-    "filename7": "QQGFYJ9YXB.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Machamp", "name_de": "Machomei" },
+    "filenames": {
+      "filename": "4D8B0DK4VY.png",
+      "filename1": "L99EV23RNL.png",
+      "filename2": "510C7VY26L.png",
+      "filename3": "IACGGXQ6K1.png",
+      "filename4": "V15368VBCR.png",
+      "filename5": "RKLN11P8BP.png",
+      "filename6": "3JO4HA9CIA.png",
+      "filename7": "X0T7G7WJRU.png",
+      "filename8": "PB6KLLJ70Y.png"
+    }
   },
   "69": {
-    "name_en": "Bellsprout",
-    "name_de": "Knofensa",
-    "filename": "69.png",
-    "filename1": "HVGTBTXPFF.png",
-    "filename2": "F4ELH5L8NS.png",
-    "filename3": "IMGW96DN4P.png",
-    "filename4": "09782N2CKL.png",
-    "filename5": "C8PNF1EJPO.png",
-    "filename6": "E51WWLGJF6.png",
-    "filename7": "UXM046VYYY.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Bellsprout", "name_de": "Knofensa" },
+    "filenames": {
+      "filename": "S0HVR1C5OI.png",
+      "filename1": "2PFH0FD1I7.png",
+      "filename2": "6SY2E2OM94.png",
+      "filename3": "EXRUZZRNBC.png",
+      "filename4": "8OAU28ELT7.png",
+      "filename5": "6XKWAXKZYJ.png",
+      "filename6": "9VLCFM0OHN.png",
+      "filename7": "I3AJ1QXAXH.png",
+      "filename8": "ZKUOW887OI.png"
+    }
   },
   "70": {
-    "name_en": "Weepinbell",
-    "name_de": "Ultrigaria",
-    "filename": "70.png",
-    "filename1": "4RP33JJIYJ.png",
-    "filename2": "H4RVIOUISE.png",
-    "filename3": "GFE3WAXMRG.png",
-    "filename4": "PH6430H7G5.png",
-    "filename5": "7HW0GMEUR2.png",
-    "filename6": "NUJQ9RPLYX.png",
-    "filename7": "HWPH55X3AL.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Weepinbell", "name_de": "Ultrigaria" },
+    "filenames": {
+      "filename": "Z1J2IN6GH5.png",
+      "filename1": "BMCQZ8SVIN.png",
+      "filename2": "AYL62Z8D7D.png",
+      "filename3": "R3QXNPJ93M.png",
+      "filename4": "NV7TDLPRBU.png",
+      "filename5": "Z3F4WRABES.png",
+      "filename6": "LXDM0AACH0.png",
+      "filename7": "963DQORWU4.png",
+      "filename8": "YQ4IIW1YA1.png"
+    }
   },
   "71": {
-    "name_en": "Victreebel",
-    "name_de": "Sarzenia",
-    "filename": "71.png",
-    "filename1": "QL5TUUQOZR.png",
-    "filename2": "CBQ1KGKW3X.png",
-    "filename3": "8F9IQVJ5F7.png",
-    "filename4": "AWG50T092Q.png",
-    "filename5": "J9ZW4QDL9D.png",
-    "filename6": "BWZMUS2OJS.png",
-    "filename7": "FH2JR29ZAK.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Victreebel", "name_de": "Sarzenia" },
+    "filenames": {
+      "filename": "MHIVAC2W2Y.png",
+      "filename1": "G90ELKZT8X.png",
+      "filename2": "0AB1AWVKS3.png",
+      "filename3": "5B9ROO7FMY.png",
+      "filename4": "MPIFPFHP39.png",
+      "filename5": "YNFRHTWZMD.png",
+      "filename6": "RDPQ38PL3F.png",
+      "filename7": "BSOXLDY6C3.png",
+      "filename8": "ZAKYQVCV60.png"
+    }
   },
   "72": {
-    "name_en": "Tentacool",
-    "name_de": "Tentacha",
-    "filename": "72.png",
-    "filename1": "N875H4R48G.png",
-    "filename2": "KNF73XZVOU.png",
-    "filename3": "UKMH4WOCRJ.png",
-    "filename4": "MAV94USTGO.png",
-    "filename5": "8XX2IHJ6RD.png",
-    "filename6": "E0XQ3TJDZE.png",
-    "filename7": "ZU7E78MXTO.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Tentacool", "name_de": "Tentacha" },
+    "filenames": {
+      "filename": "YE0Q19H88V.png",
+      "filename1": "U41FUOCRQF.png",
+      "filename2": "78U1NTPZXH.png",
+      "filename3": "YYFXBDT4UC.png",
+      "filename4": "EY34E4X5P9.png",
+      "filename5": "QPLS2EN32B.png",
+      "filename6": "ZPUGIBYS2O.png",
+      "filename7": "5OJ4HVBJJF.png",
+      "filename8": "4K96PDP5NQ.png"
+    }
   },
   "73": {
-    "name_en": "Tentacruel",
-    "name_de": "Tentoxa",
-    "filename": "73.png",
-    "filename1": "8CSDEVDP6U.png",
-    "filename2": "MJDMGMD38H.png",
-    "filename3": "0TPDSQVZ6Y.png",
-    "filename4": "LMEBR6U6Y3.png",
-    "filename5": "1C950EAJ6A.png",
-    "filename6": "E2Z0GAIUTD.png",
-    "filename7": "WMM6Y4VRAH.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Tentacruel", "name_de": "Tentoxa" },
+    "filenames": {
+      "filename": "F6B7PYW1PO.png",
+      "filename1": "AFOSA4MFFL.png",
+      "filename2": "RPQI45WF5A.png",
+      "filename3": "5A8M6B4XWY.png",
+      "filename4": "60TC2FY68W.png",
+      "filename5": "VNDTPZHVHE.png",
+      "filename6": "NK921I5UGP.png",
+      "filename7": "0H9ZGEHESD.png",
+      "filename8": "38MGFYISYH.png"
+    }
   },
   "74": {
-    "name_en": "Geodude",
-    "name_de": "Kleinstein",
-    "filename": "74.png",
-    "filename1": "7HY35ZVVU3.png",
-    "filename2": "EF6XLB8B5C.png",
-    "filename3": "KST58VWT1U.png",
-    "filename4": "AYQSJ2RACU.png",
-    "filename5": "9NTFJ7FQG5.png",
-    "filename6": "ZH2O9EAVZH.png",
-    "filename7": "00YTVOVU45.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Geodude", "name_de": "Kleinstein" },
+    "filenames": {
+      "filename": "J8DHYI4TL8.png",
+      "filename1": "SOK8ADL2X4.png",
+      "filename2": "PE3XJH5HIA.png",
+      "filename3": "SODN6C8VJV.png",
+      "filename4": "5J55HBMSJE.png",
+      "filename5": "H03LZ30PAY.png",
+      "filename6": "35FG3SKBRY.png",
+      "filename7": "PEPS59WNNB.png",
+      "filename8": "CKCYGNRWDY.png"
+    }
   },
   "75": {
-    "name_en": "Graveler",
-    "name_de": "Georok",
-    "filename": "75.png",
-    "filename1": "GJC9O3FAEA.png",
-    "filename2": "AP3I551Y1F.png",
-    "filename3": "K1T0R5Y7GC.png",
-    "filename4": "RV42GNT19N.png",
-    "filename5": "KYI5AWMFC0.png",
-    "filename6": "8NAJB3NLP0.png",
-    "filename7": "9PNELY5H5I.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Graveler", "name_de": "Georok" },
+    "filenames": {
+      "filename": "BAUK20LZXG.png",
+      "filename1": "9SO0UN4GWH.png",
+      "filename2": "VR5I2SDV48.png",
+      "filename3": "D5GYESAH4P.png",
+      "filename4": "NMOZK36TWH.png",
+      "filename5": "T4XOLU0WIQ.png",
+      "filename6": "R9YNQF1Q38.png",
+      "filename7": "7L5GNCOF7C.png",
+      "filename8": "KB2M7KJD57.png"
+    }
   },
   "76": {
-    "name_en": "Golem",
-    "name_de": "Geowaz",
-    "filename": "76.png",
-    "filename1": "0A4GNZU00U.png",
-    "filename2": "2NKHCGML4N.png",
-    "filename3": "SOLRMTHQW6.png",
-    "filename4": "OTTAT3EOUR.png",
-    "filename5": "0OUR66UF39.png",
-    "filename6": "83F2Z1KANQ.png",
-    "filename7": "JY29IV21I3.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Golem", "name_de": "Geowaz" },
+    "filenames": {
+      "filename": "L38XJAD9GO.png",
+      "filename1": "GO3725VRA2.png",
+      "filename2": "VL8HDWMVWW.png",
+      "filename3": "GY2C5QLLEB.png",
+      "filename4": "NH3AFZYE83.png",
+      "filename5": "JPI7FG0727.png",
+      "filename6": "P4S1FCSR9W.png",
+      "filename7": "3BL6GNHK45.png",
+      "filename8": "0JWDQMMTID.png"
+    }
   },
   "77": {
-    "name_en": "Ponyta",
-    "name_de": "Ponita",
-    "filename": "77.png",
-    "filename1": "O68RT3BG8J.png",
-    "filename2": "3YFKROYVTC.png",
-    "filename3": "VAMSJ4T3GT.png",
-    "filename4": "9NDQNTYC4G.png",
-    "filename5": "BWA3B2SDZJ.png",
-    "filename6": "1VNG86BX00.png",
-    "filename7": "2XQZ1JXLPY.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Ponyta", "name_de": "Ponita" },
+    "filenames": {
+      "filename": "JXSIBNGGWK.png",
+      "filename1": "90ASGP71CZ.png",
+      "filename2": "V1V2X13NKQ.png",
+      "filename3": "LYDFBYADGL.png",
+      "filename4": "9L4NCRHZAY.png",
+      "filename5": "RL0ISHFPX2.png",
+      "filename6": "ERWKR4DFBH.png",
+      "filename7": "F78MO3M9BO.png",
+      "filename8": "SPMJZBQIQN.png"
+    }
   },
   "78": {
-    "name_en": "Rapidash",
-    "name_de": "Gallopa",
-    "filename": "78.png",
-    "filename1": "N13I2A5WRU.png",
-    "filename2": "QXWC8FFY00.png",
-    "filename3": "YU8WDOPR6I.png",
-    "filename4": "V2J2RK00Y2.png",
-    "filename5": "ZB9YK60TP9.png",
-    "filename6": "2ZHAHX7C7G.png",
-    "filename7": "S43V5PO6HD.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Rapidash", "name_de": "Gallopa" },
+    "filenames": {
+      "filename": "K4EW3LW6V3.png",
+      "filename1": "VEBTT0KR1D.png",
+      "filename2": "48TKONU7GM.png",
+      "filename3": "4BIHJQKMJK.png",
+      "filename4": "EI848MDGBC.png",
+      "filename5": "H8ADWFTS7D.png",
+      "filename6": "UU1XPH5HKR.png",
+      "filename7": "6FLT3OYFX8.png",
+      "filename8": "HYXR9QTNYC.png"
+    }
   },
   "79": {
-    "name_en": "Slowpoke",
-    "name_de": "Flegmon",
-    "filename": "79.png",
-    "filename1": "CDP70MEBTF.png",
-    "filename2": "3UON4QM7PZ.png",
-    "filename3": "FRN6W4MN1A.png",
-    "filename4": "K4YMZV3L2J.png",
-    "filename5": "KS2T3I3X04.png",
-    "filename6": "WJL1BNFI2N.png",
-    "filename7": "6WHQMT5A5A.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Slowpoke", "name_de": "Flegmon" },
+    "filenames": {
+      "filename": "7900VIQ3YY.png",
+      "filename1": "4FG1H7KGUY.png",
+      "filename2": "8V0VAOE975.png",
+      "filename3": "2Z1EGCOVDY.png",
+      "filename4": "LTSA5H7U34.png",
+      "filename5": "9Z0EZHU58V.png",
+      "filename6": "FLIE6SBPZU.png",
+      "filename7": "IPLSLN4KYD.png",
+      "filename8": "22RDB7EHUH.png"
+    }
   },
   "80": {
-    "name_en": "Slowbro",
-    "name_de": "Lahmus",
-    "filename": "80.png",
-    "filename1": "2SJDMUKDPP.png",
-    "filename2": "FRN8PE8ZM5.png",
-    "filename3": "WBV4JQW5P8.png",
-    "filename4": "JKCCWEOWW8.png",
-    "filename5": "8IOSCMGGNC.png",
-    "filename6": "RLE726ITAK.png",
-    "filename7": "3ATO0DS3Y0.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Slowbro", "name_de": "Lahmus" },
+    "filenames": {
+      "filename": "AR71O87853.png",
+      "filename1": "YT30CH8676.png",
+      "filename2": "9ZCLFY3Y8C.png",
+      "filename3": "88JYAX6817.png",
+      "filename4": "DF2UHMQWM9.png",
+      "filename5": "1O0IA8L2CO.png",
+      "filename6": "3LVNMCT2X9.png",
+      "filename7": "ZTY5T9PQGP.png",
+      "filename8": "9TPR67SI01.png"
+    }
   },
   "81": {
-    "name_en": "Magnemite",
-    "name_de": "Magnetilo",
-    "filename": "81.png",
-    "filename1": "0IIHR4HGL4.png",
-    "filename2": "ETDLWS7GWD.png",
-    "filename3": "WUGBA0P6BJ.png",
-    "filename4": "R908FHONLK.png",
-    "filename5": "RNAM5CZH23.png",
-    "filename6": "1VRVL643R7.png",
-    "filename7": "4D3DJUTI2N.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Magnemite", "name_de": "Magnetilo" },
+    "filenames": {
+      "filename": "D0A512H53G.png",
+      "filename1": "SM9L5LHWSS.png",
+      "filename2": "YZPGTWNVF7.png",
+      "filename3": "Q3F367JYOI.png",
+      "filename4": "Q1MSV8P6TK.png",
+      "filename5": "CCA4Y9EL08.png",
+      "filename6": "MZGD45KBFE.png",
+      "filename7": "XYQC8ZPZ2T.png",
+      "filename8": "ANFT3XF0ZL.png"
+    }
   },
   "82": {
-    "name_en": "Magneton",
-    "name_de": "Magneton",
-    "filename": "82.png",
-    "filename1": "FPECM0H28K.png",
-    "filename2": "8MSJ9BNVTX.png",
-    "filename3": "3RYUHN3DUO.png",
-    "filename4": "6L0T045AXD.png",
-    "filename5": "GWC6GSTDWL.png",
-    "filename6": "HRJHS8YIWA.png",
-    "filename7": "2E2L81Z9ZR.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Magneton", "name_de": "Magneton" },
+    "filenames": {
+      "filename": "Z3WG50UHMV.png",
+      "filename1": "ETBF9XQIW9.png",
+      "filename2": "VPVKBGAOG8.png",
+      "filename3": "DFP4B6UEA9.png",
+      "filename4": "FH7UUD52HZ.png",
+      "filename5": "X2GPPSF1OH.png",
+      "filename6": "E74CLC2QPP.png",
+      "filename7": "QLT3B9KNEG.png",
+      "filename8": "3NDCWOT4U8.png"
+    }
   },
   "83": {
-    "name_en": "Farfetch'd",
-    "name_de": "Porenta",
-    "filename": "83.png",
-    "filename1": "TQQS5RXK8J.png",
-    "filename2": "4A76D6P92N.png",
-    "filename3": "BNC1DIW2M6.png",
-    "filename4": "GRR1ZRDHGJ.png",
-    "filename5": "0IIM1DGHVS.png",
-    "filename6": "FY3G199FHP.png",
-    "filename7": "XE0KNM6IPG.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Farfetch'd", "name_de": "Porenta" },
+    "filenames": {
+      "filename": "TY3FFNCPA7.png",
+      "filename1": "HKTME0RALI.png",
+      "filename2": "5U7YCJYZLR.png",
+      "filename3": "IGHNR4VP37.png",
+      "filename4": "4I14D1DV59.png",
+      "filename5": "9FT29BFMIZ.png",
+      "filename6": "IZ4487L0QP.png",
+      "filename7": "E0GG4K7FVB.png",
+      "filename8": "B1B8LZOGVY.png"
+    }
   },
   "84": {
-    "name_en": "Doduo",
-    "name_de": "Dodu",
-    "filename": "84.png",
-    "filename1": "N6I9HITY16.png",
-    "filename2": "SXJD59DTEP.png",
-    "filename3": "UAHMWYZHNF.png",
-    "filename4": "T1BDCTHUZF.png",
-    "filename5": "DT9BN68P0I.png",
-    "filename6": "UFXFAXEJKU.png",
-    "filename7": "8OWBR3NJB3.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Doduo", "name_de": "Dodu" },
+    "filenames": {
+      "filename": "DN55CS43FM.png",
+      "filename1": "VKDDFYZ6BM.png",
+      "filename2": "NDQF41LXPS.png",
+      "filename3": "WXVE0U0KCD.png",
+      "filename4": "WEDDY2IEN8.png",
+      "filename5": "WDSUKYKBSD.png",
+      "filename6": "RY2VDP6TJ1.png",
+      "filename7": "5YWIEWA5HQ.png",
+      "filename8": "ZPAD0XH0VQ.png"
+    }
   },
   "85": {
-    "name_en": "Dodrio",
-    "name_de": "Dodri",
-    "filename": "85.png",
-    "filename1": "MK5LJNIIG7.png",
-    "filename2": "SPLWMBV1D4.png",
-    "filename3": "CCO45RKMJ1.png",
-    "filename4": "KCTE2KCCCC.png",
-    "filename5": "LVA8N7A5EU.png",
-    "filename6": "AQKR1GJAOQ.png",
-    "filename7": "WIWQCBS4D7.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Dodrio", "name_de": "Dodri" },
+    "filenames": {
+      "filename": "4YTZNNWSSX.png",
+      "filename1": "3N73M95TMS.png",
+      "filename2": "U1MRUA9Z1X.png",
+      "filename3": "HLR91J8O2Z.png",
+      "filename4": "VOIJOAD73K.png",
+      "filename5": "P6JV0QS4H5.png",
+      "filename6": "XZW3GAM38C.png",
+      "filename7": "QT8IO53MPT.png",
+      "filename8": "2NHVSHVWT3.png"
+    }
   },
   "86": {
-    "name_en": "Seel",
-    "name_de": "Jurob",
-    "filename": "86.png",
-    "filename1": "AIL31NNWI5.png",
-    "filename2": "QKK0RYW4P2.png",
-    "filename3": "RN3VJWD93P.png",
-    "filename4": "7856I4XUP3.png",
-    "filename5": "6PPW66GGUP.png",
-    "filename6": "YPZPFJBJRB.png",
-    "filename7": "HP93AERPON.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Seel", "name_de": "Jurob" },
+    "filenames": {
+      "filename": "BCXEGJXQCO.png",
+      "filename1": "YE08PW3FR4.png",
+      "filename2": "O0FDJ4IAWE.png",
+      "filename3": "UJ7TM1999J.png",
+      "filename4": "A0N0IP1IDL.png",
+      "filename5": "306NX8E3BV.png",
+      "filename6": "FF807JIOPB.png",
+      "filename7": "QZTRXTR0E7.png",
+      "filename8": "R3IB1SGHMS.png"
+    }
   },
   "87": {
-    "name_en": "Dewgong",
-    "name_de": "Jugong",
-    "filename": "87.png",
-    "filename1": "G3FAPVS1QS.png",
-    "filename2": "T9I97Q6F26.png",
-    "filename3": "HQDH4IJ88G.png",
-    "filename4": "8XQF332DAJ.png",
-    "filename5": "GE1K02YQG1.png",
-    "filename6": "YFD2IDOMAC.png",
-    "filename7": "P9W4YWOHMP.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Dewgong", "name_de": "Jugong" },
+    "filenames": {
+      "filename": "4U9623HXMP.png",
+      "filename1": "I0K3B5TJO9.png",
+      "filename2": "XD2UQ1X978.png",
+      "filename3": "DF7LNMGE2N.png",
+      "filename4": "YU130NWT6J.png",
+      "filename5": "XOIAGH11WO.png",
+      "filename6": "ZV0I3G3LEY.png",
+      "filename7": "AC0BGU5EIT.png",
+      "filename8": "3YQWBFKBF3.png"
+    }
   },
   "88": {
-    "name_en": "Grimer",
-    "name_de": "Sleima",
-    "filename": "88.png",
-    "filename1": "CJCIBEAZD9.png",
-    "filename2": "S7JPMK7J56.png",
-    "filename3": "SCUBKKUX69.png",
-    "filename4": "ITKC704CGA.png",
-    "filename5": "MJ57HOJ5WI.png",
-    "filename6": "YDRM5UICQ8.png",
-    "filename7": "HD0TSTXD1E.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Grimer", "name_de": "Sleima" },
+    "filenames": {
+      "filename": "K5843E1ZS2.png",
+      "filename1": "YKO9K2J2D6.png",
+      "filename2": "N898JKUYSQ.png",
+      "filename3": "0NITPZ4Q09.png",
+      "filename4": "DBY7EXY3EQ.png",
+      "filename5": "340WV7JLLU.png",
+      "filename6": "G12H11T11P.png",
+      "filename7": "7ZH8I3IRHE.png",
+      "filename8": "BR2Q8LNO36.png"
+    }
   },
   "89": {
-    "name_en": "Muk",
-    "name_de": "Sleimok",
-    "filename": "89.png",
-    "filename1": "WPXKCGI566.png",
-    "filename2": "WIZEHPQPXJ.png",
-    "filename3": "PY2JXBL3DX.png",
-    "filename4": "E4LH3XFNF5.png",
-    "filename5": "0GHI0LFMJE.png",
-    "filename6": "MJ92C47CVB.png",
-    "filename7": "4SLGG3TWLO.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Muk", "name_de": "Sleimok" },
+    "filenames": {
+      "filename": "7XRXB1Y9ZV.png",
+      "filename1": "BPLWZ4YS2L.png",
+      "filename2": "7ZCWZTKU71.png",
+      "filename3": "3EOQVWAM27.png",
+      "filename4": "RXWTWIGZAB.png",
+      "filename5": "DFY1FV7GE0.png",
+      "filename6": "R0DN0WHSJB.png",
+      "filename7": "LZPF2A9ASH.png",
+      "filename8": "56DLKSQEPN.png"
+    }
   },
   "90": {
-    "name_en": "Shellder",
-    "name_de": "Muschas",
-    "filename": "90.png",
-    "filename1": "ED54BUHD5F.png",
-    "filename2": "L146T6O2HP.png",
-    "filename3": "82S2GJIPYF.png",
-    "filename4": "9FBVBYLYL0.png",
-    "filename5": "8U5C8XBK9G.png",
-    "filename6": "YMB6MGK5XW.png",
-    "filename7": "T2PEUXJZB3.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Shellder", "name_de": "Muschas" },
+    "filenames": {
+      "filename": "JL4A682E8C.png",
+      "filename1": "VB6BA4Y216.png",
+      "filename2": "UCTYFGD6TE.png",
+      "filename3": "KOCI0Z6ZXK.png",
+      "filename4": "VXOILO3L6R.png",
+      "filename5": "UQWUJWLL1U.png",
+      "filename6": "R309A83G4B.png",
+      "filename7": "EAW0ESNIYC.png",
+      "filename8": "H4KWUFBO7K.png"
+    }
   },
   "91": {
-    "name_en": "Cloyster",
-    "name_de": "Austos",
-    "filename": "91.png",
-    "filename1": "F7XCJMP1RF.png",
-    "filename2": "W8F9KU2U46.png",
-    "filename3": "CMU13P2LXE.png",
-    "filename4": "3IZR5E9UPW.png",
-    "filename5": "OOZ2YL0B0A.png",
-    "filename6": "33IN48VQOV.png",
-    "filename7": "2KF1H0ACS7.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Cloyster", "name_de": "Austos" },
+    "filenames": {
+      "filename": "D2BAY2S3ZC.png",
+      "filename1": "P6M7TIMZJ0.png",
+      "filename2": "P8T9D6CX8K.png",
+      "filename3": "GN3B6VJGK5.png",
+      "filename4": "D6WVLX0FYP.png",
+      "filename5": "PWUF1G6LVS.png",
+      "filename6": "1ZIWRDCXX2.png",
+      "filename7": "LROOPSIXV4.png",
+      "filename8": "VPS44PLU58.png"
+    }
   },
   "92": {
-    "name_en": "Gastly",
-    "name_de": "Nebulak",
-    "filename": "92.png",
-    "filename1": "HTCXNDZ5R3.png",
-    "filename2": "H2DLR1H0FV.png",
-    "filename3": "P10T0U6PPL.png",
-    "filename4": "JUT5HJ4S7D.png",
-    "filename5": "JX1S2FBXC3.png",
-    "filename6": "POG9DQSTWF.png",
-    "filename7": "VI2CBS2D2Q.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Gastly", "name_de": "Nebulak" },
+    "filenames": {
+      "filename": "0AK2SY13RX.png",
+      "filename1": "AJXVR53TGN.png",
+      "filename2": "ULCEDV11US.png",
+      "filename3": "VIXQEJ8KIF.png",
+      "filename4": "42TKKZP9O1.png",
+      "filename5": "V6YED86KG3.png",
+      "filename6": "O8GEUZ414V.png",
+      "filename7": "7UANCVYN7L.png",
+      "filename8": "U46F99R9II.png"
+    }
   },
   "93": {
-    "name_en": "Haunter",
-    "name_de": "Alpollo",
-    "filename": "93.png",
-    "filename1": "DL9TNGWHWG.png",
-    "filename2": "3ZSJRT7Y7L.png",
-    "filename3": "A35P2NS20O.png",
-    "filename4": "EBKA997TFM.png",
-    "filename5": "6U7797KT6R.png",
-    "filename6": "QT4O3VN3HK.png",
-    "filename7": "QHB7SLEJVP.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Haunter", "name_de": "Alpollo" },
+    "filenames": {
+      "filename": "Y7XO2JGP21.png",
+      "filename1": "OSW0JUP7DB.png",
+      "filename2": "CUBCD9HPI5.png",
+      "filename3": "7TQ9W04BB5.png",
+      "filename4": "AAD09T6UQG.png",
+      "filename5": "0BGXLDYXJJ.png",
+      "filename6": "9KQJDUXSZP.png",
+      "filename7": "0DLF0Z01VF.png",
+      "filename8": "P56GX37PXL.png"
+    }
   },
   "94": {
-    "name_en": "Gengar",
-    "name_de": "Gengar",
-    "filename": "94.png",
-    "filename1": "UEIGQHIHL4.png",
-    "filename2": "UK5WL4NDWE.png",
-    "filename3": "K72HKUNB9D.png",
-    "filename4": "UTGKVCYOF7.png",
-    "filename5": "TJOYPOOR2R.png",
-    "filename6": "S3ILY0OG66.png",
-    "filename7": "BG4YT3FH5X.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Gengar", "name_de": "Gengar" },
+    "filenames": {
+      "filename": "V1RDFC6EQQ.png",
+      "filename1": "3L2YGM180B.png",
+      "filename2": "5UBR5ZJ2H2.png",
+      "filename3": "JAGCNHPLYA.png",
+      "filename4": "BEVWQ9QTRY.png",
+      "filename5": "RSPQXRF5PM.png",
+      "filename6": "QVM0NOX5MB.png",
+      "filename7": "E3NHL2712K.png",
+      "filename8": "59XMN1TG7J.png"
+    }
   },
   "95": {
-    "name_en": "Onix",
-    "name_de": "Onix",
-    "filename": "95.png",
-    "filename1": "8T29TYOZ98.png",
-    "filename2": "P3TQZIKGYU.png",
-    "filename3": "RT5KV0YZJ3.png",
-    "filename4": "T8Y43DQJ68.png",
-    "filename5": "2H0XBQU2H4.png",
-    "filename6": "XPTN8NXCXF.png",
-    "filename7": "LO54FWCW6U.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Onix", "name_de": "Onix" },
+    "filenames": {
+      "filename": "T8WENREQGL.png",
+      "filename1": "2DXBM4H161.png",
+      "filename2": "CBFECCXGDI.png",
+      "filename3": "IOTQAV2TVR.png",
+      "filename4": "H4MERDTRXX.png",
+      "filename5": "P3GJRBC31X.png",
+      "filename6": "5CWZAW079B.png",
+      "filename7": "FGIWBS53JO.png",
+      "filename8": "33YMAA7WUD.png"
+    }
   },
   "96": {
-    "name_en": "Drowzee",
-    "name_de": "Traumato",
-    "filename": "96.png",
-    "filename1": "V8D2ZZ2CQP.png",
-    "filename2": "9A6NPTELMN.png",
-    "filename3": "OJC6RY34I9.png",
-    "filename4": "YGKFSJ08EG.png",
-    "filename5": "7PSLRTS2X1.png",
-    "filename6": "WSCGIJUKO5.png",
-    "filename7": "8V1214P8OX.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Drowzee", "name_de": "Traumato" },
+    "filenames": {
+      "filename": "KUYAD4OBT7.png",
+      "filename1": "LDF9V7CLTO.png",
+      "filename2": "W4XZKBFRGH.png",
+      "filename3": "MPE92TY7KX.png",
+      "filename4": "R3QPJH3ABZ.png",
+      "filename5": "QZBMX0AR04.png",
+      "filename6": "GNHPAPZWGY.png",
+      "filename7": "3JKTWQXUQB.png",
+      "filename8": "YCLFUN3PJP.png"
+    }
   },
   "97": {
-    "name_en": "Hypno",
-    "name_de": "Hypno",
-    "filename": "97.png",
-    "filename1": "S6QX2ZCZIL.png",
-    "filename2": "P741ARCPI9.png",
-    "filename3": "20ABAP2N3B.png",
-    "filename4": "8KVEJRBA03.png",
-    "filename5": "LMNTGLM2DS.png",
-    "filename6": "OQWAPNJATN.png",
-    "filename7": "ROVHET46IR.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Hypno", "name_de": "Hypno" },
+    "filenames": {
+      "filename": "N7GZYGA9YR.png",
+      "filename1": "MO2A1OBHOW.png",
+      "filename2": "LZ7DKRYVQK.png",
+      "filename3": "65SD1IU7V5.png",
+      "filename4": "CL1CZ79NMO.png",
+      "filename5": "DUULPSOWWK.png",
+      "filename6": "LA69DAS5G4.png",
+      "filename7": "G6HW123FHG.png",
+      "filename8": "T9W6WCA07O.png"
+    }
   },
   "98": {
-    "name_en": "Krabby",
-    "name_de": "Krabby",
-    "filename": "98.png",
-    "filename1": "9AQWL8QER5.png",
-    "filename2": "1POSI7DQB1.png",
-    "filename3": "CQZ82PNXK5.png",
-    "filename4": "H6VF193CHP.png",
-    "filename5": "F0H74XB2NI.png",
-    "filename6": "H6GP5FXXE1.png",
-    "filename7": "4P9A08ENIF.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Krabby", "name_de": "Krabby" },
+    "filenames": {
+      "filename": "7RXIJYZ6XS.png",
+      "filename1": "L3MS3YK5VH.png",
+      "filename2": "JK8NKBCTW6.png",
+      "filename3": "CO0P8TQHN3.png",
+      "filename4": "ZQXENLV7BE.png",
+      "filename5": "C0M5H44FFG.png",
+      "filename6": "W8X7SWO9HU.png",
+      "filename7": "SZ65PE02Q4.png",
+      "filename8": "XB6QDXXFH3.png"
+    }
   },
   "99": {
-    "name_en": "Kingler",
-    "name_de": "Kingler",
-    "filename": "99.png",
-    "filename1": "ILZH8EGCB8.png",
-    "filename2": "Z23IQ7J77H.png",
-    "filename3": "ZV0YUSQBPY.png",
-    "filename4": "8M5DS1BJ9H.png",
-    "filename5": "BSGWKJSBMB.png",
-    "filename6": "0BG5PNK9SU.png",
-    "filename7": "G63UKWCIWC.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Kingler", "name_de": "Kingler" },
+    "filenames": {
+      "filename": "D60FCCFYP7.png",
+      "filename1": "2AYOC60STM.png",
+      "filename2": "NGTAD5UYMU.png",
+      "filename3": "21505Y12PP.png",
+      "filename4": "IQC0Y5WPI0.png",
+      "filename5": "8JQF1LTZTA.png",
+      "filename6": "6EH4Z5PDV7.png",
+      "filename7": "8B6VL0NH0X.png",
+      "filename8": "P84KRN0HLI.png"
+    }
   },
   "100": {
-    "name_en": "Voltorb",
-    "name_de": "Voltobal",
-    "filename": "100.png",
-    "filename1": "9ULOV4HY34.png",
-    "filename2": "8O5ZAKDOZ6.png",
-    "filename3": "H29T7F07D4.png",
-    "filename4": "4NLIEX2ON4.png",
-    "filename5": "MYDWAG5HRY.png",
-    "filename6": "F8WA2NUI8B.png",
-    "filename7": "IBBICKO7LK.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Voltorb", "name_de": "Voltobal" },
+    "filenames": {
+      "filename": "WEY7WST905.png",
+      "filename1": "RSQXUEXTRY.png",
+      "filename2": "VXLEZH2A3Q.png",
+      "filename3": "JSSEXSFMKK.png",
+      "filename4": "01IBIWIC75.png",
+      "filename5": "XKEXUI97GA.png",
+      "filename6": "CDIMVD940Z.png",
+      "filename7": "22BJOMLXIW.png",
+      "filename8": "23GMOP8CSY.png"
+    }
   },
   "101": {
-    "name_en": "Electrode",
-    "name_de": "Lektrobal",
-    "filename": "101.png",
-    "filename1": "TNOIL8BC8Q.png",
-    "filename2": "K6XMVFZSXN.png",
-    "filename3": "634VXNC2A7.png",
-    "filename4": "PR1WKTBXFY.png",
-    "filename5": "1DFWR1H5G5.png",
-    "filename6": "USPWBMAFSB.png",
-    "filename7": "BE2MZIKU34.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Electrode", "name_de": "Lektrobal" },
+    "filenames": {
+      "filename": "6YQP31K5Q1.png",
+      "filename1": "TA1ZECY06Z.png",
+      "filename2": "5CYQ8EALCJ.png",
+      "filename3": "Y2BX0943S1.png",
+      "filename4": "W8YM87XM5Q.png",
+      "filename5": "FYRQ48YWY4.png",
+      "filename6": "YU8F61NTJP.png",
+      "filename7": "9YWXA6OASC.png",
+      "filename8": "6WMZAUF6AH.png"
+    }
   },
   "102": {
-    "name_en": "Exeggcute",
-    "name_de": "Owei",
-    "filename": "102.png",
-    "filename1": "7B4IJPCAQW.png",
-    "filename2": "X8N97S13L1.png",
-    "filename3": "KS4IEETLNT.png",
-    "filename4": "B7P3CA43JP.png",
-    "filename5": "JP59G1WYWV.png",
-    "filename6": "PFT4BZ7D8Z.png",
-    "filename7": "N85MHDIMLJ.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Exeggcute", "name_de": "Owei" },
+    "filenames": {
+      "filename": "WCYIP64KG3.png",
+      "filename1": "VGYIB6IKM8.png",
+      "filename2": "VHIVV0SPH3.png",
+      "filename3": "F02M941CHU.png",
+      "filename4": "B5NPWJ2C7Z.png",
+      "filename5": "BDKI4NQX33.png",
+      "filename6": "KN51O7TVPZ.png",
+      "filename7": "M05IWH0L7U.png",
+      "filename8": "9JP02J6OZ7.png"
+    }
   },
   "103": {
-    "name_en": "Exeggutor",
-    "name_de": "Kokowei",
-    "filename": "103.png",
-    "filename1": "E837JF31RK.png",
-    "filename2": "P1XEOYTELB.png",
-    "filename3": "4M7A58NIRE.png",
-    "filename4": "NAYO3M5NV2.png",
-    "filename5": "4XIGPS1IVU.png",
-    "filename6": "VCOQXTNUHK.png",
-    "filename7": "JWZQODK0HM.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Exeggutor", "name_de": "Kokowei" },
+    "filenames": {
+      "filename": "NUISIZ6WH5.png",
+      "filename1": "YDJRP4CS04.png",
+      "filename2": "OPBHQI73DT.png",
+      "filename3": "PVQ9V16CXX.png",
+      "filename4": "AX841JXXHM.png",
+      "filename5": "HNPCLPRDKJ.png",
+      "filename6": "K4Q7066O3X.png",
+      "filename7": "TVVW1IYN50.png",
+      "filename8": "810YG2F6LD.png"
+    }
   },
   "104": {
-    "name_en": "Cubone",
-    "name_de": "Tragosso",
-    "filename": "104.png",
-    "filename1": "XT4RY6H5F6.png",
-    "filename2": "74LWZ5RAFL.png",
-    "filename3": "WPM7CFTPJL.png",
-    "filename4": "K12VQJK2OV.png",
-    "filename5": "4SQA0SAZ7R.png",
-    "filename6": "4Z3278ZAYO.png",
-    "filename7": "8GSWNVDJU9.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Cubone", "name_de": "Tragosso" },
+    "filenames": {
+      "filename": "B8E6O4AVRS.png",
+      "filename1": "S05LVQ0RON.png",
+      "filename2": "EFYE1R8M9N.png",
+      "filename3": "9LJ42EVARV.png",
+      "filename4": "3VWWH8WFHQ.png",
+      "filename5": "UPBQBH3I92.png",
+      "filename6": "ISKXW4D8XA.png",
+      "filename7": "CLUTINB40Y.png",
+      "filename8": "6OF56U5QTO.png"
+    }
   },
   "105": {
-    "name_en": "Marowak",
-    "name_de": "Knogga",
-    "filename": "105.png",
-    "filename1": "KS7CYRIAXS.png",
-    "filename2": "6J918YAFGQ.png",
-    "filename3": "D1AMR8Y2GH.png",
-    "filename4": "9C6TVNGBS9.png",
-    "filename5": "V8Z22O6EOL.png",
-    "filename6": "W4DARONNSM.png",
-    "filename7": "BOM038VWD2.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Marowak", "name_de": "Knogga" },
+    "filenames": {
+      "filename": "9JWODSUS8B.png",
+      "filename1": "P99XGRTDWL.png",
+      "filename2": "3BNGDCPLX2.png",
+      "filename3": "QB36KT46FC.png",
+      "filename4": "7OR63G3H2Z.png",
+      "filename5": "6EZ7NMWZIS.png",
+      "filename6": "4OVRR0E7QC.png",
+      "filename7": "OT49QJSUXM.png",
+      "filename8": "ZM5LZMAHM3.png"
+    }
   },
   "106": {
-    "name_en": "Hitmonlee",
-    "name_de": "Kicklee",
-    "filename": "106.png",
-    "filename1": "1SH8YLTMMQ.png",
-    "filename2": "66YDDWF7OZ.png",
-    "filename3": "0A1MU01BIU.png",
-    "filename4": "6DBSLVZWJT.png",
-    "filename5": "2ZYHT359M2.png",
-    "filename6": "XEII5R07XI.png",
-    "filename7": "9P915O7E2N.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Hitmonlee", "name_de": "Kicklee" },
+    "filenames": {
+      "filename": "D2NG9XERI1.png",
+      "filename1": "3OHYDIHHO9.png",
+      "filename2": "B982H63DSD.png",
+      "filename3": "8MDOY7YR7A.png",
+      "filename4": "J8KLMJDFYZ.png",
+      "filename5": "2TYDGD3B65.png",
+      "filename6": "N827GG1IUA.png",
+      "filename7": "2KIFBTYG7O.png",
+      "filename8": "JC8CTB74M6.png"
+    }
   },
   "107": {
-    "name_en": "Hitmonchan",
-    "name_de": "Nockchan",
-    "filename": "107.png",
-    "filename1": "4KRGEFXRK4.png",
-    "filename2": "PQPCJE3KPX.png",
-    "filename3": "Q0M2SN9DXI.png",
-    "filename4": "KNZIP0V1IX.png",
-    "filename5": "4QGT2VIUVU.png",
-    "filename6": "QQSYD7GLFT.png",
-    "filename7": "OSWFHVPZAD.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Hitmonchan", "name_de": "Nockchan" },
+    "filenames": {
+      "filename": "Z8OL27QDKV.png",
+      "filename1": "BJOHJFWJA1.png",
+      "filename2": "9NXARKAEWW.png",
+      "filename3": "GPME4EKQH4.png",
+      "filename4": "XPT18W802V.png",
+      "filename5": "2OKPIB6H57.png",
+      "filename6": "OQZ3DZGF3Z.png",
+      "filename7": "8YWSSA0JNJ.png",
+      "filename8": "T4S0RAE1KC.png"
+    }
   },
   "108": {
-    "name_en": "Lickitung",
-    "name_de": "Schlurp",
-    "filename": "108.png",
-    "filename1": "DLX94N5CME.png",
-    "filename2": "68WW921IY4.png",
-    "filename3": "7I5RX8IAMY.png",
-    "filename4": "MDKVVZJGM0.png",
-    "filename5": "NV19M9BKBD.png",
-    "filename6": "LXMGQYMSOB.png",
-    "filename7": "O67PI5NO8V.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Lickitung", "name_de": "Schlurp" },
+    "filenames": {
+      "filename": "IGC6ZWVCTI.png",
+      "filename1": "ETOPDHBHB3.png",
+      "filename2": "ROFRGNGG8R.png",
+      "filename3": "PCU1MQAVOJ.png",
+      "filename4": "G69JOQ5W1Y.png",
+      "filename5": "LVRVVJEF4S.png",
+      "filename6": "VIKHH0KWCD.png",
+      "filename7": "AZA91P2IIT.png",
+      "filename8": "WGERXJEM6P.png"
+    }
   },
   "109": {
-    "name_en": "Koffing",
-    "name_de": "Smogon",
-    "filename": "109.png",
-    "filename1": "GHO6K5BLNZ.png",
-    "filename2": "WTS5K4VTWB.png",
-    "filename3": "MFF9JYX5LW.png",
-    "filename4": "C7KWMZI6RQ.png",
-    "filename5": "OOLZGO9LIM.png",
-    "filename6": "C97AZSQOBD.png",
-    "filename7": "RUP2TBKZCY.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Koffing", "name_de": "Smogon" },
+    "filenames": {
+      "filename": "VXXU93TZBZ.png",
+      "filename1": "HP8S4LDPO5.png",
+      "filename2": "UL80BR482C.png",
+      "filename3": "NT5AS150OB.png",
+      "filename4": "HTRXHBUMMD.png",
+      "filename5": "D4IL00V48T.png",
+      "filename6": "L9NRFZ5EK3.png",
+      "filename7": "UZRAR8RTXW.png",
+      "filename8": "GO2CE32GQL.png"
+    }
   },
   "110": {
-    "name_en": "Weezing",
-    "name_de": "Smogmog",
-    "filename": "110.png",
-    "filename1": "MA0PXHC4OY.png",
-    "filename2": "1Q176A2MHY.png",
-    "filename3": "F08SD1RW3K.png",
-    "filename4": "X1XNEPF6SP.png",
-    "filename5": "TWXBYUQQIM.png",
-    "filename6": "CFRR564LZG.png",
-    "filename7": "WKLWCF9VCE.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Weezing", "name_de": "Smogmog" },
+    "filenames": {
+      "filename": "F04T7AXR7N.png",
+      "filename1": "LFFBS6FP6E.png",
+      "filename2": "E0A7QRUSXB.png",
+      "filename3": "I7AXSCZE2Z.png",
+      "filename4": "Q45QSTKUYI.png",
+      "filename5": "NA3ELTS5W7.png",
+      "filename6": "HP5AKC2L1A.png",
+      "filename7": "RVRWG4WP2H.png",
+      "filename8": "VDYBUQZC8Q.png"
+    }
   },
   "111": {
-    "name_en": "Rhyhorn",
-    "name_de": "Rihorn",
-    "filename": "111.png",
-    "filename1": "LKLCY8WG9G.png",
-    "filename2": "KBNXJLI03Y.png",
-    "filename3": "D6AZRYFI4D.png",
-    "filename4": "ENPO9Z44X7.png",
-    "filename5": "OZUPXSF2B6.png",
-    "filename6": "SSUIREAEP7.png",
-    "filename7": "R03TGSWOOI.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Rhyhorn", "name_de": "Rihorn" },
+    "filenames": {
+      "filename": "68IT7AL0N8.png",
+      "filename1": "1EOXWUY7JO.png",
+      "filename2": "MUY9CC0AP1.png",
+      "filename3": "CQWJWHAKYZ.png",
+      "filename4": "BZ638B3UUH.png",
+      "filename5": "YUYJYNG1AP.png",
+      "filename6": "FBX7NIT1WI.png",
+      "filename7": "0W9L4Q2U0C.png",
+      "filename8": "2FJJLQLDAE.png"
+    }
   },
   "112": {
-    "name_en": "Rhydon",
-    "name_de": "Rizeros",
-    "filename": "112.png",
-    "filename1": "HXZCKOY9IH.png",
-    "filename2": "DUUTPH0081.png",
-    "filename3": "B87L6JI8XV.png",
-    "filename4": "Q98079RJ91.png",
-    "filename5": "WBFS2GC32W.png",
-    "filename6": "49JALXQ3GV.png",
-    "filename7": "ILL03PEHDI.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Rhydon", "name_de": "Rizeros" },
+    "filenames": {
+      "filename": "AZPT4338AO.png",
+      "filename1": "WRMBVLRIXX.png",
+      "filename2": "XYBSSE1THP.png",
+      "filename3": "5HBT21HRTM.png",
+      "filename4": "EM4IF7ZUCV.png",
+      "filename5": "XN8NS7T0WO.png",
+      "filename6": "3U0CQ7C41O.png",
+      "filename7": "O12IMXAECP.png",
+      "filename8": "KMK7HUOQQ8.png"
+    }
   },
   "113": {
-    "name_en": "Chansey",
-    "name_de": "Chaneira",
-    "filename": "113.png",
-    "filename1": "O4G6USN815.png",
-    "filename2": "ONYDIOFLQM.png",
-    "filename3": "YXXIQ5FMG5.png",
-    "filename4": "QFNQW5HUUU.png",
-    "filename5": "ARCFB5PROL.png",
-    "filename6": "QEKZBZCSU3.png",
-    "filename7": "5QBZ558KYR.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Chansey", "name_de": "Chaneira" },
+    "filenames": {
+      "filename": "XA2BNWH42H.png",
+      "filename1": "W3VFQGX2J6.png",
+      "filename2": "SVH7SUC13Z.png",
+      "filename3": "P3TTWA2RYA.png",
+      "filename4": "UX1BR7LG4W.png",
+      "filename5": "RK4AYLJ0MW.png",
+      "filename6": "Z3EPNGRUH3.png",
+      "filename7": "KUKR145DHL.png",
+      "filename8": "5HMK2OEUKS.png"
+    }
   },
   "114": {
-    "name_en": "Tangela",
-    "name_de": "Tangela",
-    "filename": "114.png",
-    "filename1": "RKKNGLXPEY.png",
-    "filename2": "9J5RK1X8JB.png",
-    "filename3": "5I7IP82QE4.png",
-    "filename4": "AHAT002DK3.png",
-    "filename5": "Q8SLB2YR3H.png",
-    "filename6": "KP1WXI4NWO.png",
-    "filename7": "5YUDPCN64K.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Tangela", "name_de": "Tangela" },
+    "filenames": {
+      "filename": "IVT3V7D3DX.png",
+      "filename1": "PJMXWFPO8X.png",
+      "filename2": "A021Q7S1V8.png",
+      "filename3": "Z1ON50210K.png",
+      "filename4": "XRRV4NR8LI.png",
+      "filename5": "A4QZT6M2HC.png",
+      "filename6": "EA1TFNTH96.png",
+      "filename7": "XFVU3H8CHB.png",
+      "filename8": "ZXVCN2Z73Y.png"
+    }
   },
   "115": {
-    "name_en": "Kangaskhan",
-    "name_de": "Kangama",
-    "filename": "115.png",
-    "filename1": "KMXJXA1ERL.png",
-    "filename2": "NNY7MOY1RW.png",
-    "filename3": "75MU1WXDWE.png",
-    "filename4": "BFIUDILX3O.png",
-    "filename5": "54CX53IWVU.png",
-    "filename6": "45B4VGSJ9M.png",
-    "filename7": "YEGMZT7P0M.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Kangaskhan", "name_de": "Kangama" },
+    "filenames": {
+      "filename": "61NMFCN36W.png",
+      "filename1": "4U2WV3STJX.png",
+      "filename2": "B9QSO6ZKV4.png",
+      "filename3": "8MQWJ18YXP.png",
+      "filename4": "ZHSO1FH4DJ.png",
+      "filename5": "OFT62W0Q5R.png",
+      "filename6": "L1Y7CLOBJC.png",
+      "filename7": "ZOOVZFJS9N.png",
+      "filename8": "3TVM0ID0AR.png"
+    }
   },
   "116": {
-    "name_en": "Horsea",
-    "name_de": "Seeper",
-    "filename": "116.png",
-    "filename1": "RNHW24KMMQ.png",
-    "filename2": "OAVILU273A.png",
-    "filename3": "UE21Z2ZYRR.png",
-    "filename4": "IP031K3R74.png",
-    "filename5": "8QCQVN3EP3.png",
-    "filename6": "QZ2GD4RHWA.png",
-    "filename7": "SBYX37ITN0.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Horsea", "name_de": "Seeper" },
+    "filenames": {
+      "filename": "H2XHS9N1MG.png",
+      "filename1": "0SKV6SPH1J.png",
+      "filename2": "ME64XBSFV3.png",
+      "filename3": "ZOVYWZ3FDB.png",
+      "filename4": "H33KLRXBY9.png",
+      "filename5": "235QFIZHAF.png",
+      "filename6": "ZV1V0XRER8.png",
+      "filename7": "BG60HN6PG4.png",
+      "filename8": "TPQMQCTRCF.png"
+    }
   },
   "117": {
-    "name_en": "Seadra",
-    "name_de": "Seemon",
-    "filename": "117.png",
-    "filename1": "VMBBPWHRQE.png",
-    "filename2": "BYJV1DG420.png",
-    "filename3": "OKDIIQSQSI.png",
-    "filename4": "6JCO3ER4V7.png",
-    "filename5": "T329MVH28X.png",
-    "filename6": "GH5JZBEYG7.png",
-    "filename7": "909GE2QZUD.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Seadra", "name_de": "Seemon" },
+    "filenames": {
+      "filename": "4HC4Q3XEOF.png",
+      "filename1": "YIOZZ3C2BX.png",
+      "filename2": "0Z8K3NJ2LH.png",
+      "filename3": "T9TEXD4AFE.png",
+      "filename4": "K01KPTFV0T.png",
+      "filename5": "7G8P6NL214.png",
+      "filename6": "R2L2ZWKHN2.png",
+      "filename7": "WU1VHSSUHW.png",
+      "filename8": "XQVP0QESN2.png"
+    }
   },
   "118": {
-    "name_en": "Goldeen",
-    "name_de": "Goldini",
-    "filename": "118.png",
-    "filename1": "0Y9W07VYD9.png",
-    "filename2": "5A7VW6W1E0.png",
-    "filename3": "0LDVZR7U9F.png",
-    "filename4": "MB2TYLFBTE.png",
-    "filename5": "NQR4VUEJB4.png",
-    "filename6": "ZGKAKPZQHM.png",
-    "filename7": "BGX0INLKJ8.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Goldeen", "name_de": "Goldini" },
+    "filenames": {
+      "filename": "4P51D0149K.png",
+      "filename1": "B6GI6BSVGJ.png",
+      "filename2": "826FIITQMP.png",
+      "filename3": "9YWZAY0ZBS.png",
+      "filename4": "UPYCBV7GUJ.png",
+      "filename5": "P63HS29P79.png",
+      "filename6": "LMERSO1B25.png",
+      "filename7": "FQTTJBJIV5.png",
+      "filename8": "RBSV2C7K1V.png"
+    }
   },
   "119": {
-    "name_en": "Seaking",
-    "name_de": "Golking",
-    "filename": "119.png",
-    "filename1": "XMTG0ENQJZ.png",
-    "filename2": "C32Y4QHTG7.png",
-    "filename3": "PCI4LK6DJ3.png",
-    "filename4": "FC67I8O2JA.png",
-    "filename5": "G0R83BBTXJ.png",
-    "filename6": "5C6U5736Z6.png",
-    "filename7": "YAA1IVVBCZ.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Seaking", "name_de": "Golking" },
+    "filenames": {
+      "filename": "CVDL8HU04P.png",
+      "filename1": "T001ZHTG3P.png",
+      "filename2": "IFIBO8HUWV.png",
+      "filename3": "IBX81RVTWZ.png",
+      "filename4": "DL5KQPD2T2.png",
+      "filename5": "G43YKFU03J.png",
+      "filename6": "LBAZIE7DND.png",
+      "filename7": "CNY6DEC3FH.png",
+      "filename8": "H1GWVLNUZC.png"
+    }
   },
   "120": {
-    "name_en": "Staryu",
-    "name_de": "Sterndu",
-    "filename": "120.png",
-    "filename1": "WOADW10KKF.png",
-    "filename2": "IUCEL7RFCN.png",
-    "filename3": "5MMFB09JDS.png",
-    "filename4": "B6LE9BJ27V.png",
-    "filename5": "W3QKVSL2T0.png",
-    "filename6": "4CJF9825GB.png",
-    "filename7": "OF7QOIUO7G.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Staryu", "name_de": "Sterndu" },
+    "filenames": {
+      "filename": "SHWY05W4HX.png",
+      "filename1": "02F7OFFF1P.png",
+      "filename2": "HH4X9KVJNT.png",
+      "filename3": "TDI22NRAC3.png",
+      "filename4": "OCGCNF68NK.png",
+      "filename5": "QJ3YY5YSGP.png",
+      "filename6": "2PRZC1UEEH.png",
+      "filename7": "XXF2BUKY2M.png",
+      "filename8": "YEFIYJ7EZF.png"
+    }
   },
   "121": {
-    "name_en": "Starmie",
-    "name_de": "Starmie",
-    "filename": "121.png",
-    "filename1": "9VIDI950PI.png",
-    "filename2": "278M829A5K.png",
-    "filename3": "E1RXM9JQPU.png",
-    "filename4": "53177972K9.png",
-    "filename5": "C374I68GYZ.png",
-    "filename6": "A9QEELN9A8.png",
-    "filename7": "2GFL12YSDC.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Starmie", "name_de": "Starmie" },
+    "filenames": {
+      "filename": "QYPKNKKQBZ.png",
+      "filename1": "246MJC9K8P.png",
+      "filename2": "7FRBAS1ERC.png",
+      "filename3": "YORBOZOE2T.png",
+      "filename4": "S08MCM8SJ0.png",
+      "filename5": "CNU1X2GTT7.png",
+      "filename6": "V6B22V7GAJ.png",
+      "filename7": "YF544AMP8D.png",
+      "filename8": "ROI7DMUFEZ.png"
+    }
   },
   "122": {
-    "name_en": "Mr. Mime",
-    "name_de": "Pantimos",
-    "filename": "122.png",
-    "filename1": "2GJM5KYP67.png",
-    "filename2": "2ZF2YXPOOB.png",
-    "filename3": "47UE51369Z.png",
-    "filename4": "88CM4O35D1.png",
-    "filename5": "SIXTANIQB0.png",
-    "filename6": "CNMJCEVE3J.png",
-    "filename7": "D8DEY4PC2P.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Mr. Mime", "name_de": "Pantimos" },
+    "filenames": {
+      "filename": "5CJE04LK7G.png",
+      "filename1": "3PTZJ6IIO0.png",
+      "filename2": "5TYU2Q1LXF.png",
+      "filename3": "QN6QCSIFE0.png",
+      "filename4": "Q7U11JWJR1.png",
+      "filename5": "9IWNOT6BRY.png",
+      "filename6": "65ZZYSJR9L.png",
+      "filename7": "G6XGFH5U3M.png",
+      "filename8": "VIS02878UW.png"
+    }
   },
   "123": {
-    "name_en": "Scyther",
-    "name_de": "Sichlor",
-    "filename": "123.png",
-    "filename1": "OGDNTGS2TP.png",
-    "filename2": "UO1Z1RM6K1.png",
-    "filename3": "TB87PDMFKA.png",
-    "filename4": "SSIWD421UW.png",
-    "filename5": "56UVJML1TQ.png",
-    "filename6": "G3C7O3ANK9.png",
-    "filename7": "HD9K2BCCYB.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Scyther", "name_de": "Sichlor" },
+    "filenames": {
+      "filename": "IDJWFFIRHX.png",
+      "filename1": "B7XBTYAJWI.png",
+      "filename2": "LT5TPZRGTR.png",
+      "filename3": "MXIOMX33GP.png",
+      "filename4": "8Y28077NQ8.png",
+      "filename5": "T55IPI45I4.png",
+      "filename6": "GPCEG1WBKX.png",
+      "filename7": "C8TPTC3FUJ.png",
+      "filename8": "W2HIBIWCKT.png"
+    }
   },
   "124": {
-    "name_en": "Jynx",
-    "name_de": "Rossana",
-    "filename": "124.png",
-    "filename1": "LFWB4FYGQ9.png",
-    "filename2": "08K0FCENN3.png",
-    "filename3": "J9Q85VAAJ8.png",
-    "filename4": "VN42WAY4IZ.png",
-    "filename5": "1G7VW4YMGE.png",
-    "filename6": "1C1M0TD4H8.png",
-    "filename7": "6JPL2G4TFU.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Jynx", "name_de": "Rossana" },
+    "filenames": {
+      "filename": "OTJ2RWJ972.png",
+      "filename1": "BYCV8NOPL7.png",
+      "filename2": "N8U4CFUJHE.png",
+      "filename3": "SWE9XQPH9N.png",
+      "filename4": "RAJM7XTO3B.png",
+      "filename5": "OSWBS4F29X.png",
+      "filename6": "JUTWUELMDL.png",
+      "filename7": "1374V6XTAP.png",
+      "filename8": "N6PWLBQXUZ.png"
+    }
   },
   "125": {
-    "name_en": "Electabuzz",
-    "name_de": "Elektek",
-    "filename": "125.png",
-    "filename1": "0G1SES4FGW.png",
-    "filename2": "WD4R4SC0Q1.png",
-    "filename3": "39BX8P3RDJ.png",
-    "filename4": "NH4IWWIGCM.png",
-    "filename5": "J2BI794HH6.png",
-    "filename6": "0VS2QF1GGB.png",
-    "filename7": "OC5ASWT8XO.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Electabuzz", "name_de": "Elektek" },
+    "filenames": {
+      "filename": "IPAHS7XG5Y.png",
+      "filename1": "QAPFSAWPXM.png",
+      "filename2": "VH96L7PHMW.png",
+      "filename3": "O7CGO8ITOH.png",
+      "filename4": "NXXVA4EWZP.png",
+      "filename5": "ZWCFTSWFF9.png",
+      "filename6": "A5AFVQAHS5.png",
+      "filename7": "PSWW146UWQ.png",
+      "filename8": "XQ5GP2W7XT.png"
+    }
   },
   "126": {
-    "name_en": "Magmar",
-    "name_de": "Magmar",
-    "filename": "126.png",
-    "filename1": "IR6KJIVBQD.png",
-    "filename2": "PST26XBL5U.png",
-    "filename3": "66ER74W10M.png",
-    "filename4": "OQ3B1YWSPP.png",
-    "filename5": "NWKXMKVGTN.png",
-    "filename6": "JE5L067ZN3.png",
-    "filename7": "42LRPBY30X.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Magmar", "name_de": "Magmar" },
+    "filenames": {
+      "filename": "PUZB2AVZUG.png",
+      "filename1": "NV7IPDQKZH.png",
+      "filename2": "ZSNBUCRHAP.png",
+      "filename3": "0AO0IXZ5ZG.png",
+      "filename4": "LTKZUT8EM6.png",
+      "filename5": "NQBYJFWRSM.png",
+      "filename6": "XAG8GH7ZR2.png",
+      "filename7": "98EKQ5NQYU.png",
+      "filename8": "OVOS7ZY3SF.png"
+    }
   },
   "127": {
-    "name_en": "Pinsir",
-    "name_de": "Pinsir",
-    "filename": "127.png",
-    "filename1": "OL3HL5TKOS.png",
-    "filename2": "1H49BO8PY1.png",
-    "filename3": "URKEOPRWNC.png",
-    "filename4": "Q4X3KWD0TR.png",
-    "filename5": "7X53MQMJ9O.png",
-    "filename6": "54G7UINWEW.png",
-    "filename7": "K4GNRAPFO2.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Pinsir", "name_de": "Pinsir" },
+    "filenames": {
+      "filename": "IQ2H1O7K4G.png",
+      "filename1": "BEU2QD61YO.png",
+      "filename2": "I41PGCI61K.png",
+      "filename3": "9HLUQX5NV6.png",
+      "filename4": "WKP5GBFM0P.png",
+      "filename5": "LHG68V0Q8P.png",
+      "filename6": "NSWEENUDGM.png",
+      "filename7": "BMY8P7P4J8.png",
+      "filename8": "UYURFTHH6C.png"
+    }
   },
   "128": {
-    "name_en": "Tauros",
-    "name_de": "Tauros",
-    "filename": "128.png",
-    "filename1": "PMU4JRCAJO.png",
-    "filename2": "NZEP2KSA3T.png",
-    "filename3": "YCP5CF2U9A.png",
-    "filename4": "AVSVLMIMEO.png",
-    "filename5": "L05BZNK4VZ.png",
-    "filename6": "KK06548C5R.png",
-    "filename7": "0PLNE2ARN5.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Tauros", "name_de": "Tauros" },
+    "filenames": {
+      "filename": "6CX99DGMXN.png",
+      "filename1": "IXECHF10GO.png",
+      "filename2": "507NDQNB5N.png",
+      "filename3": "G7CMXODFUE.png",
+      "filename4": "T12HARW000.png",
+      "filename5": "DFUSJKBEEW.png",
+      "filename6": "TJSDPK1XS3.png",
+      "filename7": "HVAD6JAFTO.png",
+      "filename8": "YE9MIQP05Z.png"
+    }
   },
   "129": {
-    "name_en": "Magikarp",
-    "name_de": "Karpador",
-    "filename": "129.png",
-    "filename1": "IE3QSWFJHQ.png",
-    "filename2": "ZWS6RNGP85.png",
-    "filename3": "K000P2K8IS.png",
-    "filename4": "PIWDQVNE4T.png",
-    "filename5": "IBTD3QX2LN.png",
-    "filename6": "BDMKH01C42.png",
-    "filename7": "J7PJFDYCM5.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Magikarp", "name_de": "Karpador" },
+    "filenames": {
+      "filename": "B5RG4Y646R.png",
+      "filename1": "RKO3PWU46B.png",
+      "filename2": "7JKAHPIVWW.png",
+      "filename3": "CFYOC8X168.png",
+      "filename4": "NDPF284JNK.png",
+      "filename5": "M8FOIJTWGY.png",
+      "filename6": "QPAW4KSCJ3.png",
+      "filename7": "M0LSEKSEUG.png",
+      "filename8": "4DKTBKZAWQ.png"
+    }
   },
   "130": {
-    "name_en": "Gyarados",
-    "name_de": "Garados",
-    "filename": "130.png",
-    "filename1": "RQZYL2RDQA.png",
-    "filename2": "RYO6SXKGK3.png",
-    "filename3": "8WW2RGGO4M.png",
-    "filename4": "3L7ZW8GOSM.png",
-    "filename5": "MBVH2J9PSH.png",
-    "filename6": "C2HF509SYJ.png",
-    "filename7": "HI6PU5IPOD.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Gyarados", "name_de": "Garados" },
+    "filenames": {
+      "filename": "4AS1NUBIDW.png",
+      "filename1": "YY4IWYUO8X.png",
+      "filename2": "8EAT2P001U.png",
+      "filename3": "0YQX36XB0H.png",
+      "filename4": "RLY2ILYHOS.png",
+      "filename5": "BPNFKYW3US.png",
+      "filename6": "JBF3Z80NO5.png",
+      "filename7": "BOK0JUAWID.png",
+      "filename8": "CPP7AQL803.png"
+    }
   },
   "131": {
-    "name_en": "Lapras",
-    "name_de": "Lapras",
-    "filename": "131.png",
-    "filename1": "AQMATF0UVE.png",
-    "filename2": "06B7COE6KM.png",
-    "filename3": "Y1CGZ8YMAQ.png",
-    "filename4": "BZBI39VZF8.png",
-    "filename5": "ET57OU2KS5.png",
-    "filename6": "1ES541XFWR.png",
-    "filename7": "8V0GHYXVFR.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Lapras", "name_de": "Lapras" },
+    "filenames": {
+      "filename": "AIOG4ZL81C.png",
+      "filename1": "3HMDJLQ1HN.png",
+      "filename2": "78NY77PHOB.png",
+      "filename3": "HSCUH3N1IW.png",
+      "filename4": "9PTJMGJW0D.png",
+      "filename5": "TAQ6UPATTX.png",
+      "filename6": "W4631NDK1I.png",
+      "filename7": "K6NBOML203.png",
+      "filename8": "LGWZ6LUXSH.png"
+    }
   },
   "132": {
-    "name_en": "Ditto",
-    "name_de": "Ditto",
-    "filename": "132.png",
-    "filename1": "PQJK9LYK3U.png",
-    "filename2": "46Z85FTN8M.png",
-    "filename3": "X0XA7QG21Z.png",
-    "filename4": "X0LIMZBE2H.png",
-    "filename5": "XIXE6169F0.png",
-    "filename6": "NCP3KSCCVL.png",
-    "filename7": "PU1T1MSY9A.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Ditto", "name_de": "Ditto" },
+    "filenames": {
+      "filename": "FJ7SS53S1E.png",
+      "filename1": "CD2R9GJF80.png",
+      "filename2": "6Y875IOEKH.png",
+      "filename3": "6Z1Q12P509.png",
+      "filename4": "1GG4RMEIN1.png",
+      "filename5": "BFXUK3IVYE.png",
+      "filename6": "7V9NOORQF5.png",
+      "filename7": "ZMIQ32ILTP.png",
+      "filename8": "27M9RZTHJ8.png"
+    }
   },
   "133": {
-    "name_en": "Eevee",
-    "name_de": "Evoli",
-    "filename": "133.png",
-    "filename1": "5Y3UEA03JY.png",
-    "filename2": "P0UN7ITC7Y.png",
-    "filename3": "P402GGE673.png",
-    "filename4": "6GMVCHRZ33.png",
-    "filename5": "OIRNP9MTQ4.png",
-    "filename6": "8PUBCWD44X.png",
-    "filename7": "FYM4PQWGQJ.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Eevee", "name_de": "Evoli" },
+    "filenames": {
+      "filename": "3FN8ADL975.png",
+      "filename1": "5E13RUXTSA.png",
+      "filename2": "5WKX4E2209.png",
+      "filename3": "YIT1RWXSUT.png",
+      "filename4": "UM36NSLLTO.png",
+      "filename5": "H9DIDDE3WQ.png",
+      "filename6": "1KIB2KG7CC.png",
+      "filename7": "7ZHNF7JIRR.png",
+      "filename8": "A8Z083F4N2.png"
+    }
   },
   "134": {
-    "name_en": "Vaporeon",
-    "name_de": "Aquana",
-    "filename": "134.png",
-    "filename1": "FV0R16GK2C.png",
-    "filename2": "DGRDOW9TKQ.png",
-    "filename3": "1JK6JQ23Y3.png",
-    "filename4": "SOFB3JZV1S.png",
-    "filename5": "SEM6TXLJT6.png",
-    "filename6": "77N7Q8Y41A.png",
-    "filename7": "FF2G4QRJMO.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Vaporeon", "name_de": "Aquana" },
+    "filenames": {
+      "filename": "N6Q0N8S8LG.png",
+      "filename1": "RMYT59X75S.png",
+      "filename2": "V81N0WU8Y6.png",
+      "filename3": "H0ZUYSUX2W.png",
+      "filename4": "K3B2WV1NB2.png",
+      "filename5": "3ITDPMM5U8.png",
+      "filename6": "IN2M14STIF.png",
+      "filename7": "4165NAEE9W.png",
+      "filename8": "VRSTNBTZTO.png"
+    }
   },
   "135": {
-    "name_en": "Jolteon",
-    "name_de": "Blitza",
-    "filename": "135.png",
-    "filename1": "C20CGQMSQL.png",
-    "filename2": "R8CDL3O098.png",
-    "filename3": "CVPOLAQLGA.png",
-    "filename4": "ISUAF6RMOZ.png",
-    "filename5": "AFJ6FH1M11.png",
-    "filename6": "4D76P8A9Y0.png",
-    "filename7": "8O8RQ7HLTD.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Jolteon", "name_de": "Blitza" },
+    "filenames": {
+      "filename": "9QSK01CEVF.png",
+      "filename1": "WVAVJ4K99Z.png",
+      "filename2": "5MFKBVQSVE.png",
+      "filename3": "547PKWRQ1U.png",
+      "filename4": "JVKO9C4DE0.png",
+      "filename5": "09VFW16HW0.png",
+      "filename6": "XMWEPP6YNA.png",
+      "filename7": "0EVUCMTVID.png",
+      "filename8": "J01KMORTVX.png"
+    }
   },
   "136": {
-    "name_en": "Flareon",
-    "name_de": "Flamara",
-    "filename": "136.png",
-    "filename1": "RS1SRH5N5A.png",
-    "filename2": "B2DIGFS6GB.png",
-    "filename3": "FOPZSIU4Q3.png",
-    "filename4": "7EOKEKR6SV.png",
-    "filename5": "4YJB9XPP8B.png",
-    "filename6": "0YNWJL2NHB.png",
-    "filename7": "O0XGHXKUXX.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Flareon", "name_de": "Flamara" },
+    "filenames": {
+      "filename": "60XJXMWC0M.png",
+      "filename1": "GGMC8BKQSR.png",
+      "filename2": "YVVOAM7R35.png",
+      "filename3": "BZUQUHEG9M.png",
+      "filename4": "8FNYJQ2BMA.png",
+      "filename5": "MMVI5P2CX0.png",
+      "filename6": "YA0AQTFVGH.png",
+      "filename7": "47H7ZB44NH.png",
+      "filename8": "E6K4VHB5F4.png"
+    }
   },
   "137": {
-    "name_en": "Porygon",
-    "name_de": "Porygon",
-    "filename": "137.png",
-    "filename1": "32QXA9QCKH.png",
-    "filename2": "05ZJLOIAGL.png",
-    "filename3": "ARU55ZIWD0.png",
-    "filename4": "K9THKX5PDX.png",
-    "filename5": "O6S5F8GLSN.png",
-    "filename6": "EZMA6J6OZH.png",
-    "filename7": "7ANIXXC7IH.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Porygon", "name_de": "Porygon" },
+    "filenames": {
+      "filename": "QZW9NXJI46.png",
+      "filename1": "8S8TLHBZSW.png",
+      "filename2": "JIWGO6DPOK.png",
+      "filename3": "JNH3BMR6A2.png",
+      "filename4": "GH1R9EISNC.png",
+      "filename5": "OMQ4LDAQ4Q.png",
+      "filename6": "UHBGW3CXCG.png",
+      "filename7": "FYG0GAJE04.png",
+      "filename8": "1KVMKMC4N0.png"
+    }
   },
   "138": {
-    "name_en": "Omanyte",
-    "name_de": "Amonitas",
-    "filename": "138.png",
-    "filename1": "KCESQ94UNM.png",
-    "filename2": "L3J69E3DLF.png",
-    "filename3": "LPB6FJG0JM.png",
-    "filename4": "3M38V0BP3N.png",
-    "filename5": "VSOL5VY2X5.png",
-    "filename6": "DZJ9P122MW.png",
-    "filename7": "JNGFUZKZXX.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Omanyte", "name_de": "Amonitas" },
+    "filenames": {
+      "filename": "78HMK65L48.png",
+      "filename1": "7WBDUJ1HYQ.png",
+      "filename2": "DFVU6JN7S0.png",
+      "filename3": "H6JCP1Y7B8.png",
+      "filename4": "257ERG3QHN.png",
+      "filename5": "Y7TI2K4J5M.png",
+      "filename6": "X3CWTYM9BT.png",
+      "filename7": "ZF5Z17S7Z7.png",
+      "filename8": "3IQSGW2LT3.png"
+    }
   },
   "139": {
-    "name_en": "Omastar",
-    "name_de": "Amoroso",
-    "filename": "139.png",
-    "filename1": "6MTJ4DRUD7.png",
-    "filename2": "VKAC6UF0P3.png",
-    "filename3": "XIJDWN0KEP.png",
-    "filename4": "GBOI79R63W.png",
-    "filename5": "K1PT093VYV.png",
-    "filename6": "9C7LJR1UHS.png",
-    "filename7": "O6E7YCNP7Z.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Omastar", "name_de": "Amoroso" },
+    "filenames": {
+      "filename": "CD6Y2D8EVZ.png",
+      "filename1": "FPJLOS5K5S.png",
+      "filename2": "9AZ6OMFM8V.png",
+      "filename3": "UH7ZX0LS0A.png",
+      "filename4": "0IWARNRSHD.png",
+      "filename5": "CNY37452YT.png",
+      "filename6": "IPDVA0VZMD.png",
+      "filename7": "V5EX52G0IK.png",
+      "filename8": "37NAMAHQRT.png"
+    }
   },
   "140": {
-    "name_en": "Kabuto",
-    "name_de": "Kabuto",
-    "filename": "140.png",
-    "filename1": "1HSU6QJ387.png",
-    "filename2": "3T4WWL3JC0.png",
-    "filename3": "OXE4Z8AF7U.png",
-    "filename4": "HR3RKXSW8X.png",
-    "filename5": "4QWIDHH667.png",
-    "filename6": "U8YUSD82H7.png",
-    "filename7": "2RO96GJS2T.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Kabuto", "name_de": "Kabuto" },
+    "filenames": {
+      "filename": "FOJQ3H1FRI.png",
+      "filename1": "PRWRPB8ZLL.png",
+      "filename2": "FVSXKJXK8L.png",
+      "filename3": "J8YLWI9X21.png",
+      "filename4": "MZAMGNQDLL.png",
+      "filename5": "JKA3LH4UPY.png",
+      "filename6": "7I2E20PZWC.png",
+      "filename7": "ECGHY635OA.png",
+      "filename8": "IMNUKSQAAN.png"
+    }
   },
   "141": {
-    "name_en": "Kabutops",
-    "name_de": "Kabutops",
-    "filename": "141.png",
-    "filename1": "CW4356IZ76.png",
-    "filename2": "W2RRZ48VGQ.png",
-    "filename3": "RGXF0CMWCU.png",
-    "filename4": "5ARDY8JAPR.png",
-    "filename5": "QTJV6I3DJ0.png",
-    "filename6": "1O1V71IFXS.png",
-    "filename7": "47WPCSRLN7.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Kabutops", "name_de": "Kabutops" },
+    "filenames": {
+      "filename": "MC2XO4F2VV.png",
+      "filename1": "J20WWVBI8O.png",
+      "filename2": "VDUFHUTP0A.png",
+      "filename3": "XEUGRK2JG0.png",
+      "filename4": "2VRXJZMP2B.png",
+      "filename5": "5VD2GMBGGN.png",
+      "filename6": "NZDAS64UOA.png",
+      "filename7": "KB0LCD9JUX.png",
+      "filename8": "KHGFPTYGQK.png"
+    }
   },
   "142": {
-    "name_en": "Aerodactyl",
-    "name_de": "Aerodactyl",
-    "filename": "142.png",
-    "filename1": "MGDXWO5F4T.png",
-    "filename2": "5Y7PBCZZF6.png",
-    "filename3": "W6HNXG45J7.png",
-    "filename4": "LZ4ZX72O8P.png",
-    "filename5": "OOZI8TBWQV.png",
-    "filename6": "R4RVYCC2M2.png",
-    "filename7": "UY5V27XIV2.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Aerodactyl", "name_de": "Aerodactyl" },
+    "filenames": {
+      "filename": "O98LTP9G30.png",
+      "filename1": "LV2XNTWJO1.png",
+      "filename2": "QZVNR7S4JH.png",
+      "filename3": "AB502UJC8W.png",
+      "filename4": "5NYYSOY1FL.png",
+      "filename5": "16V3MYEI10.png",
+      "filename6": "W1CPW7HKB4.png",
+      "filename7": "0H8U8C21MK.png",
+      "filename8": "MF32LNJM9C.png"
+    }
   },
   "143": {
-    "name_en": "Snorlax",
-    "name_de": "Relaxo",
-    "filename": "143.png",
-    "filename1": "KMWWTFV4TZ.png",
-    "filename2": "QYKPLTTNJO.png",
-    "filename3": "P7Y4C8RCD9.png",
-    "filename4": "T6IZIU7ODJ.png",
-    "filename5": "NCSAQEDSX8.png",
-    "filename6": "QKLM7LLGBW.png",
-    "filename7": "YCZF1BL6WX.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Snorlax", "name_de": "Relaxo" },
+    "filenames": {
+      "filename": "J7FQAO1Z9K.png",
+      "filename1": "KA2AWMKB72.png",
+      "filename2": "1YPTRGR43C.png",
+      "filename3": "7OQNTJGSQG.png",
+      "filename4": "1SMW24DU83.png",
+      "filename5": "JGDA2CJ5BK.png",
+      "filename6": "51A4J5IVZQ.png",
+      "filename7": "HSCJCD8X9R.png",
+      "filename8": "P9USLIF5IU.png"
+    }
   },
   "144": {
-    "name_en": "Articuno",
-    "name_de": "Arktos",
-    "filename": "144.png",
-    "filename1": "U2PT8LM6A8.png",
-    "filename2": "DX3K5CCLZK.png",
-    "filename3": "5S4ALYMH6D.png",
-    "filename4": "0ULKTUM5W4.png",
-    "filename5": "S7FR3BNLS9.png",
-    "filename6": "G0C9R5SNHB.png",
-    "filename7": "XEZ6M0HYC9.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Articuno", "name_de": "Arktos" },
+    "filenames": {
+      "filename": "F1LCAEFG54.png",
+      "filename1": "ECZ4ZPM6UH.png",
+      "filename2": "3MSOG27UV0.png",
+      "filename3": "M5D0ZPXNR8.png",
+      "filename4": "XYBK05HN89.png",
+      "filename5": "EKZB4EGZRM.png",
+      "filename6": "ML1IYR5SKT.png",
+      "filename7": "PYDMA5S97B.png",
+      "filename8": "0ZL0XOL7EY.png"
+    }
   },
   "145": {
-    "name_en": "Zapdos",
-    "name_de": "Zapdos",
-    "filename": "145.png",
-    "filename1": "1PFUPEDDS9.png",
-    "filename2": "8PK206UG7Z.png",
-    "filename3": "LSEORTG6VG.png",
-    "filename4": "HJ37RHVDV3.png",
-    "filename5": "UQ3UHBEZPU.png",
-    "filename6": "EE61RWJ93X.png",
-    "filename7": "JZ5Y9PE1G0.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Zapdos", "name_de": "Zapdos" },
+    "filenames": {
+      "filename": "3KSAUAY5FU.png",
+      "filename1": "NVB4GCOG9Z.png",
+      "filename2": "0WRPV55PW9.png",
+      "filename3": "B3RFFU231T.png",
+      "filename4": "ONGK2WNSGO.png",
+      "filename5": "KI4A0KVU2T.png",
+      "filename6": "MJ1MM1YLLL.png",
+      "filename7": "2KTW617Y39.png",
+      "filename8": "P4CWNQDMSR.png"
+    }
   },
   "146": {
-    "name_en": "Moltres",
-    "name_de": "Lavados",
-    "filename": "146.png",
-    "filename1": "A57J6Q1O0Y.png",
-    "filename2": "9HY8RIS8SY.png",
-    "filename3": "RGGDO9ONMI.png",
-    "filename4": "6VGOXASXH6.png",
-    "filename5": "J9E6EP3K68.png",
-    "filename6": "R836MCQPT1.png",
-    "filename7": "97KEVT568W.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Moltres", "name_de": "Lavados" },
+    "filenames": {
+      "filename": "712QG7LWPL.png",
+      "filename1": "EB1A91D4TG.png",
+      "filename2": "M7NF9USZZN.png",
+      "filename3": "QT3TQVIEYD.png",
+      "filename4": "P6NYK358W4.png",
+      "filename5": "XT5DFMZ925.png",
+      "filename6": "T0UTBB8W33.png",
+      "filename7": "FM6AFWW4DM.png",
+      "filename8": "SAKPX3XCJS.png"
+    }
   },
   "147": {
-    "name_en": "Dratini",
-    "name_de": "Dratini",
-    "filename": "147.png",
-    "filename1": "N5RB2DRDBG.png",
-    "filename2": "79BMVKHZ8S.png",
-    "filename3": "AKO5XP96C3.png",
-    "filename4": "1JK9FRFQG1.png",
-    "filename5": "105AZ41Z7E.png",
-    "filename6": "HB02R0C3E5.png",
-    "filename7": "TI5NELWW66.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Dratini", "name_de": "Dratini" },
+    "filenames": {
+      "filename": "E6A93E19RZ.png",
+      "filename1": "L261J1YE67.png",
+      "filename2": "IP1R5CBGP8.png",
+      "filename3": "EBKV65YLK3.png",
+      "filename4": "GMDM7DBUJA.png",
+      "filename5": "6BYLSUXO7Q.png",
+      "filename6": "QI3G7ZU9U0.png",
+      "filename7": "H6HDF48DC0.png",
+      "filename8": "W8VTSJFPWD.png"
+    }
   },
   "148": {
-    "name_en": "Dragonair",
-    "name_de": "Dragonir",
-    "filename": "148.png",
-    "filename1": "A0OGIF73M1.png",
-    "filename2": "BS9F5JZN2Q.png",
-    "filename3": "512KDECZUX.png",
-    "filename4": "0S22EVO38S.png",
-    "filename5": "RGW68YWDM7.png",
-    "filename6": "C1KDQQNI6W.png",
-    "filename7": "AD6Z051XTU.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Dragonair", "name_de": "Dragonir" },
+    "filenames": {
+      "filename": "55M9VNUAR4.png",
+      "filename1": "KF011QRQF5.png",
+      "filename2": "RE1OIP0M3Q.png",
+      "filename3": "2HYYZ1E9ZP.png",
+      "filename4": "STI52C6CNJ.png",
+      "filename5": "8OYR237FI1.png",
+      "filename6": "DV65OIYU2T.png",
+      "filename7": "6WANKUUXU8.png",
+      "filename8": "6YL3NTC1QY.png"
+    }
   },
   "149": {
-    "name_en": "Dragonite",
-    "name_de": "Dragoran",
-    "filename": "149.png",
-    "filename1": "HFIVCR9PCA.png",
-    "filename2": "AT9DUMK8RT.png",
-    "filename3": "TBTEE3TJSI.png",
-    "filename4": "Z8QEKMH58Q.png",
-    "filename5": "B36YP6RJHX.png",
-    "filename6": "FJDZ0KOEQB.png",
-    "filename7": "JSTZRMLQMI.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Dragonite", "name_de": "Dragoran" },
+    "filenames": {
+      "filename": "6Z0C8F2EBS.png",
+      "filename1": "SXN9JYSIEC.png",
+      "filename2": "4R5SJK02SM.png",
+      "filename3": "AZMCY015BF.png",
+      "filename4": "VA32N83Y7B.png",
+      "filename5": "O7LVOOPBDD.png",
+      "filename6": "1LOTTYZTOI.png",
+      "filename7": "NRVNA02KGH.png",
+      "filename8": "F5J1VTGPT1.png"
+    }
   },
   "150": {
-    "name_en": "Mewtwo",
-    "name_de": "Mewtu",
-    "filename": "150.png",
-    "filename1": "N2A3Z9L1N7.png",
-    "filename2": "7210E7C9VI.png",
-    "filename3": "7191L485FJ.png",
-    "filename4": "CAIV642KL5.png",
-    "filename5": "DV9AGREFSY.png",
-    "filename6": "JQJDRR598R.png",
-    "filename7": "IRGH3C9DI3.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Mewtwo", "name_de": "Mewtu" },
+    "filenames": {
+      "filename": "ICBGRWEZSI.png",
+      "filename1": "RTUU8KRXR0.png",
+      "filename2": "OX7D7MDLMP.png",
+      "filename3": "PH13YV14ZG.png",
+      "filename4": "109I0O5DDC.png",
+      "filename5": "AN7UGQLYUH.png",
+      "filename6": "NSNMJ9DLBV.png",
+      "filename7": "HOTUBG0VWV.png",
+      "filename8": "VY5GYOZCLL.png"
+    }
   },
   "151": {
-    "name_en": "Mew",
-    "name_de": "Mew",
-    "filename": "151.png",
-    "filename1": "SA5K732MFZ.png",
-    "filename2": "1F3ZNYEASM.png",
-    "filename3": "FKTJ1C3BD4.png",
-    "filename4": "NGSQW7QB8A.png",
-    "filename5": "3PA9FEEUFX.png",
-    "filename6": "NNV6V1GY6U.png",
-    "filename7": "U9J2EIFSHG.png"
+    "generation": "1",
+    "pokenames": { "name_en": "Mew", "name_de": "Mew" },
+    "filenames": {
+      "filename": "GFKPFBSXEC.png",
+      "filename1": "4S6YN2C9DU.png",
+      "filename2": "FJTL4DXEJU.png",
+      "filename3": "LGBB2ZGYSK.png",
+      "filename4": "TQPK8CM1BX.png",
+      "filename5": "884ICGA39G.png",
+      "filename6": "VV8XFS4DXJ.png",
+      "filename7": "3A7C4TV9ER.png",
+      "filename8": "Z8WBZR69UK.png"
+    }
   }
 }
