@@ -1,4 +1,4 @@
-# image-guesser
+# PokeGuesser
 
 ## Project setup
 ```
