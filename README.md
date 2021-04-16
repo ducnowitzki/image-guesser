@@ -28,4 +28,4 @@ npm run lint
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-# Written by ducnowitzki and CihadColak
+# Written by ducnowitzki and CihadColak with Vue and Node
