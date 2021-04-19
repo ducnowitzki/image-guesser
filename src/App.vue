@@ -3,7 +3,7 @@
     <b-container align="center">
       <h1>Who's that Pokémon?</h1>
       <p>Streak: {{ streak }}</p>
-      <b-img class="my-3" v-if="imgSrc" :src="imgSrc"></b-img>
+      <b-img class="my-3" v-if="imgSrc !== ''" :src="imgSrc"></b-img>
       <p v-else>WHERE IS IMAGE</p>
       <b-form-input
         id="input"
@@ -25,10 +25,10 @@ export default {
     return {
       guess: "",
       pokeid: null,
-      obf: 1,
+      obf: null,
       pokenames: null,
-      filename: "",
-      startTime: null,
+      filenames: null,
+      startTime: null, 
       streak: 0,
       userGuessedRight: false,
     };
@@ -36,7 +36,8 @@ export default {
   computed: {
     // more computed toLowerCase
     imgSrc() {
-      return "http://localhost:3000/" + this.filename;
+      const filename = this.obf < 9 ? 'filename' + this.obf : 'filename'
+      return this.filenames ? "http://localhost:3000/" + this.filenames[filename] : '';
     },
     guessedRight() {
       return this.pokenames
@@ -60,28 +61,36 @@ export default {
   methods: {
     *fetchPokemon() {
       this.startTime = Date.now();
-      this.pokeid = Math.floor(Math.random() * 151) + 1;
+      
       this.obf = 1;
       this.guess = "";
 
+      const response = yield fetch(`http://localhost:3000/pokemon/gen1`);
+      console.log("fasdf")
+
+      if (!response.ok) {
+        const error = new Error(responseData.message || "Failed to fetch!");
+        throw error;
+      }
+
+      const responseData = yield response.json();
+      console.log("ffasdfasdf")
+
+      this.pokenames = new Set();
+      for (let key in responseData["pokenames"])
+        this.pokenames.add(responseData["pokenames"][key].toLowerCase());
+      console.log(this.pokenames);
+
+      this.filenames = {}
+      for (let key in responseData['filenames']) {
+        this.filenames[key] = responseData['filenames'][key]
+      }
+      console.log(this.filenames)
+
       while (this.obf < 10) {
-        const response = yield fetch(
-          `http://localhost:3000/pokemon/${this.pokeid}/${this.obf}`
-        );
-        const responseData = yield response.json();
-
-        if (!response.ok) {
-          const error = new Error(responseData.message || "Failed to fetch!");
-          throw error;
-        }
-
-        this.pokenames = new Set();
-        for (let key in responseData["pokenames"])
-          this.pokenames.add(responseData["pokenames"][key].toLowerCase());
-        console.log(this.pokenames);
-        this.filename = responseData["filename"];
 
         this.obf++;
+        console.log(this.imgSrc)
 
         if (this.obf < 9) {
           yield new Promise((resolve) => setTimeout(resolve, 2000));
@@ -112,6 +121,7 @@ export default {
     },
   },
   created() {
+    console.log(Array.from([...Array(151).keys()], x => x + 1))
     this.fetchPokemon = this.makeSingle(this.fetchPokemon);
     this.fetchPokemon();
   },
@@ -127,7 +137,6 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
-
 
 #input {
   width: 256px;
