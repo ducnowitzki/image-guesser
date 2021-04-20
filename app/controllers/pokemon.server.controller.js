@@ -36,7 +36,7 @@ module.exports.getPokemon = function(req, res, next) {
     path.resolve(__dirname + "/../../dataprocessing/pokemon.json")
   );
   let pokemon = JSON.parse(rawdata);
-  let thisPoke = pokemon['96'];
+  let thisPoke = pokemon[pokeId];
 
 
   res.status(200).send(
