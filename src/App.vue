@@ -31,7 +31,6 @@
         class="my-2"
         v-model="guess"
         placeholder="Type the name"
-        autofocus
         ref="pokeguess"
       ></b-form-input>
       <b-button class="my-2" @click="fetchPokemon">New Pokémon</b-button>
@@ -124,6 +123,7 @@ export default {
       return this.chosenGens.length === 1 && this.chosenGens[0] === gen.value;
     },
     *fetchPokemon() {
+      this.$refs.pokeguess.$el.focus()
       this.startTime = Date.now();
 
       this.obf = 1;
@@ -180,7 +180,7 @@ export default {
       };
     },
   },
-  created() {
+  mounted() {
     this.fetchPokemon = this.makeSingle(this.fetchPokemon);
     this.fetchPokemon();
   },
