@@ -1,14 +1,17 @@
 <template>
-  <div id="app">
+  <div id="app" class="wrapper">
     <b-container align="center" fluid="sm" style="max-width: 570px">
       <h1>Who's that Pokémon? 🤔</h1>
-      <b-form-checkbox-group
-        v-model="chosenGens"
-        :state="state"
-        class="py-2"
-      >
+      <small>All images © Nintendo</small>
+      <b-form-checkbox-group v-model="chosenGens" :state="state" class="py-2">
         <b-row align-h="center">
-          <b-col cols="4" sm="3" v-for="gen in options" :key="gen.id" class="px-0">
+          <b-col
+            cols="4"
+            sm="3"
+            v-for="gen in options"
+            :key="gen.id"
+            class="px-0"
+          >
             <b-form-checkbox :value="gen.value" :disabled="isDisabled(gen)">
               {{ gen.text }}
             </b-form-checkbox></b-col
@@ -35,6 +38,7 @@
       <b-button class="my-2" @click="fetchPokemon">New Pokémon</b-button>
       <p v-if="guessedRight">You did it!</p>
       <p v-if="failed">Not in time...</p>
+      
     </b-container>
   </div>
 </template>
@@ -122,7 +126,7 @@ export default {
       return this.chosenGens.length === 1 && this.chosenGens[0] === gen.value;
     },
     *fetchPokemon() {
-      this.$refs.pokeguess.$el.focus()
+      this.$refs.pokeguess.$el.focus();
       //this.startTime = Date.now();
 
       this.obf = 1;
@@ -140,7 +144,8 @@ export default {
       this.pokenames = new Set();
       for (let key in responseData["pokenames"])
         this.pokenames.add(responseData["pokenames"][key].toLowerCase());
-      //console.log(this.pokenames);
+      //console.log(this.pokenames.values());
+      
 
       this.filenames = {};
       for (let key in responseData["filenames"]) {

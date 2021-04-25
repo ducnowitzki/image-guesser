@@ -11,7 +11,7 @@ const pokeIds = {
   gen5: Array.from([...Array(156).keys()], x => x + 494),
   gen6: Array.from([...Array(72).keys()], x => x + 650),
   gen7: Array.from([...Array(88).keys()], x => x + 722),
-  gen8: Array.from([...Array(88).keys()], x => x + 810)
+  gen8: Array.from([...Array(80).keys()], x => x + 810)
 }
 
 
