@@ -5,11 +5,10 @@
       <b-form-checkbox-group
         v-model="chosenGens"
         :state="state"
-        button-variant="primary"
         class="py-2"
       >
-        <b-row>
-          <b-col cols="3" v-for="gen in options" :key="gen.id" class="px-0">
+        <b-row align-h="center">
+          <b-col cols="4" sm="3" v-for="gen in options" :key="gen.id" class="px-0">
             <b-form-checkbox :value="gen.value" :disabled="isDisabled(gen)">
               {{ gen.text }}
             </b-form-checkbox></b-col
@@ -124,7 +123,7 @@ export default {
     },
     *fetchPokemon() {
       this.$refs.pokeguess.$el.focus()
-      this.startTime = Date.now();
+      //this.startTime = Date.now();
 
       this.obf = 1;
       this.guess = "";
@@ -141,7 +140,7 @@ export default {
       this.pokenames = new Set();
       for (let key in responseData["pokenames"])
         this.pokenames.add(responseData["pokenames"][key].toLowerCase());
-      console.log(this.pokenames);
+      //console.log(this.pokenames);
 
       this.filenames = {};
       for (let key in responseData["filenames"]) {
@@ -150,7 +149,7 @@ export default {
 
       while (this.obf < 10) {
         this.obf++;
-        console.log(this.imgSrc);
+        //console.log(this.imgSrc);
 
         if (this.obf < 9) {
           yield new Promise((resolve) => setTimeout(resolve, 2000));
@@ -184,9 +183,6 @@ export default {
     this.fetchPokemon = this.makeSingle(this.fetchPokemon);
     this.fetchPokemon();
   },
-  // mounted() {
-  //  this.$refs.pokeguess.$el.focus()
-  // }
 };
 </script>
 
