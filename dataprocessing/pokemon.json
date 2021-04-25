@@ -12139,7 +12139,7 @@
   },
   "810": {
     "generation": "8",
-    "pokenames": { "name_en": "Grookey", "name_de": "" },
+    "pokenames": { "name_en": "Grookey"},
     "filenames": {
       "filename": "CE9S97Q64R84CC1.png",
       "filename1": "ZMVHRHJDHBF8HFR.png",
@@ -12154,7 +12154,7 @@
   },
   "811": {
     "generation": "8",
-    "pokenames": { "name_en": "Thwackey", "name_de": "" },
+    "pokenames": { "name_en": "Thwackey"},
     "filenames": {
       "filename": "TO9DXMDSSWZ8ZCB.png",
       "filename1": "BYKFXY8QBTX7UZM.png",
@@ -12169,7 +12169,7 @@
   },
   "812": {
     "generation": "8",
-    "pokenames": { "name_en": "Rillaboom", "name_de": "" },
+    "pokenames": { "name_en": "Rillaboom"},
     "filenames": {
       "filename": "70QOKTUHIJT9219.png",
       "filename1": "JLQNOKG7ABT3KT1.png",
@@ -12184,7 +12184,7 @@
   },
   "813": {
     "generation": "8",
-    "pokenames": { "name_en": "Scorbunny", "name_de": "" },
+    "pokenames": { "name_en": "Scorbunny"},
     "filenames": {
       "filename": "VY0VZU8RP5STH5Q.png",
       "filename1": "OP0O3CH75347US2.png",
@@ -12199,7 +12199,7 @@
   },
   "814": {
     "generation": "8",
-    "pokenames": { "name_en": "Raboot", "name_de": "" },
+    "pokenames": { "name_en": "Raboot"},
     "filenames": {
       "filename": "KJBXRWXMWTNSLOU.png",
       "filename1": "PHBYT0T1410ECI0.png",
@@ -12214,7 +12214,7 @@
   },
   "815": {
     "generation": "8",
-    "pokenames": { "name_en": "Cinderace", "name_de": "" },
+    "pokenames": { "name_en": "Cinderace"},
     "filenames": {
       "filename": "LOT1QUJAMTBCT4Q.png",
       "filename1": "8FL69MLUTBDM0V6.png",
@@ -12229,7 +12229,7 @@
   },
   "816": {
     "generation": "8",
-    "pokenames": { "name_en": "Sobble", "name_de": "" },
+    "pokenames": { "name_en": "Sobble"},
     "filenames": {
       "filename": "10LM2ULJ19QBBU1.png",
       "filename1": "NSP36VF5O5LV73R.png",
@@ -12244,7 +12244,7 @@
   },
   "817": {
     "generation": "8",
-    "pokenames": { "name_en": "Drizzile", "name_de": "" },
+    "pokenames": { "name_en": "Drizzile"},
     "filenames": {
       "filename": "GPYL179XGJX08DP.png",
       "filename1": "I1Q3Q6DYZFDYN79.png",
@@ -12259,7 +12259,7 @@
   },
   "818": {
     "generation": "8",
-    "pokenames": { "name_en": "Inteleon", "name_de": "" },
+    "pokenames": { "name_en": "Inteleon"},
     "filenames": {
       "filename": "J5IFLN4CJT0MVFX.png",
       "filename1": "7YINIMU7JOSO0SR.png",
@@ -12274,7 +12274,7 @@
   },
   "819": {
     "generation": "8",
-    "pokenames": { "name_en": "Skwovet", "name_de": "" },
+    "pokenames": { "name_en": "Skwovet"},
     "filenames": {
       "filename": "KVBGMDCGD53HXM9.png",
       "filename1": "BMOIOGVEHLFD14U.png",
@@ -12289,7 +12289,7 @@
   },
   "820": {
     "generation": "8",
-    "pokenames": { "name_en": "Greedent", "name_de": "" },
+    "pokenames": { "name_en": "Greedent"},
     "filenames": {
       "filename": "80E79GBBNCBQU03.png",
       "filename1": "F9EZPW0HGHNFCFP.png",
@@ -12304,7 +12304,7 @@
   },
   "821": {
     "generation": "8",
-    "pokenames": { "name_en": "Rookidee", "name_de": "" },
+    "pokenames": { "name_en": "Rookidee"},
     "filenames": {
       "filename": "8JI7OQP98A0VSF9.png",
       "filename1": "2LE4IKVRTZNT8ZR.png",
@@ -12319,7 +12319,7 @@
   },
   "822": {
     "generation": "8",
-    "pokenames": { "name_en": "Corvisquire", "name_de": "" },
+    "pokenames": { "name_en": "Corvisquire"},
     "filenames": {
       "filename": "RV6B03ZJX3B9K6Z.png",
       "filename1": "UM5WW65PE4EB15B.png",
@@ -12334,7 +12334,7 @@
   },
   "823": {
     "generation": "8",
-    "pokenames": { "name_en": "Corviknight", "name_de": "" },
+    "pokenames": { "name_en": "Corviknight"},
     "filenames": {
       "filename": "QVN04WWZ9TRW25X.png",
       "filename1": "33VYOHK6OXI0X9I.png",
@@ -12349,7 +12349,7 @@
   },
   "824": {
     "generation": "8",
-    "pokenames": { "name_en": "Blipbug", "name_de": "" },
+    "pokenames": { "name_en": "Blipbug"},
     "filenames": {
       "filename": "10L1LEE1W79718E.png",
       "filename1": "MMV8WYFPN90C95C.png",
@@ -12364,7 +12364,7 @@
   },
   "825": {
     "generation": "8",
-    "pokenames": { "name_en": "Dottler", "name_de": "" },
+    "pokenames": { "name_en": "Dottler"},
     "filenames": {
       "filename": "I2STWZAA7ZCEHNV.png",
       "filename1": "VWDJG2B93GPBT7H.png",
@@ -12379,7 +12379,7 @@
   },
   "826": {
     "generation": "8",
-    "pokenames": { "name_en": "Orbeetle", "name_de": "" },
+    "pokenames": { "name_en": "Orbeetle"},
     "filenames": {
       "filename": "AOB19MBID09X90E.png",
       "filename1": "WCL8HZ73G5X9F72.png",
@@ -12394,7 +12394,7 @@
   },
   "827": {
     "generation": "8",
-    "pokenames": { "name_en": "Nickit", "name_de": "" },
+    "pokenames": { "name_en": "Nickit"},
     "filenames": {
       "filename": "7KADOOGV92J99I1.png",
       "filename1": "V95GTI6V2E9BBBS.png",
@@ -12409,7 +12409,7 @@
   },
   "828": {
     "generation": "8",
-    "pokenames": { "name_en": "Thievul", "name_de": "" },
+    "pokenames": { "name_en": "Thievul"},
     "filenames": {
       "filename": "M06I3U34Z6LXNE3.png",
       "filename1": "MTYRIXKQQT758FI.png",
@@ -12424,7 +12424,7 @@
   },
   "829": {
     "generation": "8",
-    "pokenames": { "name_en": "Gossifleur", "name_de": "" },
+    "pokenames": { "name_en": "Gossifleur"},
     "filenames": {
       "filename": "9AW9UJUFXM9D9AR.png",
       "filename1": "MY95YST0SJE0MQ4.png",
@@ -12439,7 +12439,7 @@
   },
   "830": {
     "generation": "8",
-    "pokenames": { "name_en": "Eldegoss", "name_de": "" },
+    "pokenames": { "name_en": "Eldegoss"},
     "filenames": {
       "filename": "F2EQ8SHDABORVHO.png",
       "filename1": "LEON03WI23FS8ZZ.png",
@@ -12454,7 +12454,7 @@
   },
   "831": {
     "generation": "8",
-    "pokenames": { "name_en": "Wooloo", "name_de": "" },
+    "pokenames": { "name_en": "Wooloo"},
     "filenames": {
       "filename": "ISAZDETABH3XIEG.png",
       "filename1": "AHC5I8JAPX3EA8W.png",
@@ -12469,7 +12469,7 @@
   },
   "832": {
     "generation": "8",
-    "pokenames": { "name_en": "Dubwool", "name_de": "" },
+    "pokenames": { "name_en": "Dubwool"},
     "filenames": {
       "filename": "RRXYTBGZW8W699A.png",
       "filename1": "7J7S8UI8UHB3IHK.png",
@@ -12484,7 +12484,7 @@
   },
   "833": {
     "generation": "8",
-    "pokenames": { "name_en": "Chewtle", "name_de": "" },
+    "pokenames": { "name_en": "Chewtle"},
     "filenames": {
       "filename": "EZOBRBOU3YQRZFB.png",
       "filename1": "75857T0ILUN7J59.png",
@@ -12499,7 +12499,7 @@
   },
   "834": {
     "generation": "8",
-    "pokenames": { "name_en": "Drednaw", "name_de": "" },
+    "pokenames": { "name_en": "Drednaw"},
     "filenames": {
       "filename": "L9YKG5FFWDBUH74.png",
       "filename1": "YP4PDURL21QQLIL.png",
@@ -12514,7 +12514,7 @@
   },
   "835": {
     "generation": "8",
-    "pokenames": { "name_en": "Yamper", "name_de": "" },
+    "pokenames": { "name_en": "Yamper"},
     "filenames": {
       "filename": "CGGR0K02Z775WYU.png",
       "filename1": "U8KVV57TTFR7MP6.png",
@@ -12529,7 +12529,7 @@
   },
   "836": {
     "generation": "8",
-    "pokenames": { "name_en": "Boltund", "name_de": "" },
+    "pokenames": { "name_en": "Boltund"},
     "filenames": {
       "filename": "2G5IQF26NVPVSMD.png",
       "filename1": "0NCHFDJVKBPRBZO.png",
@@ -12544,7 +12544,7 @@
   },
   "837": {
     "generation": "8",
-    "pokenames": { "name_en": "Rolycoly", "name_de": "" },
+    "pokenames": { "name_en": "Rolycoly"},
     "filenames": {
       "filename": "S0QVRRMBUUX7P2A.png",
       "filename1": "Y62RZKEPA1L46J7.png",
@@ -12559,7 +12559,7 @@
   },
   "838": {
     "generation": "8",
-    "pokenames": { "name_en": "Carkol", "name_de": "" },
+    "pokenames": { "name_en": "Carkol"},
     "filenames": {
       "filename": "647OU2C4RQGDH14.png",
       "filename1": "SGCJ324UM1D2Q6W.png",
@@ -12574,7 +12574,7 @@
   },
   "839": {
     "generation": "8",
-    "pokenames": { "name_en": "Coalossal", "name_de": "" },
+    "pokenames": { "name_en": "Coalossal"},
     "filenames": {
       "filename": "VCP2HT0O7LE73BB.png",
       "filename1": "HNV631F5JG7JMOW.png",
@@ -12589,7 +12589,7 @@
   },
   "840": {
     "generation": "8",
-    "pokenames": { "name_en": "Applin", "name_de": "" },
+    "pokenames": { "name_en": "Applin"},
     "filenames": {
       "filename": "NGP41KLF7OS4ZGX.png",
       "filename1": "XUO5CST3F1A35XD.png",
@@ -12604,7 +12604,7 @@
   },
   "841": {
     "generation": "8",
-    "pokenames": { "name_en": "Flapple", "name_de": "" },
+    "pokenames": { "name_en": "Flapple"},
     "filenames": {
       "filename": "ZX6CEIK0EY7PTCQ.png",
       "filename1": "8KX2V3XTIYPDL4D.png",
@@ -12619,7 +12619,7 @@
   },
   "842": {
     "generation": "8",
-    "pokenames": { "name_en": "Appletun", "name_de": "" },
+    "pokenames": { "name_en": "Appletun"},
     "filenames": {
       "filename": "SOUEGP6B9BR4D8R.png",
       "filename1": "SK4XJ5HVDTL5W51.png",
@@ -12634,7 +12634,7 @@
   },
   "843": {
     "generation": "8",
-    "pokenames": { "name_en": "Silicobra", "name_de": "" },
+    "pokenames": { "name_en": "Silicobra"},
     "filenames": {
       "filename": "ULNG48OYG91VX8P.png",
       "filename1": "5RGNPV6MV1EVXAN.png",
@@ -12649,7 +12649,7 @@
   },
   "844": {
     "generation": "8",
-    "pokenames": { "name_en": "Sandaconda", "name_de": "" },
+    "pokenames": { "name_en": "Sandaconda"},
     "filenames": {
       "filename": "ASI5NQPQFO4V465.png",
       "filename1": "V6UZZDIF9OZE10B.png",
@@ -12664,7 +12664,7 @@
   },
   "845": {
     "generation": "8",
-    "pokenames": { "name_en": "Cramorant", "name_de": "" },
+    "pokenames": { "name_en": "Cramorant"},
     "filenames": {
       "filename": "1TH1088TPHF2ELP.png",
       "filename1": "RGYCNPIPCDC8RRJ.png",
@@ -12679,7 +12679,7 @@
   },
   "846": {
     "generation": "8",
-    "pokenames": { "name_en": "Arrokuda", "name_de": "" },
+    "pokenames": { "name_en": "Arrokuda"},
     "filenames": {
       "filename": "UASTZSZ0B9JNDGH.png",
       "filename1": "EI75XIZRBGQ0XAE.png",
@@ -12694,7 +12694,7 @@
   },
   "847": {
     "generation": "8",
-    "pokenames": { "name_en": "Barraskewda", "name_de": "" },
+    "pokenames": { "name_en": "Barraskewda"},
     "filenames": {
       "filename": "UZAPW44Q6CH4QQJ.png",
       "filename1": "LZTGJIJL1EBPKN5.png",
@@ -12709,7 +12709,7 @@
   },
   "848": {
     "generation": "8",
-    "pokenames": { "name_en": "Toxel", "name_de": "" },
+    "pokenames": { "name_en": "Toxel"},
     "filenames": {
       "filename": "4ZHDKEWA8MIKKQA.png",
       "filename1": "EIFBEFOA4BLQI10.png",
@@ -12724,7 +12724,7 @@
   },
   "849": {
     "generation": "8",
-    "pokenames": { "name_en": "Toxtricity", "name_de": "" },
+    "pokenames": { "name_en": "Toxtricity"},
     "filenames": {
       "filename": "IEWV3OOQQAKT3YJ.png",
       "filename1": "N2S93ILZ2NXE9UA.png",
@@ -12739,7 +12739,7 @@
   },
   "850": {
     "generation": "8",
-    "pokenames": { "name_en": "Sizzlipede", "name_de": "" },
+    "pokenames": { "name_en": "Sizzlipede"},
     "filenames": {
       "filename": "SJEB3DOPGDR092G.png",
       "filename1": "HT5LCPB5I3SSG02.png",
@@ -12754,7 +12754,7 @@
   },
   "851": {
     "generation": "8",
-    "pokenames": { "name_en": "Centiskorch", "name_de": "" },
+    "pokenames": { "name_en": "Centiskorch"},
     "filenames": {
       "filename": "60E81D1A21DR0ET.png",
       "filename1": "5PVRWTR6RWTJVXG.png",
@@ -12769,7 +12769,7 @@
   },
   "852": {
     "generation": "8",
-    "pokenames": { "name_en": "Clobbopus", "name_de": "" },
+    "pokenames": { "name_en": "Clobbopus"},
     "filenames": {
       "filename": "42WZMYH7C7P3LB2.png",
       "filename1": "BDXO46AYWE8P3CN.png",
@@ -12784,7 +12784,7 @@
   },
   "853": {
     "generation": "8",
-    "pokenames": { "name_en": "Grapploct", "name_de": "" },
+    "pokenames": { "name_en": "Grapploct"},
     "filenames": {
       "filename": "3ASNJB5SP93T4OR.png",
       "filename1": "UDKGPO9QYY10DV0.png",
@@ -12799,7 +12799,7 @@
   },
   "854": {
     "generation": "8",
-    "pokenames": { "name_en": "Sinistea", "name_de": "" },
+    "pokenames": { "name_en": "Sinistea"},
     "filenames": {
       "filename": "N02N35J55JQ5X1L.png",
       "filename1": "EG7R1Q1QQYTIW77.png",
@@ -12814,7 +12814,7 @@
   },
   "855": {
     "generation": "8",
-    "pokenames": { "name_en": "Polteageist", "name_de": "" },
+    "pokenames": { "name_en": "Polteageist"},
     "filenames": {
       "filename": "U5421VHT8TBGVVY.png",
       "filename1": "E4Q4XHYO397OPWY.png",
@@ -12829,7 +12829,7 @@
   },
   "856": {
     "generation": "8",
-    "pokenames": { "name_en": "Hatenna", "name_de": "" },
+    "pokenames": { "name_en": "Hatenna"},
     "filenames": {
       "filename": "16SV9U2R7RMAK70.png",
       "filename1": "PI9URVGCCOWF7IT.png",
@@ -12844,7 +12844,7 @@
   },
   "857": {
     "generation": "8",
-    "pokenames": { "name_en": "Hattrem", "name_de": "" },
+    "pokenames": { "name_en": "Hattrem"},
     "filenames": {
       "filename": "KFVEWV8BLJ6ZQZH.png",
       "filename1": "ASS1AFDL1QOGI68.png",
@@ -12859,7 +12859,7 @@
   },
   "858": {
     "generation": "8",
-    "pokenames": { "name_en": "Hatterene", "name_de": "" },
+    "pokenames": { "name_en": "Hatterene"},
     "filenames": {
       "filename": "CHO2GKRJBJRU7ZB.png",
       "filename1": "1UZNB83MQ7L8P7Z.png",
@@ -12874,7 +12874,7 @@
   },
   "859": {
     "generation": "8",
-    "pokenames": { "name_en": "Impidimp", "name_de": "" },
+    "pokenames": { "name_en": "Impidimp"},
     "filenames": {
       "filename": "ZCOIFT5UGUNBACE.png",
       "filename1": "2Q4SUSYZBHH7SZK.png",
@@ -12889,7 +12889,7 @@
   },
   "860": {
     "generation": "8",
-    "pokenames": { "name_en": "Morgrem", "name_de": "" },
+    "pokenames": { "name_en": "Morgrem"},
     "filenames": {
       "filename": "7MDCE809HS4SNA1.png",
       "filename1": "888S72JVMQWNDDG.png",
@@ -12904,7 +12904,7 @@
   },
   "861": {
     "generation": "8",
-    "pokenames": { "name_en": "Grimmsnarl", "name_de": "" },
+    "pokenames": { "name_en": "Grimmsnarl"},
     "filenames": {
       "filename": "WSR598I6QRCYPT1.png",
       "filename1": "P1A5CYI5RYUVSUB.png",
@@ -12919,7 +12919,7 @@
   },
   "862": {
     "generation": "8",
-    "pokenames": { "name_en": "Obstagoon", "name_de": "" },
+    "pokenames": { "name_en": "Obstagoon"},
     "filenames": {
       "filename": "8LK41MG1VRQX2GQ.png",
       "filename1": "3RZ5EB2ZI06M8OI.png",
@@ -12934,7 +12934,7 @@
   },
   "863": {
     "generation": "8",
-    "pokenames": { "name_en": "Perrserker", "name_de": "" },
+    "pokenames": { "name_en": "Perrserker"},
     "filenames": {
       "filename": "4041QL4H2FOIFS8.png",
       "filename1": "LE3YM2W8IKJ13ZX.png",
@@ -12949,7 +12949,7 @@
   },
   "864": {
     "generation": "8",
-    "pokenames": { "name_en": "Cursola", "name_de": "" },
+    "pokenames": { "name_en": "Cursola"},
     "filenames": {
       "filename": "D556QK8XBLKSRL8.png",
       "filename1": "X846TEN3HZYQN1R.png",
@@ -12964,7 +12964,7 @@
   },
   "865": {
     "generation": "8",
-    "pokenames": { "name_en": "Sirfetch'd", "name_de": "" },
+    "pokenames": { "name_en": "Sirfetch'd"},
     "filenames": {
       "filename": "YMJ3XBYHWNP6RZ2.png",
       "filename1": "1ACOF07LDQBN4GB.png",
@@ -12979,7 +12979,7 @@
   },
   "866": {
     "generation": "8",
-    "pokenames": { "name_en": "Mr. Rime", "name_de": "" },
+    "pokenames": { "name_en": "Mr. Rime"},
     "filenames": {
       "filename": "6FVTBLEHTIQL1J8.png",
       "filename1": "A22VW2YUQLAR9TV.png",
@@ -12994,7 +12994,7 @@
   },
   "867": {
     "generation": "8",
-    "pokenames": { "name_en": "Runerigus", "name_de": "" },
+    "pokenames": { "name_en": "Runerigus"},
     "filenames": {
       "filename": "Z3VDVWIV0PSWUGA.png",
       "filename1": "FOJZ15R4QNM4TXT.png",
@@ -13009,7 +13009,7 @@
   },
   "868": {
     "generation": "8",
-    "pokenames": { "name_en": "Milcery", "name_de": "" },
+    "pokenames": { "name_en": "Milcery"},
     "filenames": {
       "filename": "EDSY7SETMKRIKC9.png",
       "filename1": "Z6BAAGY8KIITKK0.png",
@@ -13024,7 +13024,7 @@
   },
   "869": {
     "generation": "8",
-    "pokenames": { "name_en": "Alcremie", "name_de": "" },
+    "pokenames": { "name_en": "Alcremie"},
     "filenames": {
       "filename": "EGORF0CFBDH8F42.png",
       "filename1": "HGTPYAQM6Q2CX4J.png",
@@ -13039,7 +13039,7 @@
   },
   "870": {
     "generation": "8",
-    "pokenames": { "name_en": "Falinks", "name_de": "" },
+    "pokenames": { "name_en": "Falinks"},
     "filenames": {
       "filename": "QS7O6VDY1AH0FDU.png",
       "filename1": "FOPDLI3WR3IT9QZ.png",
@@ -13054,7 +13054,7 @@
   },
   "871": {
     "generation": "8",
-    "pokenames": { "name_en": "Pincurchin", "name_de": "" },
+    "pokenames": { "name_en": "Pincurchin"},
     "filenames": {
       "filename": "YHTTINB3GGTJBYD.png",
       "filename1": "20VKH8ZAJCGKJA4.png",
@@ -13069,7 +13069,7 @@
   },
   "872": {
     "generation": "8",
-    "pokenames": { "name_en": "Snom", "name_de": "" },
+    "pokenames": { "name_en": "Snom"},
     "filenames": {
       "filename": "INE8MHHVY0Y9R07.png",
       "filename1": "9L6PGPBLI3FZ95Y.png",
@@ -13084,7 +13084,7 @@
   },
   "873": {
     "generation": "8",
-    "pokenames": { "name_en": "Frosmoth", "name_de": "" },
+    "pokenames": { "name_en": "Frosmoth"},
     "filenames": {
       "filename": "TY7YCLDLOK3DA43.png",
       "filename1": "8MC35YZIR8F4ALI.png",
@@ -13099,7 +13099,7 @@
   },
   "874": {
     "generation": "8",
-    "pokenames": { "name_en": "Stonjourner", "name_de": "" },
+    "pokenames": { "name_en": "Stonjourner"},
     "filenames": {
       "filename": "3ZFDWS2EB0IYYNG.png",
       "filename1": "BAJSPMEVORY5ZQJ.png",
@@ -13114,7 +13114,7 @@
   },
   "875": {
     "generation": "8",
-    "pokenames": { "name_en": "Eiscue", "name_de": "" },
+    "pokenames": { "name_en": "Eiscue"},
     "filenames": {
       "filename": "KQLNT9IF9OHYBBE.png",
       "filename1": "1SGSM2EON3B0S9Y.png",
@@ -13129,7 +13129,7 @@
   },
   "876": {
     "generation": "8",
-    "pokenames": { "name_en": "Indeedee", "name_de": "" },
+    "pokenames": { "name_en": "Indeedee"},
     "filenames": {
       "filename": "AOSTZ2UY7XKWL2D.png",
       "filename1": "8A2HMGIB7WTTE5F.png",
@@ -13144,7 +13144,7 @@
   },
   "877": {
     "generation": "8",
-    "pokenames": { "name_en": "Cufant", "name_de": "" },
+    "pokenames": { "name_en": "Cufant"},
     "filenames": {
       "filename": "HMQJKY49K9ODR8N.png",
       "filename1": "CF9YFKDXXI46ZK4.png",
@@ -13159,7 +13159,7 @@
   },
   "878": {
     "generation": "8",
-    "pokenames": { "name_en": "Copperajah", "name_de": "" },
+    "pokenames": { "name_en": "Copperajah"},
     "filenames": {
       "filename": "VU53ZCDHG8ZDEOA.png",
       "filename1": "XKRXS6PI23KGFND.png",
@@ -13174,7 +13174,7 @@
   },
   "879": {
     "generation": "8",
-    "pokenames": { "name_en": "Dracozolt", "name_de": "" },
+    "pokenames": { "name_en": "Dracozolt"},
     "filenames": {
       "filename": "PHTE1HGYHYFCOKV.png",
       "filename1": "SMSCANIVV47U8WU.png",
@@ -13189,7 +13189,7 @@
   },
   "880": {
     "generation": "8",
-    "pokenames": { "name_en": "Arctozolt", "name_de": "" },
+    "pokenames": { "name_en": "Arctozolt"},
     "filenames": {
       "filename": "GD0PSBQIH3DUURF.png",
       "filename1": "ONPSR3Z4K1T2X6F.png",
@@ -13204,7 +13204,7 @@
   },
   "881": {
     "generation": "8",
-    "pokenames": { "name_en": "Dracovish", "name_de": "" },
+    "pokenames": { "name_en": "Dracovish"},
     "filenames": {
       "filename": "8S4HEFZ3CBR17KF.png",
       "filename1": "DWLFTEGYVZQQC54.png",
@@ -13219,7 +13219,7 @@
   },
   "882": {
     "generation": "8",
-    "pokenames": { "name_en": "Arctovish", "name_de": "" },
+    "pokenames": { "name_en": "Arctovish"},
     "filenames": {
       "filename": "HTDLZI7K0MC50QA.png",
       "filename1": "QK4OM9HH16JY2DD.png",
@@ -13234,7 +13234,7 @@
   },
   "883": {
     "generation": "8",
-    "pokenames": { "name_en": "Duraludon", "name_de": "" },
+    "pokenames": { "name_en": "Duraludon"},
     "filenames": {
       "filename": "S0221JW75DSG2IA.png",
       "filename1": "IQUNZZIK20MDKPX.png",
@@ -13249,7 +13249,7 @@
   },
   "884": {
     "generation": "8",
-    "pokenames": { "name_en": "Dreepy", "name_de": "" },
+    "pokenames": { "name_en": "Dreepy"},
     "filenames": {
       "filename": "Y2AHPG8BVYZLD67.png",
       "filename1": "0V8DQIWPAC37TUT.png",
@@ -13264,7 +13264,7 @@
   },
   "885": {
     "generation": "8",
-    "pokenames": { "name_en": "Drakloak", "name_de": "" },
+    "pokenames": { "name_en": "Drakloak"},
     "filenames": {
       "filename": "4SYPT3BG550EDXO.png",
       "filename1": "QPYFE3RZ5CAQFFA.png",
@@ -13279,7 +13279,7 @@
   },
   "886": {
     "generation": "8",
-    "pokenames": { "name_en": "Dragapult", "name_de": "" },
+    "pokenames": { "name_en": "Dragapult"},
     "filenames": {
       "filename": "XGSRCMH74GHDPCO.png",
       "filename1": "L5HUPR86IIM34MH.png",
@@ -13294,7 +13294,7 @@
   },
   "887": {
     "generation": "8",
-    "pokenames": { "name_en": "Zacian", "name_de": "" },
+    "pokenames": { "name_en": "Zacian"},
     "filenames": {
       "filename": "R4NM2P0VTA9HC8S.png",
       "filename1": "0BKGGDW2X00KDS1.png",
@@ -13309,7 +13309,7 @@
   },
   "888": {
     "generation": "8",
-    "pokenames": { "name_en": "Zamazenta Crowned Shield", "name_de": "" },
+    "pokenames": { "name_en": "Zamazenta Crowned Shield"},
     "filenames": {
       "filename": "XBDUOVVXAE3N6XZ.png",
       "filename1": "VJZ7NL9MBLV0BSE.png",
@@ -13324,7 +13324,7 @@
   },
   "889": {
     "generation": "8",
-    "pokenames": { "name_en": "Zamazenta Hero of Many Battles", "name_de": "" },
+    "pokenames": { "name_en": "Zamazenta Hero of Many Battles"},
     "filenames": {
       "filename": "Q8P54IN00MJNBKR.png",
       "filename1": "LX9DWVKDDGIG8PR.png",
@@ -13339,7 +13339,7 @@
   },
   "890": {
     "generation": "8",
-    "pokenames": { "name_en": "Eternatus", "name_de": "" },
+    "pokenames": { "name_en": "Eternatus"},
     "filenames": {
       "filename": "VS1UIUSRWTKTYHM.png",
       "filename1": "CSKW2K3JPPLK1U8.png",
